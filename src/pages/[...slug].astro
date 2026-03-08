@@ -3,6 +3,9 @@ import { getCollection } from 'astro:content';
 import GuideLayout from '../layouts/GuideLayout.astro';
 import ToolLayout from '../layouts/ToolLayout.astro';
 import ListLayout from '../layouts/ListLayout.astro';
+import TopListLayout from '../layouts/TopListLayout.astro';
+import TownLayout from '../layouts/TownLayout.astro';
+import HubLayout from '../layouts/HubLayout.astro';
 
 export async function getStaticPaths() {
   const pages = await getCollection('pages');
@@ -17,6 +20,9 @@ const layouts: Record<string, any> = {
   guide: GuideLayout,
   tool: ToolLayout,
   list: ListLayout,
+  'top-list': TopListLayout,
+  town: TownLayout,
+  hub: HubLayout,
 };
 const Layout = layouts[page.pageType] || GuideLayout;
 ---
