@@ -7,6 +7,37 @@ const topLists = pages.filter(p => p.data.pageType === 'top-list');
 const towns = pages.filter(p => p.data.pageType === 'town');
 const guides = pages.filter(p => p.data.pageType === 'guide');
 
+// Charlevoix-specific content
+const charlevoixPages = pages.filter(p => (p.data.slug || '').includes('charlevoix'));
+const charlevoixTopLists = topLists.filter(p => (p.data.slug || '').includes('charlevoix'));
+const charlevoixTowns = towns.filter(p => (p.data.slug || '').includes('charlevoix'));
+const charlevoixGuides = guides.filter(p => (p.data.slug || '').includes('charlevoix'));
+
+// Featured categories for Charlevoix
+const categories = [
+  { emoji: "🏔️", label: "Randonnée & Nature", keywords: ["randonnee", "parc", "sentier", "nature", "montagne", "kayak", "canot", "canyoning", "ski", "raquette", "chute", "fjord", "observation"] },
+  { emoji: "🍷", label: "Terroir & Saveurs", keywords: ["fromage", "cidrerie", "ferme", "boulangerie", "restaurant", "microbrasserie", "terroir", "saveur", "gastronomie", "artisan", "miel", "chocolat", "vin", "alcool", "biere"] },
+  { emoji: "🏨", label: "Hébergement", keywords: ["auberge", "hotel", "chalet", "gite", "camping", "glamping", "domaine", "fairmont", "massif"] },
+  { emoji: "🎭", label: "Culture & Activités", keywords: ["musee", "galerie", "casino", "croisiere", "train", "festival", "art", "forget", "spectacle", "eglise", "patrimoine", "accessible", "famille", "photo", "coucher"] },
+];
+
+function categorize(page: any) {
+  const slug = (page.data.slug || '').toLowerCase();
+  const title = (page.data.h1 || page.data.title || '').toLowerCase();
+  const combined = slug + ' ' + title;
+  for (const cat of categories) {
+    if (cat.keywords.some(k => combined.includes(k))) return cat.label;
+  }
+  return "Découvertes";
+}
+
+const charlevoixByCategory: Record<string, any[]> = {};
+for (const p of charlevoixGuides) {
+  const cat = categorize(p);
+  if (!charlevoixByCategory[cat]) charlevoixByCategory[cat] = [];
+  charlevoixByCategory[cat].push(p);
+}
+
 function cleanTitle(raw: string): string {
   return raw
     .replace(/<br\s*\/?>/gi, ' ')
@@ -24,35 +55,145 @@ function cleanTitle(raw: string): string {
 <head>
   <BaseHead
     title="On va tu jouer dehors — Guides touristiques & plein air au Québec"
-    description="Guides touristiques, activités plein air, randonnée, aventures et découvertes au Québec. Charlevoix et au-delà."
+    description="Guides touristiques, activités plein air, randonnée, aventures et découvertes au Québec. Charlevoix, hébergement, terroir, nature et plus encore."
     ogTitle="On va tu jouer dehors"
-    ogDescription="Guides touristiques & plein air au Québec"
+    ogDescription="Guides touristiques & plein air au Québec — Charlevoix et au-delà"
   />
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { font-family: 'Inter', -apple-system, sans-serif; background: #fafaf5; color: #1a1a1a; line-height: 1.7; }
+
+    /* Hero */
     .hero { background: linear-gradient(135deg, #2D5016 0%, #4A8C2A 100%); color: #fff; padding: 80px 24px 64px; text-align: center; }
-    .hero h1 { font-size: 2.8rem; font-weight: 800; margin-bottom: 12px; }
+    .hero h1 { font-size: 2.8rem; font-weight: 900; margin-bottom: 12px; letter-spacing: -1px; }
     .hero p { font-size: 1.1rem; opacity: 0.85; max-width: 540px; margin: 0 auto; }
-    .container { max-width: 900px; margin: 0 auto; padding: 48px 24px 80px; }
-    .section-title { font-size: 1.3rem; font-weight: 700; color: #2D5016; margin-bottom: 16px; margin-top: 40px; }
-    .section-title:first-child { margin-top: 0; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
-    .card { background: #fff; border-radius: 12px; padding: 20px 18px; border: 1px solid rgba(0,0,0,0.05); box-shadow: 0 1px 4px rgba(0,0,0,0.04); text-decoration: none; color: inherit; transition: transform 0.15s, box-shadow 0.15s; display: block; }
-    .card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
-    .card h3 { font-size: 0.95rem; font-weight: 600; color: #2D5016; margin-bottom: 4px; }
-    .card p { font-size: 0.82rem; color: #888; line-height: 1.5; }
-    .stats { display: flex; gap: 32px; justify-content: center; padding: 28px; }
+    .stats { display: flex; gap: 32px; justify-content: center; padding: 28px; background: #fff; border-bottom: 1px solid #eee; }
     .stat { text-align: center; }
     .stat .num { font-size: 2rem; font-weight: 800; color: #2D5016; }
-    .stat .label { font-size: 0.75rem; color: #888; text-transform: uppercase; letter-spacing: 0.5px; }
-    .footer { text-align: center; padding: 40px 24px; font-size: 0.8rem; color: #aaa; border-top: 1px solid #eee; }
+    .stat .label { font-size: 0.72rem; color: #999; text-transform: uppercase; letter-spacing: 0.5px; }
+
+    /* Charlevoix Feature Block */
+    .charlevoix-feature {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 48px 24px 0;
+    }
+    .charlevoix-hero {
+      background: linear-gradient(135deg, #1a3a0e 0%, #2D5016 50%, #3d6820 100%);
+      border-radius: 24px;
+      padding: 48px 40px;
+      color: #fff;
+      text-align: center;
+      margin-bottom: 32px;
+      position: relative;
+      overflow: hidden;
+    }
+    .charlevoix-hero::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+      opacity: 0.5;
+    }
+    .charlevoix-hero > * { position: relative; z-index: 1; }
+    .charlevoix-hero h2 { font-size: 2.2rem; font-weight: 900; margin-bottom: 8px; letter-spacing: -0.5px; }
+    .charlevoix-hero .region-tag { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 3px; opacity: 0.6; margin-bottom: 16px; }
+    .charlevoix-hero .region-desc { font-size: 1rem; opacity: 0.8; max-width: 480px; margin: 0 auto 20px; line-height: 1.7; }
+    .charlevoix-stats { display: flex; gap: 32px; justify-content: center; margin-top: 20px; }
+    .charlevoix-stats .cs { text-align: center; }
+    .charlevoix-stats .cs .n { font-size: 1.6rem; font-weight: 800; }
+    .charlevoix-stats .cs .l { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.5px; opacity: 0.6; }
+
+    /* Category blocks */
+    .cat-section { margin-bottom: 28px; }
+    .cat-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 14px;
+    }
+    .cat-emoji { font-size: 1.4rem; }
+    .cat-label { font-size: 1.15rem; font-weight: 700; color: #2D5016; }
+    .cat-count { font-size: 0.75rem; color: #999; font-weight: 500; margin-left: 4px; }
+
+    /* Cards */
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 18px 16px;
+      border: 1px solid rgba(0,0,0,0.05);
+      box-shadow: 0 1px 4px rgba(0,0,0,0.03);
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.15s, box-shadow 0.15s;
+      display: block;
+    }
+    .card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+    .card h3 { font-size: 0.9rem; font-weight: 600; color: #2D5016; }
+
+    /* Top 10 special cards */
+    .top10-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
+    .top10-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 20px 18px;
+      border: 2px solid #2D5016;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.15s, box-shadow 0.15s;
+      display: block;
+    }
+    .top10-card:hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(45,80,22,0.12); }
+    .top10-card h3 { font-size: 0.95rem; font-weight: 700; color: #2D5016; }
+    .top10-badge {
+      display: inline-block;
+      background: #2D5016;
+      color: #fff;
+      font-size: 0.62rem;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 8px;
+    }
+
+    /* Towns */
+    .towns-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; }
+    .town-card {
+      background: #fff;
+      border-radius: 10px;
+      padding: 16px;
+      border: 1px solid rgba(0,0,0,0.05);
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.15s;
+      display: block;
+      text-align: center;
+    }
+    .town-card:hover { transform: translateY(-2px); }
+    .town-card h3 { font-size: 0.88rem; font-weight: 600; color: #2D5016; }
+
+    /* Section dividers */
+    .section-divider {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 40px 24px 0;
+    }
+    .section-title { font-size: 1.3rem; font-weight: 700; color: #2D5016; margin-bottom: 16px; }
+
+    .footer { text-align: center; padding: 40px 24px; font-size: 0.8rem; color: #aaa; border-top: 1px solid #eee; margin-top: 40px; }
     .footer a { color: #2D5016; text-decoration: none; }
+
     @media (max-width: 600px) {
       .hero h1 { font-size: 2rem; }
-      .grid { grid-template-columns: 1fr; }
-      .stats { gap: 20px; }
+      .grid, .top10-grid { grid-template-columns: 1fr; }
+      .towns-grid { grid-template-columns: repeat(2, 1fr); }
+      .stats, .charlevoix-stats { gap: 16px; flex-wrap: wrap; }
+      .charlevoix-hero { padding: 36px 24px; border-radius: 16px; }
+      .charlevoix-hero h2 { font-size: 1.6rem; }
     }
   </style>
 </head>
@@ -66,40 +207,97 @@ function cleanTitle(raw: string): string {
   <div class="stat"><div class="num">{towns.length}</div><div class="label">Villes</div></div>
   <div class="stat"><div class="num">{topLists.length}</div><div class="label">Top 10</div></div>
 </div>
-<div class="container">
-  {topLists.length > 0 && (
-    <>
-      <div class="section-title">🏆 Top 10</div>
-      <div class="grid">
-        {topLists.map(p => (
-          <a class="card" href={`/${p.data.slug}.html`}>
-            <h3>{cleanTitle(p.data.h1 || p.data.title)}</h3>
-          </a>
-        ))}
-      </div>
-    </>
-  )}
-  {towns.length > 0 && (
-    <>
-      <div class="section-title">🏘️ Villes & Villages</div>
-      <div class="grid">
-        {towns.map(p => (
-          <a class="card" href={`/${p.data.slug}.html`}>
-            <h3>{cleanTitle(p.data.h1 || p.data.title)}</h3>
-          </a>
-        ))}
-      </div>
-    </>
-  )}
-  <div class="section-title">📖 Tous les guides</div>
-  <div class="grid">
-    {guides.map(p => (
-      <a class="card" href={`/${p.data.slug}.html`}>
-        <h3>{cleanTitle(p.data.h1 || p.data.title)}</h3>
-      </a>
-    ))}
+
+<!-- ========== CHARLEVOIX FEATURE BLOCK ========== -->
+<div class="charlevoix-feature">
+  <div class="charlevoix-hero">
+    <div class="region-tag">Région vedette</div>
+    <h2>Charlevoix 🏔️</h2>
+    <p class="region-desc">Entre fleuve et montagnes, Charlevoix est un terrain de jeu grandeur nature. Randonnée, terroir, patrimoine — tout est là.</p>
+    <div class="charlevoix-stats">
+      <div class="cs"><div class="n">{charlevoixPages.length}</div><div class="l">Guides</div></div>
+      <div class="cs"><div class="n">{charlevoixTopLists.length}</div><div class="l">Top 10</div></div>
+      <div class="cs"><div class="n">{charlevoixTowns.length}</div><div class="l">Villes</div></div>
+    </div>
   </div>
+
+  <!-- Top 10 lists -->
+  {charlevoixTopLists.length > 0 && (
+    <div class="cat-section">
+      <div class="cat-header">
+        <span class="cat-emoji">🏆</span>
+        <span class="cat-label">Top 10</span>
+        <span class="cat-count">({charlevoixTopLists.length})</span>
+      </div>
+      <div class="top10-grid">
+        {charlevoixTopLists.map(p => (
+          <a class="top10-card" href={`/${p.data.slug}.html`}>
+            <span class="top10-badge">Top 10</span>
+            <h3>{cleanTitle(p.data.h1 || p.data.title)}</h3>
+          </a>
+        ))}
+      </div>
+    </div>
+  )}
+
+  <!-- Towns -->
+  {charlevoixTowns.length > 0 && (
+    <div class="cat-section">
+      <div class="cat-header">
+        <span class="cat-emoji">🏘️</span>
+        <span class="cat-label">Villes & Villages</span>
+        <span class="cat-count">({charlevoixTowns.length})</span>
+      </div>
+      <div class="towns-grid">
+        {charlevoixTowns.map(p => (
+          <a class="town-card" href={`/${p.data.slug}.html`}>
+            <h3>{cleanTitle(p.data.h1 || p.data.title)}</h3>
+          </a>
+        ))}
+      </div>
+    </div>
+  )}
+
+  <!-- Guides by category -->
+  {categories.map(cat => {
+    const items = charlevoixByCategory[cat.label];
+    return items && items.length > 0 ? (
+      <div class="cat-section">
+        <div class="cat-header">
+          <span class="cat-emoji">{cat.emoji}</span>
+          <span class="cat-label">{cat.label}</span>
+          <span class="cat-count">({items.length})</span>
+        </div>
+        <div class="grid">
+          {items.map(p => (
+            <a class="card" href={`/${p.data.slug}.html`}>
+              <h3>{cleanTitle(p.data.h1 || p.data.title)}</h3>
+            </a>
+          ))}
+        </div>
+      </div>
+    ) : null;
+  })}
+
+  <!-- Uncategorized Charlevoix guides -->
+  {charlevoixByCategory["Découvertes"] && charlevoixByCategory["Découvertes"].length > 0 && (
+    <div class="cat-section">
+      <div class="cat-header">
+        <span class="cat-emoji">✨</span>
+        <span class="cat-label">Découvertes</span>
+        <span class="cat-count">({charlevoixByCategory["Découvertes"].length})</span>
+      </div>
+      <div class="grid">
+        {charlevoixByCategory["Découvertes"].map(p => (
+          <a class="card" href={`/${p.data.slug}.html`}>
+            <h3>{cleanTitle(p.data.h1 || p.data.title)}</h3>
+          </a>
+        ))}
+      </div>
+    </div>
+  )}
 </div>
+
 <div class="footer">
   © 2025 onvatujouerdehors.ca · Un projet <a href="https://gab.ae">GAB Ventures</a>
 </div>
