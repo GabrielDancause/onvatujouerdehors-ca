@@ -6,6 +6,19 @@ const pages = await getCollection('pages');
 const topLists = pages.filter(p => p.data.pageType === 'top-list');
 const towns = pages.filter(p => p.data.pageType === 'town');
 const guides = pages.filter(p => p.data.pageType === 'guide');
+
+function cleanTitle(raw: string): string {
+  return raw
+    .replace(/<br\s*\/?>/gi, ' ')
+    .replace(/<[^>]+>/g, '')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&#\d+;/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
 ---
 <html lang="fr">
 <head>
@@ -60,7 +73,7 @@ const guides = pages.filter(p => p.data.pageType === 'guide');
       <div class="grid">
         {topLists.map(p => (
           <a class="card" href={`/${p.data.slug}.html`}>
-            <h3>{p.data.h1 || p.data.title}</h3>
+            <h3>{cleanTitle(p.data.h1 || p.data.title)}</h3>
           </a>
         ))}
       </div>
@@ -72,7 +85,7 @@ const guides = pages.filter(p => p.data.pageType === 'guide');
       <div class="grid">
         {towns.map(p => (
           <a class="card" href={`/${p.data.slug}.html`}>
-            <h3>{p.data.h1 || p.data.title}</h3>
+            <h3>{cleanTitle(p.data.h1 || p.data.title)}</h3>
           </a>
         ))}
       </div>
@@ -82,7 +95,7 @@ const guides = pages.filter(p => p.data.pageType === 'guide');
   <div class="grid">
     {guides.map(p => (
       <a class="card" href={`/${p.data.slug}.html`}>
-        <h3>{p.data.h1 || p.data.title}</h3>
+        <h3>{cleanTitle(p.data.h1 || p.data.title)}</h3>
       </a>
     ))}
   </div>
