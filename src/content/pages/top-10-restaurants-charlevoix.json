@@ -46,7 +46,7 @@
       "emoji": "🥩",
       "title": "L'Épicentre",
       "location": "📍 Les Éboulements · Ferme Éboulmontaise",
-      "description": "<a href=\"restaurant-epicentre-charlevoix.html\" class=\"entry-link\">Le restaurant de la </a><a href=\"ferme-eboulmontaise-charlevoix.html\" style=\"color:#2D5016;font-weight:600;\">Ferme Éboulmontaise</a>. Agneau et porc Berkshire élevés sur place, cuisine de la ferme à l'assiette dans un cadre champêtre avec vue sur le fleuve. L'expérience terroir la plus authentique de Charlevoix.",
+      "description": "<a href=\"/restaurant-epicentre-charlevoix\" class=\"entry-link\">Le restaurant de la </a><a href=\"/ferme-eboulmontaise-charlevoix\" style=\"color:#2D5016;font-weight:600;\">Ferme Éboulmontaise</a>. Agneau et porc Berkshire élevés sur place, cuisine de la ferme à l'assiette dans un cadre champêtre avec vue sur le fleuve. L'expérience terroir la plus authentique de Charlevoix.",
       "tags": [
         "Ferme à l'assiette",
         "Agneau",
@@ -138,7 +138,7 @@
       "emoji": "🌳",
       "title": "Auberge des Peupliers — Restaurant",
       "location": "📍 Cap-aux-Oies (Les Éboulements)",
-      "description": "<a href=\"auberge-peupliers-charlevoix.html\" class=\"entry-link\">La table de l'</a><a href=\"auberge-peupliers-charlevoix.html\" style=\"color:#2D5016;font-weight:600;\">Auberge des Peupliers</a>, face au fleuve. Cuisine gastronomique régionale avec vue spectaculaire sur le Saint-Laurent. Menu dégustation et carte des vins mettant en valeur les produits charlevoisiens.",
+      "description": "<a href=\"/auberge-peupliers-charlevoix\" class=\"entry-link\">La table de l'</a><a href=\"/auberge-peupliers-charlevoix\" style=\"color:#2D5016;font-weight:600;\">Auberge des Peupliers</a>, face au fleuve. Cuisine gastronomique régionale avec vue spectaculaire sur le Saint-Laurent. Menu dégustation et carte des vins mettant en valeur les produits charlevoisiens.",
       "tags": [
         "Gastronomique",
         "Vue sur le fleuve",
@@ -164,5 +164,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-fermes-charlevoix.html\">Top 10 fermes</a> · <a href=\"top-10-auberges-charlevoix-fr.html\">Top 10 auberges</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-fermes-charlevoix\">Top 10 fermes</a> · <a href=\"/top-10-auberges-charlevoix-fr\">Top 10 auberges</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

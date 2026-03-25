@@ -154,7 +154,7 @@
       "infoCards": [
         {
           "title": "📍 Emplacement",
-          "content": "MRC Charlevoix-Est, Capitale-Nationale<br>Sur la route 138<br>Voisine de <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a><br>~145 km de Québec"
+          "content": "MRC Charlevoix-Est, Capitale-Nationale<br>Sur la route 138<br>Voisine de <a href=\"/la-malbaie-charlevoix\">La Malbaie</a><br>~145 km de Québec"
         },
         {
           "title": "🏛️ Maire",
@@ -185,5 +185,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

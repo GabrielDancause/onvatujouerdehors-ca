@@ -1,7 +1,7 @@
 {
   "slug": "hotel-germain-charlevoix",
   "title": "Hôtel & Spa Le Germain Charlevoix — Baie-Saint-Paul",
-  "description": "Hôtel & Spa Le Germain Charlevoix à Baie-Saint-Paul. Clé MICHELIN 2025, spa nordique, restaurant Les Labours, jardin de 8 000 m², vaches Highland et vue sur les montagnes de Charlevoix.",
+  "description": "Hôtel & Spa Le Germain Charlevoix à Baie-Saint-Paul. Clé MICHELIN 2025, spa nordique, restaurant Les Labours, jardin de 8 000 m², vaches Highland et vue sur...",
   "ogTitle": "Hôtel & Spa Le Germain Charlevoix — Baie-Saint-Paul",
   "ogDescription": "Clé MICHELIN, spa nordique, restaurant farm-to-table et vue sur les montagnes de Charlevoix.",
   "heroGradient": "linear-gradient(135deg, #2D5016 0%, #4a6340 100%)",
@@ -117,5 +117,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-auberges-charlevoix-fr.html\">← Retour au Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-auberges-charlevoix-fr\">← Retour au Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

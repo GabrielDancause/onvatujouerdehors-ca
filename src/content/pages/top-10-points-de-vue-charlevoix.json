@@ -73,7 +73,7 @@
       "emoji": "🏝️",
       "title": "Belvédère de l'Isle-aux-Coudres",
       "location": "📍 Les Éboulements, route 362",
-      "description": "En descendant vers Saint-Joseph-de-la-Rive depuis <a href=\"les-eboulements-charlevoix.html\">Les Éboulements</a>, un belvédère offre une vue magistrale sur l'Isle-aux-Coudres posée dans le fleuve. Surtout beau au coucher du soleil.",
+      "description": "En descendant vers Saint-Joseph-de-la-Rive depuis <a href=\"/les-eboulements-charlevoix\">Les Éboulements</a>, un belvédère offre une vue magistrale sur l'Isle-aux-Coudres posée dans le fleuve. Surtout beau au coucher du soleil.",
       "tags": ["Accessible en voiture", "Coucher de soleil", "Isle-aux-Coudres"],
       "href": "ile-aux-coudres-charlevoix.html"
     },
@@ -100,10 +100,10 @@
       "emoji": "🏖️",
       "title": "Plage de Saint-Irénée",
       "location": "📍 Saint-Irénée",
-      "description": "La plage de Saint-Irénée offre une vue ouverte sur le fleuve avec les montagnes en toile de fond. Au coucher du soleil, c'est magique. Le <a href=\"domaine-forget-saint-irenee.html\">Domaine Forget</a>, juste au-dessus, offre aussi un panorama exceptionnel.",
+      "description": "La plage de Saint-Irénée offre une vue ouverte sur le fleuve avec les montagnes en toile de fond. Au coucher du soleil, c'est magique. Le <a href=\"/domaine-forget-saint-irenee\">Domaine Forget</a>, juste au-dessus, offre aussi un panorama exceptionnel.",
       "tags": ["Plage", "Coucher de soleil", "Domaine Forget"],
       "href": "plage-saint-irenee-charlevoix.html"
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"randonnee-charlevoix.html\">Randonnée</a> · <a href=\"photographie-charlevoix.html\">Guide photo</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/randonnee-charlevoix\">Randonnée</a> · <a href=\"/photographie-charlevoix\">Guide photo</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

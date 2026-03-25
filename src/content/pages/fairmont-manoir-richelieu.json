@@ -1,7 +1,7 @@
 {
   "slug": "fairmont-manoir-richelieu",
   "title": "Fairmont Le Manoir Richelieu — La Malbaie, Charlevoix",
-  "description": "Fairmont Le Manoir Richelieu : hôtel 5 étoiles de style château français à La Malbaie, Charlevoix. 405 chambres, golf 27 trous, spa, casino, restaurants gastronomiques et activités quatre saisons.",
+  "description": "Fairmont Le Manoir Richelieu : hôtel 5 étoiles de style château français à La Malbaie, Charlevoix. 405 chambres, golf 27 trous, spa, casino, restaurants gast...",
   "ogTitle": "Fairmont Le Manoir Richelieu — La Malbaie, Charlevoix",
   "ogDescription": "Hôtel 5 étoiles de style château français surplombant le fleuve Saint-Laurent à La Malbaie. Golf, spa, casino, gastronomie et activités quatre saisons.",
   "heroGradient": "linear-gradient(135deg, #2D5016 0%, #4a6340 100%)",
@@ -92,5 +92,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-auberges-charlevoix-fr.html\">Retour aux auberges</a> · <a href=\"https://onvatujouerdehors.ca\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-auberges-charlevoix-fr\">Retour aux auberges</a> · <a href=\"https://onvatujouerdehors.ca\">onvatujouerdehors.ca</a>"
 }

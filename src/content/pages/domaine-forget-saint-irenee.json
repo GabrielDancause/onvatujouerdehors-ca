@@ -1,7 +1,7 @@
 {
   "slug": "domaine-forget-saint-irenee",
   "title": "Domaine Forget de Charlevoix — Saint-Irénée, Québec",
-  "description": "Le Domaine Forget de Charlevoix à Saint-Irénée : académie et festival de musique et danse. Concerts, spectacles et hébergement avec vue sur le fleuve Saint-Laurent.",
+  "description": "Le Domaine Forget de Charlevoix à Saint-Irénée : académie et festival de musique et danse. Concerts, spectacles et hébergement avec vue sur le fleuve Saint-L...",
   "ogTitle": "Domaine Forget de Charlevoix — Saint-Irénée",
   "ogDescription": "Académie et festival de musique et danse à Charlevoix. Concerts et spectacles toute l'année.",
   "heroGradient": "linear-gradient(135deg, #3d2b4e 0%, #2D5016 100%)",
@@ -108,5 +108,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"auberge-de-nos-aieux-charlevoix.html\">← Auberge de nos Aïeux</a> · <a href=\"top-10-auberges-charlevoix-fr.html\">Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/auberge-de-nos-aieux-charlevoix\">← Auberge de nos Aïeux</a> · <a href=\"/top-10-auberges-charlevoix-fr\">Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

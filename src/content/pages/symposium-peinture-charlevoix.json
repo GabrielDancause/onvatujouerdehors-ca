@@ -1,7 +1,7 @@
 {
   "slug": "symposium-peinture-charlevoix",
-  "title": "Symposium international d'art contemporain — Baie-Saint-Paul, Charlevoix, Québec",
-  "description": "Symposium international d'art contemporain de Baie-Saint-Paul. Événement annuel au MACBSP qui a accueilli plus de 400 artistes du monde entier. Création en direct, ateliers et art dans les rues.",
+  "title": "Symposium international d'art contemporain — Baie-Saint-Paul, Cha",
+  "description": "Symposium international d'art contemporain de Baie-Saint-Paul. Événement annuel au MACBSP qui a accueilli plus de 400 artistes du monde entier.",
   "ogTitle": "Symposium international d'art contemporain — Baie-Saint-Paul, Charlevoix",
   "ogDescription": "Événement annuel d'art contemporain à Baie-Saint-Paul. 400+ artistes internationaux.",
   "heroGradient": "linear-gradient(135deg, #c44d3f 0%, #2D5016 100%)",
@@ -47,8 +47,8 @@
     {
       "title": "L'événement",
       "paragraphs": [
-        "Le Symposium international d'art contemporain de Baie-Saint-Paul est l'un des événements culturels phares de Charlevoix. Organisé par le <a href=\"musee-art-contemporain-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">Musée d'art contemporain de Baie-Saint-Paul (MACBSP)</a>, il a accueilli au fil des années plus de 400 artistes venus de partout dans le monde.",
-        "Le Symposium transforme <a href=\"baie-saint-paul-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">Baie-Saint-Paul</a> en un véritable laboratoire de création. Les artistes travaillent en direct, le public observe et interagit, et les œuvres créées enrichissent la collection permanente du musée."
+        "Le Symposium international d'art contemporain de Baie-Saint-Paul est l'un des événements culturels phares de Charlevoix. Organisé par le <a href=\"/musee-art-contemporain-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">Musée d'art contemporain de Baie-Saint-Paul (MACBSP)</a>, il a accueilli au fil des années plus de 400 artistes venus de partout dans le monde.",
+        "Le Symposium transforme <a href=\"/baie-saint-paul-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">Baie-Saint-Paul</a> en un véritable laboratoire de création. Les artistes travaillent en direct, le public observe et interagit, et les œuvres créées enrichissent la collection permanente du musée."
       ]
     },
     {
@@ -80,7 +80,7 @@
       "title": "Pourquoi y aller",
       "paragraphs": [
         "Le Symposium est une occasion unique de voir l'art contemporain se créer devant soi. Contrairement à une visite de musée classique, ici on assiste au processus créatif — des premières esquisses à l'œuvre achevée.",
-        "L'événement est aussi un excellent prétexte pour explorer Baie-Saint-Paul, ses <a href=\"galeries-baie-saint-paul.html\" style=\"color: #2D5016; font-weight: 600;\">galeries d'art</a>, ses <a href=\"top-10-restaurants-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">restaurants</a> et l'ambiance unique de cette ville d'artistes au cœur de Charlevoix."
+        "L'événement est aussi un excellent prétexte pour explorer Baie-Saint-Paul, ses <a href=\"/galeries-baie-saint-paul\" style=\"color: #2D5016; font-weight: 600;\">galeries d'art</a>, ses <a href=\"/top-10-restaurants-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">restaurants</a> et l'ambiance unique de cette ville d'artistes au cœur de Charlevoix."
       ]
     },
     {
@@ -100,10 +100,10 @@
         },
         {
           "title": "📌 À voir aussi",
-          "content": "<a href=\"musee-art-contemporain-charlevoix.html\">MACBSP</a><br><a href=\"galeries-baie-saint-paul.html\">Galeries de BSP</a><br><a href=\"top-10-culture-charlevoix.html\">Top 8 culture</a>"
+          "content": "<a href=\"/musee-art-contemporain-charlevoix\">MACBSP</a><br><a href=\"/galeries-baie-saint-paul\">Galeries de BSP</a><br><a href=\"/top-10-culture-charlevoix\">Top 8 culture</a>"
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-culture-charlevoix.html\">← Top 8 culture</a> · <a href=\"musee-art-contemporain-charlevoix.html\">MACBSP</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-culture-charlevoix\">← Top 8 culture</a> · <a href=\"/musee-art-contemporain-charlevoix\">MACBSP</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

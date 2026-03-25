@@ -1,7 +1,7 @@
 {
   "slug": "peche-charlevoix",
   "title": "Pêche dans Charlevoix — Rivières, lacs et pourvoiries, Québec",
-  "description": "Guide de la pêche dans Charlevoix. Rivières à saumon et truite, lacs, pourvoiries et réserves fauniques. Tout pour planifier votre séjour de pêche dans Charlevoix.",
+  "description": "Guide de la pêche dans Charlevoix. Rivières à saumon et truite, lacs, pourvoiries et réserves fauniques.",
   "ogTitle": "Pêche dans Charlevoix — Rivières, lacs et pourvoiries",
   "ogDescription": "Guide complet de la pêche dans Charlevoix : rivières, espèces, pourvoiries et conseils pratiques.",
   "heroGradient": "linear-gradient(135deg, #2a5a8c 0%, #2D5016 100%)",
@@ -42,7 +42,7 @@
     {
       "title": "La pêche à Charlevoix",
       "paragraphs": [
-        "Avec ses rivières tumultueuses qui descendent des montagnes vers le fleuve Saint-Laurent, ses lacs de forêt boréale et ses réserves fauniques, Charlevoix est un territoire de choix pour la pêche sportive. La région fait partie de la <a href=\"reserve-biosphere-charlevoix.html\">réserve mondiale de la biosphère de l'UNESCO</a>, ce qui témoigne de la richesse de ses écosystèmes aquatiques.",
+        "Avec ses rivières tumultueuses qui descendent des montagnes vers le fleuve Saint-Laurent, ses lacs de forêt boréale et ses réserves fauniques, Charlevoix est un territoire de choix pour la pêche sportive. La région fait partie de la <a href=\"/reserve-biosphere-charlevoix\">réserve mondiale de la biosphère de l'UNESCO</a>, ce qui témoigne de la richesse de ses écosystèmes aquatiques.",
         "Que vous soyez amateur de pêche à la mouche en rivière ou de pêche au lac en chaloupe, Charlevoix offre des options pour tous les niveaux. Plusieurs pourvoiries et la réserve faunique des Laurentides (à proximité) proposent des forfaits avec hébergement."
       ]
     },
@@ -52,22 +52,22 @@
         {
           "icon": "🏞️",
           "title": "Rivière Malbaie",
-          "description": "La principale rivière de Charlevoix-Est. Traverse le <a href=\"parc-hautes-gorges-charlevoix.html\">Parc des Hautes-Gorges</a>. Omble de fontaine (truite mouchetée) et ouananiche dans certains secteurs."
+          "description": "La principale rivière de Charlevoix-Est. Traverse le <a href=\"/parc-hautes-gorges-charlevoix\">Parc des Hautes-Gorges</a>. Omble de fontaine (truite mouchetée) et ouananiche dans certains secteurs."
         },
         {
           "icon": "🌊",
           "title": "Rivière du Gouffre",
-          "description": "Traverse <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a> et <a href=\"saint-urbain-charlevoix.html\">Saint-Urbain</a>. Pêche à l'omble de fontaine. Accès possible à plusieurs endroits le long de la route 138."
+          "description": "Traverse <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a> et <a href=\"/saint-urbain-charlevoix\">Saint-Urbain</a>. Pêche à l'omble de fontaine. Accès possible à plusieurs endroits le long de la route 138."
         },
         {
           "icon": "🐟",
           "title": "Rivière Jean-Noël",
-          "description": "Petite rivière prisée pour la pêche à la truite mouchetée. Secteur de <a href=\"saint-hilarion-charlevoix.html\">Saint-Hilarion</a> et Saint-Urbain. Ambiance sauvage et tranquille."
+          "description": "Petite rivière prisée pour la pêche à la truite mouchetée. Secteur de <a href=\"/saint-hilarion-charlevoix\">Saint-Hilarion</a> et Saint-Urbain. Ambiance sauvage et tranquille."
         },
         {
           "icon": "🏔️",
           "title": "Lacs des parcs nationaux",
-          "description": "Le <a href=\"parc-grands-jardins-charlevoix.html\">Parc des Grands-Jardins</a> offre la pêche à l'omble de fontaine dans plusieurs lacs d'altitude. Réservation auprès de la SÉPAQ."
+          "description": "Le <a href=\"/parc-grands-jardins-charlevoix\">Parc des Grands-Jardins</a> offre la pêche à l'omble de fontaine dans plusieurs lacs d'altitude. Réservation auprès de la SÉPAQ."
         }
       ]
     },
@@ -113,10 +113,10 @@
         },
         {
           "title": "🗺️ Réserve faunique",
-          "content": "La Réserve faunique des Laurentides, accessible depuis <a href=\"saint-urbain-charlevoix.html\">Saint-Urbain</a>, est un vaste territoire de pêche à la truite avec des centaines de lacs."
+          "content": "La Réserve faunique des Laurentides, accessible depuis <a href=\"/saint-urbain-charlevoix\">Saint-Urbain</a>, est un vaste territoire de pêche à la truite avec des centaines de lacs."
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">← Charlevoix</a> · <a href=\"randonnee-charlevoix.html\">Randonnée</a> · <a href=\"top-10-activites-charlevoix.html\">Top 10 activités</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">← Charlevoix</a> · <a href=\"/randonnee-charlevoix\">Randonnée</a> · <a href=\"/top-10-activites-charlevoix\">Top 10 activités</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

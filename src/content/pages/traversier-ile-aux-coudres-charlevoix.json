@@ -1,7 +1,7 @@
 {
   "slug": "traversier-ile-aux-coudres-charlevoix",
-  "title": "Traversier vers l'Isle-aux-Coudres — Saint-Joseph-de-la-Rive, Charlevoix, Québec",
-  "description": "Le traversier gratuit vers l'Isle-aux-Coudres depuis Saint-Joseph-de-la-Rive dans Charlevoix. Horaires, durée, véhicules, vélos et infos pratiques pour la traversée.",
+  "title": "Traversier vers l'Isle-aux-Coudres — Saint-Joseph-de-la-R",
+  "description": "Le traversier gratuit vers l'Isle-aux-Coudres depuis Saint-Joseph-de-la-Rive dans Charlevoix. Horaires, durée, véhicules, vélos et infos pratiques pour la tr...",
   "ogTitle": "Traversier vers l'Isle-aux-Coudres — Charlevoix",
   "ogDescription": "Traversier gratuit vers l'Isle-aux-Coudres. 15 minutes de traversée depuis Saint-Joseph-de-la-Rive.",
   "heroGradient": "linear-gradient(135deg, #1a6b8a 0%, #2D5016 100%)",
@@ -47,7 +47,7 @@
     {
       "title": "La traversée",
       "paragraphs": [
-        "Le traversier entre Saint-Joseph-de-la-Rive et l'<a href=\"ile-aux-coudres-charlevoix.html\">Isle-aux-Coudres</a> est opéré par la Société des traversiers du Québec (STQ). La traversée est <strong>entièrement gratuite</strong> — pour les piétons, les cyclistes et les véhicules — et dure environ 15 minutes.",
+        "Le traversier entre Saint-Joseph-de-la-Rive et l'<a href=\"/ile-aux-coudres-charlevoix\">Isle-aux-Coudres</a> est opéré par la Société des traversiers du Québec (STQ). La traversée est <strong>entièrement gratuite</strong> — pour les piétons, les cyclistes et les véhicules — et dure environ 15 minutes.",
         "Le service fonctionne <strong>toute l'année</strong>, avec des départs fréquents. En été, les traversées sont plus nombreuses pour répondre à la demande touristique. Le navire peut accueillir des voitures, des véhicules récréatifs et des autobus. C'est la seule façon d'accéder à l'Isle-aux-Coudres."
       ]
     },
@@ -87,7 +87,7 @@
         {
           "icon": "🚲",
           "title": "Option vélo",
-          "description": "L'Isle-aux-Coudres est un paradis du <a href=\"velo-charlevoix.html\">vélo</a> avec un circuit de 23 km faisant le tour de l'île. Apportez votre vélo ou louez-en un sur place."
+          "description": "L'Isle-aux-Coudres est un paradis du <a href=\"/velo-charlevoix\">vélo</a> avec un circuit de 23 km faisant le tour de l'île. Apportez votre vélo ou louez-en un sur place."
         },
         {
           "icon": "📸",
@@ -106,7 +106,7 @@
       "infoCards": [
         {
           "title": "📍 Quai de départ",
-          "content": "Saint-Joseph-de-la-Rive<br>Municipalité de <a href=\"les-eboulements-charlevoix.html\">Les Éboulements</a><br>Au bas de la côte, au bord du fleuve"
+          "content": "Saint-Joseph-de-la-Rive<br>Municipalité de <a href=\"/les-eboulements-charlevoix\">Les Éboulements</a><br>Au bas de la côte, au bord du fleuve"
         },
         {
           "title": "🚗 Depuis Baie-Saint-Paul",
@@ -128,7 +128,7 @@
         {
           "icon": "🏝️",
           "title": "L'île",
-          "description": "Découvrez l'<a href=\"ile-aux-coudres-charlevoix.html\">Isle-aux-Coudres</a> — une île historique avec moulins patrimoniaux, fromageries, cidrerie et paysages du fleuve."
+          "description": "Découvrez l'<a href=\"/ile-aux-coudres-charlevoix\">Isle-aux-Coudres</a> — une île historique avec moulins patrimoniaux, fromageries, cidrerie et paysages du fleuve."
         },
         {
           "icon": "🚲",
@@ -138,15 +138,15 @@
         {
           "icon": "🧀",
           "title": "Produits du terroir",
-          "description": "Fromageries, cidreries et producteurs locaux. L'île a sa propre identité gastronomique au sein de la <a href=\"route-saveurs-charlevoix.html\">Route des Saveurs</a>."
+          "description": "Fromageries, cidreries et producteurs locaux. L'île a sa propre identité gastronomique au sein de la <a href=\"/route-saveurs-charlevoix\">Route des Saveurs</a>."
         },
         {
           "icon": "🏨",
           "title": "Hébergement",
-          "description": "Auberges, gîtes et chalets disponibles sur l'île pour prolonger le séjour. Consultez notre <a href=\"top-10-chalets-charlevoix.html\">Top 10 des chalets</a>."
+          "description": "Auberges, gîtes et chalets disponibles sur l'île pour prolonger le séjour. Consultez notre <a href=\"/top-10-chalets-charlevoix\">Top 10 des chalets</a>."
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"ile-aux-coudres-charlevoix.html\">Isle-aux-Coudres</a> · <a href=\"les-eboulements-charlevoix.html\">Les Éboulements</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/ile-aux-coudres-charlevoix\">Isle-aux-Coudres</a> · <a href=\"/les-eboulements-charlevoix\">Les Éboulements</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

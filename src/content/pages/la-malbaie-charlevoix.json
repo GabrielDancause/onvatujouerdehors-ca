@@ -1,7 +1,7 @@
 {
   "slug": "la-malbaie-charlevoix",
   "title": "La Malbaie — Villégiature et patrimoine de Charlevoix, Québec",
-  "description": "La Malbaie, capitale de villégiature de Charlevoix. Fairmont Manoir Richelieu, Casino de Charlevoix, Hautes-Gorges, Musée de Charlevoix et panoramas sur le fleuve Saint-Laurent.",
+  "description": "La Malbaie, capitale de villégiature de Charlevoix. Fairmont Manoir Richelieu, Casino de Charlevoix, Hautes-Gorges, Musée de Charlevoix et panoramas sur le f...",
   "ogTitle": "La Malbaie — Charlevoix, Québec",
   "ogDescription": "Villégiature, Casino, Fairmont et Hautes-Gorges. La Malbaie est le joyau de Charlevoix-Est.",
   "heroGradient": "linear-gradient(135deg, #2a1a3a 0%, #1a2a4a 50%, #2D5016 100%)",
@@ -207,5 +207,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

@@ -1,6 +1,6 @@
 {
   "slug": "kayak-charlevoix",
-  "title": "Kayak dans Charlevoix — Kayak de mer, rivière et excursions sur le fleuve",
+  "title": "Kayak dans Charlevoix — Kayak de mer, rivièr",
   "description": "Guide du kayak dans Charlevoix : kayak de mer sur le fleuve Saint-Laurent, excursions guidées, spots incontournables de Baie-Saint-Paul à Baie-Sainte-Catherine.",
   "ogTitle": "Kayak dans Charlevoix — Guide complet",
   "ogDescription": "Kayak de mer sur le fleuve Saint-Laurent, excursions guidées et meilleurs parcours dans Charlevoix.",
@@ -47,8 +47,8 @@
     {
       "title": "Le kayak dans Charlevoix",
       "paragraphs": [
-        "Le fleuve Saint-Laurent, la rivière du Gouffre, la rivière Malbaie et les côtes spectaculaires de <a href=\"charlevoix.html\">Charlevoix</a> en font un terrain de jeu exceptionnel pour le kayak. De mai à octobre, on peut explorer des anses sauvages, longer des falaises impressionnantes et même observer des baleines depuis son embarcation.",
-        "Que vous soyez débutant ou kayakiste expérimenté, plusieurs entreprises offrent des excursions guidées adaptées à tous les niveaux. <a href=\"katabatik-kayak-charlevoix.html\">Katabatik</a>, basé à Baie-Saint-Paul, est l'un des principaux pourvoyeurs d'aventures en kayak de la région."
+        "Le fleuve Saint-Laurent, la rivière du Gouffre, la rivière Malbaie et les côtes spectaculaires de <a href=\"/charlevoix\">Charlevoix</a> en font un terrain de jeu exceptionnel pour le kayak. De mai à octobre, on peut explorer des anses sauvages, longer des falaises impressionnantes et même observer des baleines depuis son embarcation.",
+        "Que vous soyez débutant ou kayakiste expérimenté, plusieurs entreprises offrent des excursions guidées adaptées à tous les niveaux. <a href=\"/katabatik-kayak-charlevoix\">Katabatik</a>, basé à Baie-Saint-Paul, est l'un des principaux pourvoyeurs d'aventures en kayak de la région."
       ]
     },
     {
@@ -62,17 +62,17 @@
         {
           "icon": "🏝️",
           "title": "Isle-aux-Coudres",
-          "description": "Faites le tour de l'<a href=\"ile-aux-coudres-charlevoix.html\">Isle-aux-Coudres</a> en kayak de mer. Courants et marées à respecter — excursion guidée recommandée."
+          "description": "Faites le tour de l'<a href=\"/ile-aux-coudres-charlevoix\">Isle-aux-Coudres</a> en kayak de mer. Courants et marées à respecter — excursion guidée recommandée."
         },
         {
           "icon": "🐋",
           "title": "Baie-Sainte-Catherine",
-          "description": "À l'embouchure du Saguenay, <a href=\"baie-sainte-catherine-charlevoix.html\">Baie-Sainte-Catherine</a> est un spot réputé pour le kayak avec observation de bélugas et de baleines dans le <a href=\"parc-marin-saguenay-charlevoix.html\">parc marin</a>."
+          "description": "À l'embouchure du Saguenay, <a href=\"/baie-sainte-catherine-charlevoix\">Baie-Sainte-Catherine</a> est un spot réputé pour le kayak avec observation de bélugas et de baleines dans le <a href=\"/parc-marin-saguenay-charlevoix\">parc marin</a>."
         },
         {
           "icon": "🏔️",
           "title": "Les Éboulements — Cap-aux-Oies",
-          "description": "La côte entre <a href=\"les-eboulements-charlevoix.html\">Les Éboulements</a> et Cap-aux-Oies offre des falaises spectaculaires et des criques sauvages accessibles en kayak."
+          "description": "La côte entre <a href=\"/les-eboulements-charlevoix\">Les Éboulements</a> et Cap-aux-Oies offre des falaises spectaculaires et des criques sauvages accessibles en kayak."
         }
       ]
     },
@@ -93,7 +93,7 @@
         },
         {
           "title": "🏢 Pourvoyeurs",
-          "content": "<a href=\"katabatik-kayak-charlevoix.html\">Katabatik</a> (Baie-Saint-Paul)<br>Plusieurs entreprises à Baie-Sainte-Catherine<br>Location et cours disponibles"
+          "content": "<a href=\"/katabatik-kayak-charlevoix\">Katabatik</a> (Baie-Saint-Paul)<br>Plusieurs entreprises à Baie-Sainte-Catherine<br>Location et cours disponibles"
         }
       ]
     },
@@ -103,12 +103,12 @@
         {
           "icon": "🐋",
           "title": "Observation des baleines",
-          "description": "<a href=\"observation-baleines-charlevoix.html\">Les croisières aux baleines</a> partent de Baie-Sainte-Catherine et Tadoussac."
+          "description": "<a href=\"/observation-baleines-charlevoix\">Les croisières aux baleines</a> partent de Baie-Sainte-Catherine et Tadoussac."
         },
         {
           "icon": "🎣",
           "title": "Pêche",
-          "description": "<a href=\"peche-charlevoix.html\">La pêche dans Charlevoix</a> — rivières à saumon et omble de fontaine."
+          "description": "<a href=\"/peche-charlevoix\">La pêche dans Charlevoix</a> — rivières à saumon et omble de fontaine."
         },
         {
           "icon": "🚴",
@@ -118,10 +118,10 @@
         {
           "icon": "🥾",
           "title": "Randonnée",
-          "description": "<a href=\"randonnee-charlevoix.html\">La randonnée dans Charlevoix</a> — des Hautes-Gorges au Sentier des Caps."
+          "description": "<a href=\"/randonnee-charlevoix\">La randonnée dans Charlevoix</a> — des Hautes-Gorges au Sentier des Caps."
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-activites-charlevoix.html\">← Top 10 activités</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-activites-charlevoix\">← Top 10 activités</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

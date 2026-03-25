@@ -1,6 +1,6 @@
 {
   "slug": "escalade-charlevoix",
-  "title": "Escalade et via ferrata dans Charlevoix — Guide aventure | onvatujouerdehors.ca",
+  "title": "Escalade et via ferrata dans Charlevoix — Guide aventure",
   "description": "Guide de l'escalade et de la via ferrata dans Charlevoix : parois rocheuses, sites d'escalade et parcours aériens dans les montagnes charlevoisiennnes.",
   "ogTitle": "Escalade et via ferrata dans Charlevoix",
   "ogDescription": "Parois rocheuses, via ferrata et escalade en pleine nature dans les montagnes de Charlevoix.",
@@ -43,7 +43,7 @@
     {
       "title": "L'escalade dans Charlevoix",
       "paragraphs": [
-        "<a href=\"charlevoix.html\">Charlevoix</a> est un terrain de jeu exceptionnel pour les grimpeurs. La géologie unique de cette <a href=\"reserve-biosphere-charlevoix.html\">réserve de biosphère de l'UNESCO</a> — formée par l'impact d'une météorite il y a 400 millions d'années — a créé des formations rocheuses spectaculaires de gneiss, d'anorthosite et de granite.",
+        "<a href=\"/charlevoix\">Charlevoix</a> est un terrain de jeu exceptionnel pour les grimpeurs. La géologie unique de cette <a href=\"/reserve-biosphere-charlevoix\">réserve de biosphère de l'UNESCO</a> — formée par l'impact d'une météorite il y a 400 millions d'années — a créé des formations rocheuses spectaculaires de gneiss, d'anorthosite et de granite.",
         "Les parois se dressent au-dessus du fleuve Saint-Laurent et des vallées profondes, offrant des vues imprenables pendant l'ascension. La région compte plusieurs sites d'escalade de roche naturelle, allant des voies d'initiation aux grandes parois multi-longueurs pour grimpeurs expérimentés."
       ]
     },
@@ -81,12 +81,12 @@
         {
           "icon": "🏔️",
           "title": "Parc national des Grands-Jardins",
-          "description": "Le <a href=\"parc-grands-jardins-charlevoix.html\">parc des Grands-Jardins</a> présente des paysages de taïga unique au sud du 50e parallèle. Quelques parois rocheuses accessibles dans le parc."
+          "description": "Le <a href=\"/parc-grands-jardins-charlevoix\">parc des Grands-Jardins</a> présente des paysages de taïga unique au sud du 50e parallèle. Quelques parois rocheuses accessibles dans le parc."
         },
         {
           "icon": "🏞️",
           "title": "Parc des Hautes-Gorges",
-          "description": "Les <a href=\"parc-hautes-gorges-charlevoix.html\">Hautes-Gorges-de-la-Rivière-Malbaie</a> offrent des parois vertigineuses parmi les plus hautes de l'Est canadien. L'Acropole-des-Draveurs culmine à 1 048 m."
+          "description": "Les <a href=\"/parc-hautes-gorges-charlevoix\">Hautes-Gorges-de-la-Rivière-Malbaie</a> offrent des parois vertigineuses parmi les plus hautes de l'Est canadien. L'Acropole-des-Draveurs culmine à 1 048 m."
         },
         {
           "icon": "🌊",
@@ -116,7 +116,7 @@
         {
           "icon": "🗺️",
           "title": "Accès aux sites",
-          "description": "Certains sites sont dans des parcs nationaux (droit d'accès requis). Respectez les sentiers et la réglementation de la <a href=\"reserve-biosphere-charlevoix.html\">réserve de biosphère</a>."
+          "description": "Certains sites sont dans des parcs nationaux (droit d'accès requis). Respectez les sentiers et la réglementation de la <a href=\"/reserve-biosphere-charlevoix\">réserve de biosphère</a>."
         }
       ]
     },
@@ -126,25 +126,25 @@
         {
           "icon": "🥾",
           "title": "Randonnée",
-          "description": "Complétez votre journée avec les sentiers de <a href=\"randonnee-charlevoix.html\">randonnée</a> des parcs nationaux."
+          "description": "Complétez votre journée avec les sentiers de <a href=\"/randonnee-charlevoix\">randonnée</a> des parcs nationaux."
         },
         {
           "icon": "🛶",
           "title": "Kayak",
-          "description": "Alternez grimpe et <a href=\"kayak-charlevoix.html\">kayak de mer</a> pour une aventure complète entre montagne et fleuve."
+          "description": "Alternez grimpe et <a href=\"/kayak-charlevoix\">kayak de mer</a> pour une aventure complète entre montagne et fleuve."
         },
         {
           "icon": "🏕️",
           "title": "Camping",
-          "description": "Plusieurs sites de <a href=\"camping-charlevoix.html\">camping</a> à proximité des zones d'escalade, notamment dans les parcs nationaux."
+          "description": "Plusieurs sites de <a href=\"/camping-charlevoix\">camping</a> à proximité des zones d'escalade, notamment dans les parcs nationaux."
         },
         {
           "icon": "🍽️",
           "title": "Gastronomie",
-          "description": "Après l'effort, savourez la cuisine locale. Voir notre <a href=\"top-10-restaurants-charlevoix.html\">Top 10 des restaurants</a>."
+          "description": "Après l'effort, savourez la cuisine locale. Voir notre <a href=\"/top-10-restaurants-charlevoix\">Top 10 des restaurants</a>."
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"aventure-plein-air-charlevoix.html\">← Aventure plein air</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/aventure-plein-air-charlevoix\">← Aventure plein air</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

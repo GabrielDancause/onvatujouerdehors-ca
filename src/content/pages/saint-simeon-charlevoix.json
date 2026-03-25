@@ -44,7 +44,7 @@
       "paragraphs": [
         "Saint-Siméon est la porte est de Charlevoix, là où la route 138 continue vers la Côte-Nord et où le traversier relie la rive nord à Rivière-du-Loup sur la rive sud. C'est un carrefour géographique stratégique depuis les années 1940.",
         "Le village se démarque par ses hameaux pittoresques — notamment Port-au-Persil, avec sa célèbre chapelle blanche au bord du fleuve, et Baie-des-Rochers, un coin de nature sauvage. Le territoire est vaste (412 km²), couvert de forêts et sillonné de rivières.",
-        "Formée en 1869 en se détachant de Saint-Fidèle-de-Mont-Murray (aujourd'hui partie de <a href=\"la-malbaie-charlevoix.html\" style=\"color:#2D5016;font-weight:600;text-decoration:none;\">La Malbaie</a>), la municipalité a vécu de la pêche, du cabotage, du bois et de l'agriculture avant de se tourner vers le tourisme."
+        "Formée en 1869 en se détachant de Saint-Fidèle-de-Mont-Murray (aujourd'hui partie de <a href=\"/la-malbaie-charlevoix\" style=\"color:#2D5016;font-weight:600;text-decoration:none;\">La Malbaie</a>), la municipalité a vécu de la pêche, du cabotage, du bois et de l'agriculture avant de se tourner vers le tourisme."
       ]
     },
     {
@@ -185,5 +185,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"road-trip-charlevoix.html\">Road trip</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/road-trip-charlevoix\">Road trip</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

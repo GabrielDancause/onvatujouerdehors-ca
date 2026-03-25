@@ -1,7 +1,7 @@
 {
   "slug": "ferme-eboulmontaise-charlevoix",
   "title": "Ferme Éboulmontaise — Les Éboulements, Charlevoix",
-  "description": "La Ferme Éboulmontaise aux Éboulements, Charlevoix. Agneau, porc Berkshire, volailles et lapin élevés localement. Boutique, restaurant Épicentre, dînette fermière et sentiers de raquette.",
+  "description": "La Ferme Éboulmontaise aux Éboulements, Charlevoix. Agneau, porc Berkshire, volailles et lapin élevés localement.",
   "ogTitle": "Ferme Éboulmontaise — Les Éboulements, Charlevoix",
   "ogDescription": "Viandes d'exception élevées sur les terres des Éboulements. Boutique, restaurant et sentiers.",
   "heroGradient": "linear-gradient(135deg, #5a3e28 0%, #2D5016 100%)",
@@ -114,5 +114,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"auberge-de-nos-aieux-charlevoix.html\">← Auberge de nos Aïeux</a> · <a href=\"top-10-auberges-charlevoix-fr.html\">Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/auberge-de-nos-aieux-charlevoix\">← Auberge de nos Aïeux</a> · <a href=\"/top-10-auberges-charlevoix-fr\">Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

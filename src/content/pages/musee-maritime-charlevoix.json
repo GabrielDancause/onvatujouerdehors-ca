@@ -1,7 +1,7 @@
 {
   "slug": "musee-maritime-charlevoix",
   "title": "Musée maritime de Charlevoix — Saint-Joseph-de-la-Rive, Québec",
-  "description": "Le Musée maritime de Charlevoix à Saint-Joseph-de-la-Rive. Histoire maritime du fleuve Saint-Laurent, goélettes, chantier naval et patrimoine maritime québécois.",
+  "description": "Le Musée maritime de Charlevoix à Saint-Joseph-de-la-Rive. Histoire maritime du fleuve Saint-Laurent, goélettes, chantier naval et patrimoine maritime québéc...",
   "ogTitle": "Musée maritime de Charlevoix",
   "ogDescription": "Histoire maritime, goélettes et patrimoine du fleuve Saint-Laurent.",
   "heroGradient": "linear-gradient(135deg, #1a4a6b 0%, #2D5016 100%)",
@@ -93,5 +93,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"auberge-de-nos-aieux-charlevoix.html\">← Auberge de nos Aïeux</a> · <a href=\"top-10-auberges-charlevoix-fr.html\">Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/auberge-de-nos-aieux-charlevoix\">← Auberge de nos Aïeux</a> · <a href=\"/top-10-auberges-charlevoix-fr\">Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

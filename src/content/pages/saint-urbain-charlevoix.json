@@ -1,7 +1,7 @@
 {
   "slug": "saint-urbain-charlevoix",
   "title": "Saint-Urbain — Village de Charlevoix, Québec",
-  "description": "Saint-Urbain, porte d'entrée du Parc des Grands-Jardins dans Charlevoix. Montagnes, rivière du Gouffre, fermes et plein air au cœur de l'arrière-pays charlevoisien.",
+  "description": "Saint-Urbain, porte d'entrée du Parc des Grands-Jardins dans Charlevoix. Montagnes, rivière du Gouffre, fermes et plein air au cœur de l'arrière-pays charlev...",
   "ogTitle": "Saint-Urbain — Charlevoix, Québec",
   "ogDescription": "Porte d'entrée du Parc des Grands-Jardins. Montagnes, rivière du Gouffre et terroir au cœur de Charlevoix.",
   "heroGradient": "linear-gradient(135deg, #3a5a2e 0%, #2D5016 60%, #1a3a1a 100%)",
@@ -154,7 +154,7 @@
       "infoCards": [
         {
           "title": "📍 Emplacement",
-          "content": "MRC Charlevoix, Capitale-Nationale<br>Junction routes 138 et 381<br>~20 min de <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a><br>~90 km de Québec"
+          "content": "MRC Charlevoix, Capitale-Nationale<br>Junction routes 138 et 381<br>~20 min de <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a><br>~90 km de Québec"
         },
         {
           "title": "🏛️ Mairesse",
@@ -185,5 +185,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "traineau-chiens-charlevoix",
-  "title": "Traineau à chiens dans Charlevoix — Aventure hivernale | onvatujouerdehors.ca",
-  "description": "Découvrez le traineau à chiens dans Charlevoix : excursions guidées à travers les forêts enneigées et les paysages montagneux de la région. Une expérience hivernale inoubliable.",
+  "title": "Traineau à chiens dans Charlevoix — Aventure hivernale",
+  "description": "Découvrez le traineau à chiens dans Charlevoix : excursions guidées à travers les forêts enneigées et les paysages montagneux de la région.",
   "ogTitle": "Traineau à chiens dans Charlevoix — Aventure hivernale",
   "ogDescription": "Excursions en traineau à chiens à travers les forêts et montagnes enneigées de Charlevoix.",
   "heroGradient": "linear-gradient(135deg, #2c3e50 0%, #4a6741 100%)",
@@ -43,7 +43,7 @@
     {
       "title": "L'expérience",
       "paragraphs": [
-        "Le traineau à chiens est l'une des activités hivernales les plus mémorables qu'offre <a href=\"charlevoix.html\">Charlevoix</a>. Confortablement installé dans le traîneau ou debout sur les patins en tant que musher, vous glissez à travers les forêts boréales enneigées, tirés par une meute enthousiaste de chiens de traîneau — généralement des huskies sibériens ou des alaskans.",
+        "Le traineau à chiens est l'une des activités hivernales les plus mémorables qu'offre <a href=\"/charlevoix\">Charlevoix</a>. Confortablement installé dans le traîneau ou debout sur les patins en tant que musher, vous glissez à travers les forêts boréales enneigées, tirés par une meute enthousiaste de chiens de traîneau — généralement des huskies sibériens ou des alaskans.",
         "Les parcours traversent des paysages spectaculaires : forêts de sapins et d'épinettes chargés de neige, vallées encaissées et panoramas montagneux typiques de la région charlevoisienne. Le silence hivernal, ponctué uniquement par le souffle des chiens et le crissement des patins sur la neige, crée une atmosphère presque magique."
       ]
     },
@@ -101,22 +101,22 @@
         {
           "icon": "⛷️",
           "title": "Ski au Massif",
-          "description": "Combinez une matinée de traineau avec un après-midi de ski au <a href=\"le-massif-ski-charlevoix.html\">Massif de Charlevoix</a>."
+          "description": "Combinez une matinée de traineau avec un après-midi de ski au <a href=\"/le-massif-ski-charlevoix\">Massif de Charlevoix</a>."
         },
         {
           "icon": "🎿",
           "title": "Ski de fond et raquette",
-          "description": "Explorez les sentiers de <a href=\"ski-fond-charlevoix.html\">ski de fond et raquette</a> de la région pour une journée complète en plein air."
+          "description": "Explorez les sentiers de <a href=\"/ski-fond-charlevoix\">ski de fond et raquette</a> de la région pour une journée complète en plein air."
         },
         {
           "icon": "🏔️",
           "title": "Motoneige",
-          "description": "Charlevoix offre aussi un réseau de sentiers de <a href=\"motoneige-charlevoix.html\">motoneige</a> de classe mondiale."
+          "description": "Charlevoix offre aussi un réseau de sentiers de <a href=\"/motoneige-charlevoix\">motoneige</a> de classe mondiale."
         },
         {
           "icon": "♨️",
           "title": "Spa nordique",
-          "description": "Rien de mieux qu'une séance de spa après une journée dans le froid. Consultez notre <a href=\"top-10-spas-charlevoix.html\">Top 10 des spas</a>."
+          "description": "Rien de mieux qu'une séance de spa après une journée dans le froid. Consultez notre <a href=\"/top-10-spas-charlevoix\">Top 10 des spas</a>."
         }
       ]
     },
@@ -133,7 +133,7 @@
         },
         {
           "title": "📍 Où",
-          "content": "Plusieurs opérateurs dans la région<br>Secteurs de <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a> et <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a>"
+          "content": "Plusieurs opérateurs dans la région<br>Secteurs de <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a> et <a href=\"/la-malbaie-charlevoix\">La Malbaie</a>"
         },
         {
           "title": "🌐 En savoir plus",
@@ -142,5 +142,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"aventure-plein-air-charlevoix.html\">← Aventure plein air</a> · <a href=\"charlevoix-hiver.html\">Charlevoix en hiver</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/aventure-plein-air-charlevoix\">← Aventure plein air</a> · <a href=\"/charlevoix-hiver\">Charlevoix en hiver</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

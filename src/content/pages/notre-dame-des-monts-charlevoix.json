@@ -1,7 +1,7 @@
 {
   "slug": "notre-dame-des-monts-charlevoix",
   "title": "Notre-Dame-des-Monts — Village de montagnes, Charlevoix, Québec",
-  "description": "Notre-Dame-des-Monts, municipalité de Charlevoix-Est au Québec. Village de montagnes, rivière du Gouffre, la Noyée et nature préservée dans la réserve de la biosphère.",
+  "description": "Notre-Dame-des-Monts, municipalité de Charlevoix-Est au Québec. Village de montagnes, rivière du Gouffre, la Noyée et nature préservée dans la réserve de la...",
   "ogTitle": "Notre-Dame-des-Monts — Charlevoix, Québec",
   "ogDescription": "Village de montagnes dans Charlevoix-Est. Nature, rivière du Gouffre et légende de la Noyée.",
   "heroGradient": "linear-gradient(135deg, #3a6b3a 0%, #2D5016 100%)",
@@ -179,5 +179,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/la-malbaie-charlevoix\">La Malbaie</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

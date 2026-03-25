@@ -1,7 +1,7 @@
 {
   "slug": "chalets-charlevoix",
-  "title": "Chalets à Charlevoix — Location de chalets et maisons de vacances | Québec",
-  "description": "Trouvez le chalet parfait à Charlevoix. Guide des locations de chalets et maisons de vacances : bord de fleuve, montagne, spa privé. De Baie-Saint-Paul à La Malbaie.",
+  "title": "Chalets à Charlevoix — Location de chalets et maisons de vacances",
+  "description": "Trouvez le chalet parfait à Charlevoix. Guide des locations de chalets et maisons de vacances : bord de fleuve, montagne, spa privé.",
   "ogTitle": "Chalets à Charlevoix — Guide de location",
   "ogDescription": "Chalets et maisons de vacances à Charlevoix. Bord de fleuve, montagne, spa privé et plus.",
   "heroGradient": "linear-gradient(135deg, #7a5230 0%, #2D5016 100%)",
@@ -57,22 +57,22 @@
         {
           "icon": "🎨",
           "title": "Baie-Saint-Paul",
-          "description": "Chalets avec accès facile au centre-ville, aux galeries d'art et aux restaurants. Secteur prisé pour sa vie culturelle. <a href=\"baie-saint-paul-charlevoix.html\">Voir Baie-Saint-Paul →</a>"
+          "description": "Chalets avec accès facile au centre-ville, aux galeries d'art et aux restaurants. Secteur prisé pour sa vie culturelle. <a href=\"/baie-saint-paul-charlevoix\">Voir Baie-Saint-Paul →</a>"
         },
         {
           "icon": "⛷️",
           "title": "Petite-Rivière-Saint-François",
-          "description": "Populaire pour les chalets près du <a href=\"le-massif-ski-charlevoix.html\">Massif de Charlevoix</a>. Vue sur le fleuve et accès ski/montagne. <a href=\"petite-riviere-saint-francois-charlevoix.html\">Voir PRSF →</a>"
+          "description": "Populaire pour les chalets près du <a href=\"/le-massif-ski-charlevoix\">Massif de Charlevoix</a>. Vue sur le fleuve et accès ski/montagne. <a href=\"/petite-riviere-saint-francois-charlevoix\">Voir PRSF →</a>"
         },
         {
           "icon": "🏰",
           "title": "La Malbaie & environs",
-          "description": "Secteur calme avec accès aux <a href=\"parc-hautes-gorges-charlevoix.html\">Hautes-Gorges</a>, au <a href=\"casino-charlevoix.html\">Casino</a> et au Fairmont. Chalets en montagne ou en bordure de rivière. <a href=\"la-malbaie-charlevoix.html\">Voir La Malbaie →</a>"
+          "description": "Secteur calme avec accès aux <a href=\"/parc-hautes-gorges-charlevoix\">Hautes-Gorges</a>, au <a href=\"/casino-charlevoix\">Casino</a> et au Fairmont. Chalets en montagne ou en bordure de rivière. <a href=\"/la-malbaie-charlevoix\">Voir La Malbaie →</a>"
         },
         {
           "icon": "🏘️",
           "title": "Les Éboulements & Saint-Irénée",
-          "description": "Chalets sur les hauteurs avec vue fleuve. Secteur tranquille entre les deux pôles principaux de la région. <a href=\"les-eboulements-charlevoix.html\">Voir Les Éboulements →</a>"
+          "description": "Chalets sur les hauteurs avec vue fleuve. Secteur tranquille entre les deux pôles principaux de la région. <a href=\"/les-eboulements-charlevoix\">Voir Les Éboulements →</a>"
         }
       ]
     },
@@ -97,7 +97,7 @@
         {
           "icon": "🪵",
           "title": "Rustique & nature",
-          "description": "Camps en bois rond ou chalets simples en forêt. Déconnexion garantie, souvent à proximité des sentiers de <a href=\"randonnee-charlevoix.html\">randonnée</a>."
+          "description": "Camps en bois rond ou chalets simples en forêt. Déconnexion garantie, souvent à proximité des sentiers de <a href=\"/randonnee-charlevoix\">randonnée</a>."
         }
       ]
     },
@@ -118,10 +118,10 @@
         },
         {
           "title": "🏨 Autres options",
-          "content": "Consultez aussi nos guides : <a href=\"top-10-auberges-charlevoix-fr.html\">Top 10 auberges</a> et <a href=\"camping-charlevoix.html\">Camping à Charlevoix</a> pour d'autres types d'hébergement."
+          "content": "Consultez aussi nos guides : <a href=\"/top-10-auberges-charlevoix-fr\">Top 10 auberges</a> et <a href=\"/camping-charlevoix\">Camping à Charlevoix</a> pour d'autres types d'hébergement."
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-auberges-charlevoix-fr.html\">← Top 10 auberges</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-auberges-charlevoix-fr\">← Top 10 auberges</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

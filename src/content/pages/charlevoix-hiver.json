@@ -1,7 +1,7 @@
 {
   "slug": "charlevoix-hiver",
   "title": "Charlevoix en hiver — Ski, motoneige, spa et traineau",
-  "description": "Charlevoix en hiver : ski au Massif, motoneige, spas nordiques, traineau à chiens et gastronomie réconfortante. Guide complet pour un séjour hivernal dans Charlevoix.",
+  "description": "Charlevoix en hiver : ski au Massif, motoneige, spas nordiques, traineau à chiens et gastronomie réconfortante.",
   "ogTitle": "Charlevoix en hiver — Ski, motoneige, spa et traineau",
   "ogDescription": "L'hiver à Charlevoix, c'est le plus haut dénivelé de l'Est, des spas fumants et des paysages à couper le souffle.",
   "heroGradient": "linear-gradient(135deg, #1a3a5c 0%, #2c5f8a 50%, #2D5016 100%)",
@@ -47,8 +47,8 @@
     {
       "title": "L'hiver à Charlevoix",
       "paragraphs": [
-        "L'hiver transforme Charlevoix en un terrain de jeu spectaculaire. Les montagnes de la <a href=\"reserve-biosphere-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">Réserve de la biosphère</a> se couvrent d'un manteau blanc épais, le fleuve Saint-Laurent se pare de glaces et la région devient l'une des destinations hivernales les plus prisées du Québec.",
-        "C'est la saison du ski alpin au <a href=\"le-massif-ski-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">Massif de Charlevoix</a>, des spas nordiques fumants, de la motoneige dans les sentiers de montagne et des soirées réconfortantes devant le foyer."
+        "L'hiver transforme Charlevoix en un terrain de jeu spectaculaire. Les montagnes de la <a href=\"/reserve-biosphere-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">Réserve de la biosphère</a> se couvrent d'un manteau blanc épais, le fleuve Saint-Laurent se pare de glaces et la région devient l'une des destinations hivernales les plus prisées du Québec.",
+        "C'est la saison du ski alpin au <a href=\"/le-massif-ski-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">Massif de Charlevoix</a>, des spas nordiques fumants, de la motoneige dans les sentiers de montagne et des soirées réconfortantes devant le foyer."
       ]
     },
     {
@@ -57,12 +57,12 @@
         {
           "icon": "⛷️",
           "title": "Le Massif de Charlevoix",
-          "description": "<a href=\"le-massif-ski-charlevoix.html\">Le Massif</a> à <a href=\"petite-riviere-saint-francois-charlevoix.html\">Petite-Rivière-Saint-François</a> offre le plus haut dénivelé skiable de l'Est du Canada (770 m). 52 pistes avec vue sur le fleuve. Enneigement naturel abondant."
+          "description": "<a href=\"/le-massif-ski-charlevoix\">Le Massif</a> à <a href=\"/petite-riviere-saint-francois-charlevoix\">Petite-Rivière-Saint-François</a> offre le plus haut dénivelé skiable de l'Est du Canada (770 m). 52 pistes avec vue sur le fleuve. Enneigement naturel abondant."
         },
         {
           "icon": "🏔️",
           "title": "Mont Grand-Fonds",
-          "description": "Station familiale à <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a> avec 14 pistes de ski alpin et 160 km de sentiers de ski de fond. Ambiance locale et prix accessibles."
+          "description": "Station familiale à <a href=\"/la-malbaie-charlevoix\">La Malbaie</a> avec 14 pistes de ski alpin et 160 km de sentiers de ski de fond. Ambiance locale et prix accessibles."
         }
       ]
     },
@@ -72,7 +72,7 @@
         {
           "icon": "🏂",
           "title": "Ski de fond & raquette",
-          "description": "Des centaines de kilomètres de sentiers dans les parcs nationaux des <a href=\"parc-grands-jardins-charlevoix.html\">Grands-Jardins</a> et des <a href=\"parc-hautes-gorges-charlevoix.html\">Hautes-Gorges</a>, ainsi qu'au <a href=\"sentier-des-caps-charlevoix.html\">Sentier des Caps</a>."
+          "description": "Des centaines de kilomètres de sentiers dans les parcs nationaux des <a href=\"/parc-grands-jardins-charlevoix\">Grands-Jardins</a> et des <a href=\"/parc-hautes-gorges-charlevoix\">Hautes-Gorges</a>, ainsi qu'au <a href=\"/sentier-des-caps-charlevoix\">Sentier des Caps</a>."
         },
         {
           "icon": "🛷",
@@ -87,25 +87,25 @@
         {
           "icon": "🧊",
           "title": "Pêche sur glace",
-          "description": "La <a href=\"peche-charlevoix.html\">pêche dans Charlevoix</a> se pratique aussi en hiver. Plusieurs lacs et rivières offrent la pêche blanche dans des cabanes chauffées."
+          "description": "La <a href=\"/peche-charlevoix\">pêche dans Charlevoix</a> se pratique aussi en hiver. Plusieurs lacs et rivières offrent la pêche blanche dans des cabanes chauffées."
         }
       ]
     },
     {
       "title": "Spas & détente",
       "paragraphs": [
-        "Après une journée dans le froid, rien de mieux qu'un bain chaud en plein air avec vue sur les montagnes enneigées. Charlevoix est reconnu pour ses <a href=\"top-10-spas-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">expériences spa</a> exceptionnelles."
+        "Après une journée dans le froid, rien de mieux qu'un bain chaud en plein air avec vue sur les montagnes enneigées. Charlevoix est reconnu pour ses <a href=\"/top-10-spas-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">expériences spa</a> exceptionnelles."
       ],
       "highlightCards": [
         {
           "icon": "🧖",
           "title": "Spa Nordique Le Germain",
-          "description": "Le <a href=\"spa-germain-charlevoix.html\">Spa du Germain</a> à <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a> offre une expérience thermale en pleine nature. Bains chauds, saunas et repos sous les étoiles d'hiver."
+          "description": "Le <a href=\"/spa-germain-charlevoix\">Spa du Germain</a> à <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a> offre une expérience thermale en pleine nature. Bains chauds, saunas et repos sous les étoiles d'hiver."
         },
         {
           "icon": "🏰",
           "title": "Spa du Fairmont",
-          "description": "Le <a href=\"spa-fairmont-charlevoix.html\">Spa du Fairmont Le Manoir Richelieu</a> à <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a> propose des soins luxueux avec vue sur le fleuve."
+          "description": "Le <a href=\"/spa-fairmont-charlevoix\">Spa du Fairmont Le Manoir Richelieu</a> à <a href=\"/la-malbaie-charlevoix\">La Malbaie</a> propose des soins luxueux avec vue sur le fleuve."
         }
       ]
     },
@@ -118,12 +118,12 @@
         {
           "icon": "🍽️",
           "title": "Tables d'hiver",
-          "description": "Les menus saisonniers de <a href=\"les-labours-charlevoix.html\">Les Labours</a>, <a href=\"mouton-noir-charlevoix.html\">Le Mouton Noir</a> et <a href=\"restaurant-epicentre-charlevoix.html\">L'Épicentre</a> célèbrent les saveurs hivernales du terroir."
+          "description": "Les menus saisonniers de <a href=\"/les-labours-charlevoix\">Les Labours</a>, <a href=\"/mouton-noir-charlevoix\">Le Mouton Noir</a> et <a href=\"/restaurant-epicentre-charlevoix\">L'Épicentre</a> célèbrent les saveurs hivernales du terroir."
         },
         {
           "icon": "🎰",
           "title": "Casino de Charlevoix",
-          "description": "Le <a href=\"casino-charlevoix.html\">Casino de Charlevoix</a> à <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a> est une sortie populaire en soirée d'hiver. Restaurants, spectacles et jeux dans le cadre du Manoir Richelieu."
+          "description": "Le <a href=\"/casino-charlevoix\">Casino de Charlevoix</a> à <a href=\"/la-malbaie-charlevoix\">La Malbaie</a> est une sortie populaire en soirée d'hiver. Restaurants, spectacles et jeux dans le cadre du Manoir Richelieu."
         }
       ]
     },
@@ -135,11 +135,11 @@
       "infoCards": [
         {
           "title": "🏨 Auberges",
-          "content": "Nos <a href=\"top-10-auberges-charlevoix-fr.html\">10 meilleures auberges</a> pour un séjour hivernal. Foyers, couettes épaisses et repas du terroir."
+          "content": "Nos <a href=\"/top-10-auberges-charlevoix-fr\">10 meilleures auberges</a> pour un séjour hivernal. Foyers, couettes épaisses et repas du terroir."
         },
         {
           "title": "🏠 Chalets",
-          "content": "<a href=\"chalets-charlevoix.html\">Chalets</a> avec spa privé et vue sur les montagnes enneigées — le cocooning parfait."
+          "content": "<a href=\"/chalets-charlevoix\">Chalets</a> avec spa privé et vue sur les montagnes enneigées — le cocooning parfait."
         }
       ]
     },
@@ -165,5 +165,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix-automne.html\">← Automne</a> · <a href=\"charlevoix-printemps.html\">Printemps →</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix-automne\">← Automne</a> · <a href=\"/charlevoix-printemps\">Printemps →</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

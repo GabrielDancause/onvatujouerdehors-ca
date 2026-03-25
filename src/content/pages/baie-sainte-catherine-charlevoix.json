@@ -1,7 +1,7 @@
 {
   "slug": "baie-sainte-catherine-charlevoix",
   "title": "Baie-Sainte-Catherine — Village de Charlevoix, Québec",
-  "description": "Baie-Sainte-Catherine, porte d'entrée vers l'observation des baleines à Charlevoix. Confluent du Saguenay et du Saint-Laurent, traversier vers Tadoussac, Pointe-aux-Alouettes.",
+  "description": "Baie-Sainte-Catherine, porte d'entrée vers l'observation des baleines à Charlevoix. Confluent du Saguenay et du Saint-Laurent, traversier vers Tadoussac, Poi...",
   "ogTitle": "Baie-Sainte-Catherine — Charlevoix, Québec",
   "ogDescription": "Au confluent du Saguenay et du Saint-Laurent. Baleines, traversier vers Tadoussac et histoire du premier traité franco-amérindien.",
   "heroGradient": "linear-gradient(135deg, #1a3d5c 0%, #2D5016 100%)",
@@ -44,7 +44,7 @@
       "paragraphs": [
         "Baie-Sainte-Catherine est le bout de la route de Charlevoix — littéralement. Nichée au confluent de la rivière Saguenay et du fleuve Saint-Laurent, cette petite municipalité de 184 habitants est la porte d'entrée vers le monde des baleines et le traversier gratuit vers Tadoussac.",
         "Malgré sa taille modeste, le village a une importance historique majeure : c'est ici, à la Pointe-aux-Alouettes, que fut signé en 1603 le premier traité franco-amérindien du Nouveau Monde entre Samuel de Champlain et le chef montagnais Anadabijou.",
-        "Aujourd'hui, l'économie repose essentiellement sur le tourisme lié à l'<a href=\"observation-baleines-charlevoix.html\" style=\"color:#2D5016;font-weight:600;text-decoration:none;\">observation des baleines</a> et la position stratégique du village comme dernier arrêt avant la Côte-Nord."
+        "Aujourd'hui, l'économie repose essentiellement sur le tourisme lié à l'<a href=\"/observation-baleines-charlevoix\" style=\"color:#2D5016;font-weight:600;text-decoration:none;\">observation des baleines</a> et la position stratégique du village comme dernier arrêt avant la Côte-Nord."
       ]
     },
     {
@@ -71,7 +71,7 @@
         {
           "icon": "🌊",
           "title": "Parc marin du Saguenay",
-          "description": "Le village est une des portes d'entrée du <a href=\"parc-marin-saguenay-charlevoix.html\" style=\"color:#2D5016;font-weight:600;text-decoration:none;\">Parc marin du Saguenay–Saint-Laurent</a>, aire marine protégée fédérale-provinciale.",
+          "description": "Le village est une des portes d'entrée du <a href=\"/parc-marin-saguenay-charlevoix\" style=\"color:#2D5016;font-weight:600;text-decoration:none;\">Parc marin du Saguenay–Saint-Laurent</a>, aire marine protégée fédérale-provinciale.",
           "href": null
         }
       ]
@@ -185,5 +185,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"road-trip-charlevoix.html\">Road trip</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/road-trip-charlevoix\">Road trip</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

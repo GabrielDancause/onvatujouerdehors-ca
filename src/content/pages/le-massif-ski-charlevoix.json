@@ -1,6 +1,6 @@
 {
   "slug": "le-massif-ski-charlevoix",
-  "title": "Le Massif de Charlevoix — Ski alpin, Petite-Rivière-Saint-François, Québec",
+  "title": "Le Massif de Charlevoix — Ski alpin, Petite-Ri",
   "description": "Le Massif de Charlevoix : plus haut dénivelé de l'Est du Canada (770 m). 52 pistes de ski avec vue sur le fleuve Saint-Laurent à Petite-Rivière-Saint-François.",
   "ogTitle": "Le Massif de Charlevoix — Ski alpin",
   "ogDescription": "770 m de dénivelé, 52 pistes, vue sur le fleuve. La montagne emblématique de Charlevoix.",
@@ -47,7 +47,7 @@
     {
       "title": "La montagne",
       "paragraphs": [
-        "Le Massif de Charlevoix est la montagne de ski emblématique du Québec. Situé à <a href=\"petite-riviere-saint-francois-charlevoix.html\">Petite-Rivière-Saint-François</a>, à 70 km au nord-est de la ville de Québec, Le Massif offre le plus haut dénivelé skiable de l'Est du Canada avec ses 770 mètres — du sommet à 806 m d'altitude jusqu'à la base au niveau du fleuve.",
+        "Le Massif de Charlevoix est la montagne de ski emblématique du Québec. Situé à <a href=\"/petite-riviere-saint-francois-charlevoix\">Petite-Rivière-Saint-François</a>, à 70 km au nord-est de la ville de Québec, Le Massif offre le plus haut dénivelé skiable de l'Est du Canada avec ses 770 mètres — du sommet à 806 m d'altitude jusqu'à la base au niveau du fleuve.",
         "Ce qui distingue Le Massif de toutes les autres stations, c'est la vue spectaculaire sur le fleuve Saint-Laurent qu'on a en dévalant les pentes. On skie littéralement vers le fleuve. L'enneigement naturel y est abondant, avec souvent plus de 240 cm de neige compactée au sommet, ce qui en fait une des montagnes les mieux enneigées de l'Est."
       ]
     },
@@ -105,7 +105,7 @@
         },
         {
           "year": "Aujourd'hui",
-          "desc": "Projet « Territoire Le Massif » en développement — 180 M$ d'investissements pour en faire une destination quatre saisons, incluant hébergement, activités et le lien avec le <a href=\"train-charlevoix.html\">Train de Charlevoix</a>."
+          "desc": "Projet « Territoire Le Massif » en développement — 180 M$ d'investissements pour en faire une destination quatre saisons, incluant hébergement, activités et le lien avec le <a href=\"/train-charlevoix\">Train de Charlevoix</a>."
         }
       ]
     },
@@ -156,5 +156,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-activites-charlevoix.html\">← Top 10 activités</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-activites-charlevoix\">← Top 10 activités</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

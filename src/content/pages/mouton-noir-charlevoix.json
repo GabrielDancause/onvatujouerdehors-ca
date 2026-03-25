@@ -1,7 +1,7 @@
 {
   "slug": "mouton-noir-charlevoix",
   "title": "Le Mouton Noir — Bistro, Baie-Saint-Paul, Charlevoix",
-  "description": "Le Mouton Noir, bistro emblématique de Baie-Saint-Paul dans Charlevoix. Cuisine créative de marché, produits locaux de Charlevoix, terrasse et ambiance chaleureuse sur la rue Sainte-Anne.",
+  "description": "Le Mouton Noir, bistro emblématique de Baie-Saint-Paul dans Charlevoix. Cuisine créative de marché, produits locaux de Charlevoix, terrasse et ambiance chale...",
   "ogTitle": "Le Mouton Noir — Baie-Saint-Paul, Charlevoix",
   "ogDescription": "Bistro emblématique de Baie-Saint-Paul. Cuisine de marché, produits locaux et ambiance chaleureuse.",
   "heroGradient": "linear-gradient(135deg, #2e2e2e 0%, #2D5016 100%)",
@@ -42,8 +42,8 @@
     {
       "title": "Le restaurant",
       "paragraphs": [
-        "Le Mouton Noir est une destination gastronomique incontournable de <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a>. Situé sur la rue Sainte-Anne, à deux pas du Musée d'art contemporain et de la rivière du Gouffre, ce bistro est reconnu pour sa cuisine raffinée et son service impeccable.",
-        "Le menu met en valeur les produits de Charlevoix : charcuteries des <a href=\"viandes-bio-charlevoix.html\">Viandes Bio de Charlevoix</a>, fromages locaux, agneau de la <a href=\"famille-migneron-charlevoix.html\">Famille Migneron</a>. Que ce soit pour un tartare de bœuf, un plat de morue ou un bon steak, chaque assiette raconte le terroir charlevoisien."
+        "Le Mouton Noir est une destination gastronomique incontournable de <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a>. Situé sur la rue Sainte-Anne, à deux pas du Musée d'art contemporain et de la rivière du Gouffre, ce bistro est reconnu pour sa cuisine raffinée et son service impeccable.",
+        "Le menu met en valeur les produits de Charlevoix : charcuteries des <a href=\"/viandes-bio-charlevoix\">Viandes Bio de Charlevoix</a>, fromages locaux, agneau de la <a href=\"/famille-migneron-charlevoix\">Famille Migneron</a>. Que ce soit pour un tartare de bœuf, un plat de morue ou un bon steak, chaque assiette raconte le terroir charlevoisien."
       ]
     },
     {
@@ -100,5 +100,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-restaurants-charlevoix.html\">← Top 10 restaurants</a> · <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-restaurants-charlevoix\">← Top 10 restaurants</a> · <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

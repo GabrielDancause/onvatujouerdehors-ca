@@ -1,7 +1,7 @@
 {
   "slug": "plage-saint-irenee-charlevoix",
   "title": "Plage de Saint-Irénée — Charlevoix, Québec",
-  "description": "La plage de Saint-Irénée à Charlevoix : l'une des plus belles plages du fleuve Saint-Laurent. Sable fin, couchers de soleil spectaculaires et ambiance de village.",
+  "description": "La plage de Saint-Irénée à Charlevoix : l'une des plus belles plages du fleuve Saint-Laurent. Sable fin, couchers de soleil spectaculaires et ambiance de vil...",
   "ogTitle": "Plage de Saint-Irénée — Charlevoix",
   "ogDescription": "L'une des plus belles plages du fleuve Saint-Laurent, au cœur de Charlevoix.",
   "heroGradient": "linear-gradient(135deg, #1a6b8a 0%, #2D5016 100%)",
@@ -96,5 +96,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"auberge-de-nos-aieux-charlevoix.html\">← Auberge de nos Aïeux</a> · <a href=\"top-10-auberges-charlevoix-fr.html\">Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/auberge-de-nos-aieux-charlevoix\">← Auberge de nos Aïeux</a> · <a href=\"/top-10-auberges-charlevoix-fr\">Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

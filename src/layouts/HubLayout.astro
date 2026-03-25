@@ -4,7 +4,7 @@ const { page } = Astro.props;
 ---
 <html lang="fr">
 <head>
-    <BaseHead title={page.title} description={page.description} ogTitle={page.ogTitle} ogDescription={page.ogDescription} />
+    <BaseHead title={page.title} description={page.description} ogTitle={page.ogTitle} ogDescription={page.ogDescription} slug={page.slug} />
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #fafafa; color: #1a1a1a; line-height: 1.7; }

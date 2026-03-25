@@ -1,7 +1,7 @@
 {
   "slug": "les-eboulements-charlevoix",
   "title": "Les Éboulements — Village de Charlevoix, Québec",
-  "description": "Les Éboulements, l'un des plus beaux villages du Québec. Histoire seigneuriale, panoramas sur le fleuve Saint-Laurent, Île-aux-Coudres, auberges, agrotourisme et patrimoine charlevoisien.",
+  "description": "Les Éboulements, l'un des plus beaux villages du Québec. Histoire seigneuriale, panoramas sur le fleuve Saint-Laurent, Île-aux-Coudres, auberges, agrotourism...",
   "ogTitle": "Les Éboulements — Charlevoix, Québec",
   "ogDescription": "L'un des plus beaux villages du Québec. Panoramas sur le fleuve, patrimoine seigneurial et terroir charlevoisien.",
   "heroGradient": "linear-gradient(135deg, #2D5016 0%, #1a2e1a 60%, #3a5a2e 100%)",
@@ -203,5 +203,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-auberges-charlevoix-fr.html\">Top 10 Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-auberges-charlevoix-fr\">Top 10 Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

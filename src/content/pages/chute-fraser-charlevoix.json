@@ -1,7 +1,7 @@
 {
   "slug": "chute-fraser-charlevoix",
   "title": "Chute Fraser — Baie-Sainte-Catherine, Charlevoix, Québec",
-  "description": "Découvrez la chute Fraser à Baie-Sainte-Catherine dans Charlevoix. Randonnée courte en forêt menant à une impressionnante chute d'eau. Accès gratuit, idéal en famille.",
+  "description": "Découvrez la chute Fraser à Baie-Sainte-Catherine dans Charlevoix. Randonnée courte en forêt menant à une impressionnante chute d'eau.",
   "ogTitle": "Chute Fraser — Baie-Sainte-Catherine, Charlevoix",
   "ogDescription": "Randonnée facile vers une chute spectaculaire à Baie-Sainte-Catherine. Accès gratuit, nature sauvage.",
   "heroGradient": "linear-gradient(135deg, #2d6a4f 0%, #1b4332 100%)",
@@ -43,8 +43,8 @@
     {
       "title": "La chute",
       "paragraphs": [
-        "La chute Fraser est une impressionnante cascade située dans le secteur de <a href=\"baie-sainte-catherine-charlevoix.html\">Baie-Sainte-Catherine</a>, à l'extrémité est de Charlevoix, là où le Saguenay se jette dans le fleuve Saint-Laurent. La chute dévale une paroi rocheuse d'environ 30 mètres dans un décor de forêt boréale dense et sauvage.",
-        "C'est un attrait naturel discret, moins fréquenté que les grands parcs de Charlevoix, ce qui en fait une belle découverte pour les randonneurs qui aiment sortir des sentiers battus. Le sentier forestier qui y mène est court et accessible, idéal pour une pause nature en route vers une <a href=\"observation-baleines-charlevoix.html\">croisière aux baleines</a> ou le traversier vers Tadoussac."
+        "La chute Fraser est une impressionnante cascade située dans le secteur de <a href=\"/baie-sainte-catherine-charlevoix\">Baie-Sainte-Catherine</a>, à l'extrémité est de Charlevoix, là où le Saguenay se jette dans le fleuve Saint-Laurent. La chute dévale une paroi rocheuse d'environ 30 mètres dans un décor de forêt boréale dense et sauvage.",
+        "C'est un attrait naturel discret, moins fréquenté que les grands parcs de Charlevoix, ce qui en fait une belle découverte pour les randonneurs qui aiment sortir des sentiers battus. Le sentier forestier qui y mène est court et accessible, idéal pour une pause nature en route vers une <a href=\"/observation-baleines-charlevoix\">croisière aux baleines</a> ou le traversier vers Tadoussac."
       ]
     },
     {
@@ -89,7 +89,7 @@
         },
         {
           "title": "🐋 À combiner avec",
-          "content": "<a href=\"observation-baleines-charlevoix.html\">Observation des baleines</a><br><a href=\"parc-marin-saguenay-charlevoix.html\">Parc marin du Saguenay</a><br>Traversier vers Tadoussac"
+          "content": "<a href=\"/observation-baleines-charlevoix\">Observation des baleines</a><br><a href=\"/parc-marin-saguenay-charlevoix\">Parc marin du Saguenay</a><br>Traversier vers Tadoussac"
         }
       ]
     },
@@ -119,5 +119,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"baie-sainte-catherine-charlevoix.html\">← Baie-Sainte-Catherine</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/baie-sainte-catherine-charlevoix\">← Baie-Sainte-Catherine</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

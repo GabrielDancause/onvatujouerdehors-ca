@@ -1,7 +1,7 @@
 {
   "slug": "microbrasseries-charlevoix",
   "title": "Microbrasseries de Charlevoix — Bières artisanales, Québec",
-  "description": "Les microbrasseries de Charlevoix : MicroBrasserie Charlevoix et son Saint-Pub depuis 1998, Menaud Distillerie et Brasserie. Bières artisanales à Baie-Saint-Paul.",
+  "description": "Les microbrasseries de Charlevoix : MicroBrasserie Charlevoix et son Saint-Pub depuis 1998, Menaud Distillerie et Brasserie.",
   "ogTitle": "Microbrasseries de Charlevoix — Bières artisanales",
   "ogDescription": "Bières artisanales de Charlevoix. MicroBrasserie Charlevoix, Menaud et plus.",
   "heroGradient": "linear-gradient(135deg, #b5651d 0%, #2D5016 100%)",
@@ -42,7 +42,7 @@
     {
       "title": "La scène brassicole de Charlevoix",
       "paragraphs": [
-        "Charlevoix ne fait pas que du fromage. La région possède aussi une scène brassicole artisanale dynamique, ancrée dans le même esprit de terroir qui définit toute la gastronomie charlevoisienne. <a href=\"baie-saint-paul-charlevoix.html\" style=\"color:#2D5016;font-weight:600;\">Baie-Saint-Paul</a> est le cœur brassicole de la région.",
+        "Charlevoix ne fait pas que du fromage. La région possède aussi une scène brassicole artisanale dynamique, ancrée dans le même esprit de terroir qui définit toute la gastronomie charlevoisienne. <a href=\"/baie-saint-paul-charlevoix\" style=\"color:#2D5016;font-weight:600;\">Baie-Saint-Paul</a> est le cœur brassicole de la région.",
         "Depuis l'ouverture de la MicroBrasserie Charlevoix en 1998, l'offre n'a cessé de s'enrichir. Aujourd'hui, les brasseurs de Charlevoix produisent des bières de styles variés — des classiques belges aux créations plus audacieuses — ainsi que des spiritueux artisanaux."
       ]
     },
@@ -88,7 +88,7 @@
     {
       "title": "Le Saint-Pub — le restaurant",
       "paragraphs": [
-        "Le Saint-Pub est le restaurant de la MicroBrasserie Charlevoix, situé en plein cœur du centre-ville de <a href=\"baie-saint-paul-charlevoix.html\" style=\"color:#2D5016;font-weight:600;\">Baie-Saint-Paul</a>. Un menu savoureux accompagné de la gamme complète de bières brassées sur place. Réservations via l'application Libro (pas de réservation par téléphone)."
+        "Le Saint-Pub est le restaurant de la MicroBrasserie Charlevoix, situé en plein cœur du centre-ville de <a href=\"/baie-saint-paul-charlevoix\" style=\"color:#2D5016;font-weight:600;\">Baie-Saint-Paul</a>. Un menu savoureux accompagné de la gamme complète de bières brassées sur place. Réservations via l'application Libro (pas de réservation par téléphone)."
       ]
     },
     {
@@ -108,10 +108,10 @@
         },
         {
           "title": "🗺️ À combiner avec",
-          "content": "<a href=\"route-saveurs-charlevoix.html\">Route des Saveurs</a> · <a href=\"top-10-restaurants-charlevoix.html\">Top 10 restaurants</a> · <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a>"
+          "content": "<a href=\"/route-saveurs-charlevoix\">Route des Saveurs</a> · <a href=\"/top-10-restaurants-charlevoix\">Top 10 restaurants</a> · <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a>"
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">← Charlevoix</a> · <a href=\"route-saveurs-charlevoix.html\">Route des Saveurs</a> · <a href=\"top-10-restaurants-charlevoix.html\">Top 10 restaurants</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">← Charlevoix</a> · <a href=\"/route-saveurs-charlevoix\">Route des Saveurs</a> · <a href=\"/top-10-restaurants-charlevoix\">Top 10 restaurants</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

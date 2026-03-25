@@ -48,7 +48,7 @@
       "title": "Le parc marin",
       "paragraphs": [
         "Le Parc marin du Saguenay–Saint-Laurent est une aire marine protégée située à l'embouchure du fjord de la rivière Saguenay, au Québec. Géré conjointement par Parcs Canada et la Sépaq, il protège un écosystème marin d'une richesse exceptionnelle où l'eau douce du fjord rencontre l'eau salée du fleuve.",
-        "Le territoire du parc est exclusivement composé d'eau — fonds marins, colonne d'eau et rivage immergé à marée haute. Il s'étend du cap de l'Est à Sainte-Rose-du-Nord (en amont sur le Saguenay) jusqu'au Gros cap à l'Aigle à <a href=\"la-malbaie-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">La Malbaie</a> et à la pointe Rouge aux Escoumins. Le Saguenay représente 17 % de la superficie et le Saint-Laurent 83 %.",
+        "Le territoire du parc est exclusivement composé d'eau — fonds marins, colonne d'eau et rivage immergé à marée haute. Il s'étend du cap de l'Est à Sainte-Rose-du-Nord (en amont sur le Saguenay) jusqu'au Gros cap à l'Aigle à <a href=\"/la-malbaie-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">La Malbaie</a> et à la pointe Rouge aux Escoumins. Le Saguenay représente 17 % de la superficie et le Saint-Laurent 83 %.",
         "Le parc est reconnu internationalement pour la qualité des observations de mammifères marins que l'on peut y faire, autant en mer qu'à partir de la rive. Plus de 2 200 espèces fréquentent ces eaux, incluant des espèces en péril comme le béluga du Saint-Laurent, le rorqual bleu et le garrot d'Islande."
       ]
     },
@@ -81,7 +81,7 @@
       "title": "Observer les baleines",
       "paragraphs": [
         "Les chances d'apercevoir des baleines sont très bonnes tout au long de la période estivale (mai à octobre). Plus d'une dizaine d'espèces de mammifères marins visitent les environs chaque été. On peut les observer lors de croisières en bateau ou en kayak, mais aussi directement depuis la rive à certains points d'observation.",
-        "Pour en savoir plus sur les excursions d'observation, consultez notre page dédiée : <a href=\"observation-baleines-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">Observation des baleines dans Charlevoix →</a>"
+        "Pour en savoir plus sur les excursions d'observation, consultez notre page dédiée : <a href=\"/observation-baleines-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">Observation des baleines dans Charlevoix →</a>"
       ]
     },
     {
@@ -110,7 +110,7 @@
         {
           "icon": "🏰",
           "title": "La Malbaie",
-          "description": "Le Gros cap à l'Aigle marque la limite amont du parc côté Charlevoix. <a href=\"la-malbaie-charlevoix.html\">Voir la ville →</a>"
+          "description": "Le Gros cap à l'Aigle marque la limite amont du parc côté Charlevoix. <a href=\"/la-malbaie-charlevoix\">Voir la ville →</a>"
         },
         {
           "icon": "⛴️",
@@ -136,10 +136,10 @@
         },
         {
           "title": "🔗 Voir aussi",
-          "content": "<a href=\"observation-baleines-charlevoix.html\">Observation des baleines</a><br><a href=\"reserve-biosphere-charlevoix.html\">Réserve de la biosphère</a><br><a href=\"randonnee-charlevoix.html\">Randonnée</a>"
+          "content": "<a href=\"/observation-baleines-charlevoix\">Observation des baleines</a><br><a href=\"/reserve-biosphere-charlevoix\">Réserve de la biosphère</a><br><a href=\"/randonnee-charlevoix\">Randonnée</a>"
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"observation-baleines-charlevoix.html\">← Observation des baleines</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/observation-baleines-charlevoix\">← Observation des baleines</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

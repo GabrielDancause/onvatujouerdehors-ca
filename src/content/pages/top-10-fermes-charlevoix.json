@@ -1,7 +1,7 @@
 {
   "slug": "top-10-fermes-charlevoix",
   "title": "Top 10 — Fermes et terroir de Charlevoix, Québec",
-  "description": "Top 10 des meilleures fermes, fromageries et expériences agrotouristiques de Charlevoix. Laiterie Charlevoix, Famille Migneron, Ferme Éboulmontaise, Cidrerie Pedneault et plus.",
+  "description": "Top 10 des meilleures fermes, fromageries et expériences agrotouristiques de Charlevoix. Laiterie Charlevoix, Famille Migneron, Ferme Éboulmontaise, Cidrerie...",
   "ogTitle": "Top 10 — Fermes et terroir de Charlevoix",
   "ogDescription": "Les meilleures fermes, fromageries et producteurs de Charlevoix au Québec.",
   "heroGradient": "linear-gradient(135deg, #5a3e1b 0%, #2D5016 100%)",
@@ -167,5 +167,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-auberges-charlevoix-fr.html\">Top 10 auberges</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-auberges-charlevoix-fr\">Top 10 auberges</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

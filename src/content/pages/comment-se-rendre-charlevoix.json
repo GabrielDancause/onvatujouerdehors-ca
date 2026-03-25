@@ -53,17 +53,17 @@
         {
           "icon": "🛣️",
           "title": "Depuis Québec (1h30)",
-          "description": "Prenez l'autoroute 40 Est, puis la route 138 Est via la Côte-de-Beaupré. Vous arrivez à <a href=\"petite-riviere-saint-francois-charlevoix.html\">Petite-Rivière-Saint-François</a> et <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a> en environ 1h15-1h30."
+          "description": "Prenez l'autoroute 40 Est, puis la route 138 Est via la Côte-de-Beaupré. Vous arrivez à <a href=\"/petite-riviere-saint-francois-charlevoix\">Petite-Rivière-Saint-François</a> et <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a> en environ 1h15-1h30."
         },
         {
           "icon": "🏙️",
           "title": "Depuis Montréal (4h30)",
-          "description": "Autoroute 20 Est ou 40 Est jusqu'à Québec, puis route 138 Est. Comptez environ 4h30 pour <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a>, 5h pour <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a>."
+          "description": "Autoroute 20 Est ou 40 Est jusqu'à Québec, puis route 138 Est. Comptez environ 4h30 pour <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a>, 5h pour <a href=\"/la-malbaie-charlevoix\">La Malbaie</a>."
         },
         {
           "icon": "🌊",
           "title": "Route du Fleuve (362)",
-          "description": "À partir de Baie-Saint-Paul, empruntez la <a href=\"route-fleuve-charlevoix.html\">Route 362</a> — la route panoramique qui longe le fleuve. Plus longue que la 138, mais infiniment plus belle."
+          "description": "À partir de Baie-Saint-Paul, empruntez la <a href=\"/route-fleuve-charlevoix\">Route 362</a> — la route panoramique qui longe le fleuve. Plus longue que la 138, mais infiniment plus belle."
         },
         {
           "icon": "⛴️",
@@ -75,13 +75,13 @@
     {
       "title": "En autobus",
       "paragraphs": [
-        "Des services d'autobus interurbains relient Québec à Charlevoix. Intercar/Groupe Keolis offre des liaisons régulières entre Québec et les principales municipalités de Charlevoix (<a href=\"baie-saint-paul-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">Baie-Saint-Paul</a>, <a href=\"la-malbaie-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">La Malbaie</a>). Vérifiez les horaires et la disponibilité sur leur site web avant de voyager."
+        "Des services d'autobus interurbains relient Québec à Charlevoix. Intercar/Groupe Keolis offre des liaisons régulières entre Québec et les principales municipalités de Charlevoix (<a href=\"/baie-saint-paul-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">Baie-Saint-Paul</a>, <a href=\"/la-malbaie-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">La Malbaie</a>). Vérifiez les horaires et la disponibilité sur leur site web avant de voyager."
       ]
     },
     {
       "title": "En avion",
       "paragraphs": [
-        "L'aéroport international Jean-Lesage de Québec (YQB) est le point d'entrée le plus proche. Situé à environ 1h30 de route de <a href=\"baie-saint-paul-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">Baie-Saint-Paul</a>, il est desservi par les principales compagnies aériennes canadiennes. La location de voiture à l'aéroport est fortement recommandée."
+        "L'aéroport international Jean-Lesage de Québec (YQB) est le point d'entrée le plus proche. Situé à environ 1h30 de route de <a href=\"/baie-saint-paul-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">Baie-Saint-Paul</a>, il est desservi par les principales compagnies aériennes canadiennes. La location de voiture à l'aéroport est fortement recommandée."
       ]
     },
     {
@@ -90,22 +90,22 @@
         {
           "icon": "🛣️",
           "title": "Route 138",
-          "description": "L'axe principal qui traverse Charlevoix d'ouest en est. Route rapide et bien entretenue reliant <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a>, <a href=\"clermont-charlevoix.html\">Clermont</a> et <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a>."
+          "description": "L'axe principal qui traverse Charlevoix d'ouest en est. Route rapide et bien entretenue reliant <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a>, <a href=\"/clermont-charlevoix\">Clermont</a> et <a href=\"/la-malbaie-charlevoix\">La Malbaie</a>."
         },
         {
           "icon": "🌅",
           "title": "Route 362 (Route du Fleuve)",
-          "description": "La <a href=\"route-fleuve-charlevoix.html\">Route du Fleuve</a> — route panoramique qui passe par <a href=\"les-eboulements-charlevoix.html\">Les Éboulements</a> et <a href=\"saint-irenee-charlevoix.html\">Saint-Irénée</a>. La plus belle route de Charlevoix."
+          "description": "La <a href=\"/route-fleuve-charlevoix\">Route du Fleuve</a> — route panoramique qui passe par <a href=\"/les-eboulements-charlevoix\">Les Éboulements</a> et <a href=\"/saint-irenee-charlevoix\">Saint-Irénée</a>. La plus belle route de Charlevoix."
         },
         {
           "icon": "🏔️",
           "title": "Route des Montagnes",
-          "description": "La route 381 qui monte vers <a href=\"saint-urbain-charlevoix.html\">Saint-Urbain</a> et le parc des <a href=\"parc-grands-jardins-charlevoix.html\">Grands-Jardins</a>. Paysages montagneux spectaculaires."
+          "description": "La route 381 qui monte vers <a href=\"/saint-urbain-charlevoix\">Saint-Urbain</a> et le parc des <a href=\"/parc-grands-jardins-charlevoix\">Grands-Jardins</a>. Paysages montagneux spectaculaires."
         },
         {
           "icon": "🧀",
           "title": "Route des Saveurs",
-          "description": "La <a href=\"route-saveurs-charlevoix.html\">Route des Saveurs</a> relie les producteurs et artisans de Charlevoix. Un circuit agrotouristique qui traverse toute la région."
+          "description": "La <a href=\"/route-saveurs-charlevoix\">Route des Saveurs</a> relie les producteurs et artisans de Charlevoix. Un circuit agrotouristique qui traverse toute la région."
         }
       ]
     },
@@ -122,7 +122,7 @@
         },
         {
           "title": "🏘️ BSP ↔ Petite-Rivière",
-          "content": "~15 km (15 min — accès au <a href=\"le-massif-ski-charlevoix.html\">Massif</a>)"
+          "content": "~15 km (15 min — accès au <a href=\"/le-massif-ski-charlevoix\">Massif</a>)"
         },
         {
           "title": "🏘️ La Malbaie ↔ Saint-Siméon",
@@ -152,5 +152,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"carte-charlevoix.html\">Carte et itinéraires</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/carte-charlevoix\">Carte et itinéraires</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

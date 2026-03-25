@@ -1,7 +1,7 @@
 {
   "slug": "ile-aux-coudres-charlevoix",
   "title": "L'Île-aux-Coudres — Charlevoix, Québec",
-  "description": "L'Île-aux-Coudres à Charlevoix. Une île historique dans le fleuve Saint-Laurent accessible par traversier gratuit. Vélo, fromageries, moulins patrimoniaux et paysages spectaculaires.",
+  "description": "L'Île-aux-Coudres à Charlevoix. Une île historique dans le fleuve Saint-Laurent accessible par traversier gratuit.",
   "ogTitle": "L'Île-aux-Coudres — Charlevoix",
   "ogDescription": "Île historique du Saint-Laurent. Vélo, fromageries, moulins et paysages spectaculaires.",
   "heroGradient": "linear-gradient(135deg, #1a6b8a 0%, #2D5016 100%)",
@@ -93,5 +93,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"auberge-de-nos-aieux-charlevoix.html\">← Auberge de nos Aïeux</a> · <a href=\"top-10-auberges-charlevoix-fr.html\">Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/auberge-de-nos-aieux-charlevoix\">← Auberge de nos Aïeux</a> · <a href=\"/top-10-auberges-charlevoix-fr\">Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

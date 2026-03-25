@@ -47,7 +47,7 @@
     {
       "title": "Le canot dans Charlevoix",
       "paragraphs": [
-        "<a href=\"charlevoix.html\">Charlevoix</a> est sillonnée de rivières et parsemée de lacs qui se prêtent magnifiquement au canot. La rivière Malbaie, la rivière du Gouffre et les plans d'eau des parcs nationaux offrent des parcours variés, du calme absolu aux sections plus animées.",
+        "<a href=\"/charlevoix\">Charlevoix</a> est sillonnée de rivières et parsemée de lacs qui se prêtent magnifiquement au canot. La rivière Malbaie, la rivière du Gouffre et les plans d'eau des parcs nationaux offrent des parcours variés, du calme absolu aux sections plus animées.",
         "Le rabaska — grand canot d'écorce traditionnel pouvant accueillir une dizaine de pagayeurs — permet de vivre l'expérience en groupe. Plusieurs pourvoyeurs de la région proposent des excursions guidées en rabaska, une activité idéale pour les familles et les groupes."
       ]
     },
@@ -57,22 +57,22 @@
         {
           "icon": "🏔️",
           "title": "Parc des Hautes-Gorges — Rivière Malbaie",
-          "description": "Le <a href=\"parc-hautes-gorges-charlevoix.html\">parc national des Hautes-Gorges-de-la-Rivière-Malbaie</a> offre un parcours spectaculaire entre des parois rocheuses de plus de 700 mètres. Location de canots et de kayaks disponible au centre de services."
+          "description": "Le <a href=\"/parc-hautes-gorges-charlevoix\">parc national des Hautes-Gorges-de-la-Rivière-Malbaie</a> offre un parcours spectaculaire entre des parois rocheuses de plus de 700 mètres. Location de canots et de kayaks disponible au centre de services."
         },
         {
           "icon": "🌊",
           "title": "Rivière du Gouffre",
-          "description": "La rivière du Gouffre traverse <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a> et offre des sections calmes propices au canot récréatif, avec un paysage champêtre bordé de montagnes."
+          "description": "La rivière du Gouffre traverse <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a> et offre des sections calmes propices au canot récréatif, avec un paysage champêtre bordé de montagnes."
         },
         {
           "icon": "🌲",
           "title": "Parc des Grands-Jardins",
-          "description": "Le <a href=\"parc-grands-jardins-charlevoix.html\">parc national des Grands-Jardins</a> compte plusieurs lacs accessibles en canot, dans un décor de taïga et de forêt boréale unique au sud du Québec."
+          "description": "Le <a href=\"/parc-grands-jardins-charlevoix\">parc national des Grands-Jardins</a> compte plusieurs lacs accessibles en canot, dans un décor de taïga et de forêt boréale unique au sud du Québec."
         },
         {
           "icon": "🏝️",
           "title": "Isle-aux-Coudres",
-          "description": "Les eaux autour de l'<a href=\"ile-aux-coudres-charlevoix.html\">Isle-aux-Coudres</a> permettent des sorties en canot près des rives, mais attention aux marées et aux courants du fleuve."
+          "description": "Les eaux autour de l'<a href=\"/ile-aux-coudres-charlevoix\">Isle-aux-Coudres</a> permettent des sorties en canot près des rives, mais attention aux marées et aux courants du fleuve."
         }
       ]
     },
@@ -103,25 +103,25 @@
         {
           "icon": "🛶",
           "title": "Kayak",
-          "description": "<a href=\"kayak-charlevoix.html\">Le kayak dans Charlevoix</a> — kayak de mer sur le fleuve et excursions guidées."
+          "description": "<a href=\"/kayak-charlevoix\">Le kayak dans Charlevoix</a> — kayak de mer sur le fleuve et excursions guidées."
         },
         {
           "icon": "🏄",
           "title": "Stand-up paddle",
-          "description": "<a href=\"sup-charlevoix.html\">Le SUP dans Charlevoix</a> — une autre façon de profiter des plans d'eau."
+          "description": "<a href=\"/sup-charlevoix\">Le SUP dans Charlevoix</a> — une autre façon de profiter des plans d'eau."
         },
         {
           "icon": "🎣",
           "title": "Pêche",
-          "description": "<a href=\"peche-charlevoix.html\">La pêche dans Charlevoix</a> — rivières à saumon et omble de fontaine."
+          "description": "<a href=\"/peche-charlevoix\">La pêche dans Charlevoix</a> — rivières à saumon et omble de fontaine."
         },
         {
           "icon": "🥾",
           "title": "Randonnée",
-          "description": "<a href=\"randonnee-charlevoix.html\">La randonnée dans Charlevoix</a> — combinez canot et rando pour une journée complète en nature."
+          "description": "<a href=\"/randonnee-charlevoix\">La randonnée dans Charlevoix</a> — combinez canot et rando pour une journée complète en nature."
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-activites-charlevoix.html\">← Top 10 activités</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-activites-charlevoix\">← Top 10 activités</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

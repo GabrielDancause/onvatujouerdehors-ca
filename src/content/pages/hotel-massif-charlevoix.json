@@ -1,7 +1,7 @@
 {
   "slug": "hotel-massif-charlevoix",
   "title": "Le Massif de Charlevoix | Petite-Rivière-Saint-François, Charlevoix",
-  "description": "Le Massif de Charlevoix : chalets, refuges, appartements et Club Med au coeur de Petite-Rivière-Saint-François. 53 pistes de ski, luge de 7,5 km, vélo de montagne et plus.",
+  "description": "Le Massif de Charlevoix : chalets, refuges, appartements et Club Med au coeur de Petite-Rivière-Saint-François.",
   "ogTitle": "",
   "ogDescription": "",
   "heroGradient": "linear-gradient(135deg, #2D5016 0%, #4a6340 100%)",
@@ -90,5 +90,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-auberges-charlevoix-fr.html\">Retour au Top 10 Charlevoix</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-auberges-charlevoix-fr\">Retour au Top 10 Charlevoix</a>"
 }

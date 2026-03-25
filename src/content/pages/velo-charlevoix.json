@@ -47,8 +47,8 @@
     {
       "title": "Charlevoix à vélo",
       "paragraphs": [
-        "Avec ses paysages spectaculaires de montagnes plongeant dans le fleuve Saint-Laurent, <a href=\"charlevoix.html\">Charlevoix</a> est une destination cycliste de premier plan au Québec. La région est traversée par la Route Verte, le plus long réseau cyclable en Amérique du Nord, et offre des circuits adaptés autant aux cyclistes sur route qu'aux amateurs de vélo de montagne.",
-        "Le relief vallonné de Charlevoix ajoute un défi sportif aux parcours, mais les panoramas grandioses récompensent amplement l'effort. Des villages pittoresques comme <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a>, <a href=\"les-eboulements-charlevoix.html\">Les Éboulements</a> et <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a> ponctuent les itinéraires."
+        "Avec ses paysages spectaculaires de montagnes plongeant dans le fleuve Saint-Laurent, <a href=\"/charlevoix\">Charlevoix</a> est une destination cycliste de premier plan au Québec. La région est traversée par la Route Verte, le plus long réseau cyclable en Amérique du Nord, et offre des circuits adaptés autant aux cyclistes sur route qu'aux amateurs de vélo de montagne.",
+        "Le relief vallonné de Charlevoix ajoute un défi sportif aux parcours, mais les panoramas grandioses récompensent amplement l'effort. Des villages pittoresques comme <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a>, <a href=\"/les-eboulements-charlevoix\">Les Éboulements</a> et <a href=\"/la-malbaie-charlevoix\">La Malbaie</a> ponctuent les itinéraires."
       ]
     },
     {
@@ -67,12 +67,12 @@
         {
           "icon": "🏝️",
           "title": "Tour de l'Isle-aux-Coudres",
-          "description": "Un circuit plat et accessible d'environ 23 km autour de l'<a href=\"ile-aux-coudres-charlevoix.html\">Isle-aux-Coudres</a>. Idéal pour les familles et les cyclistes débutants. Traversier gratuit depuis Saint-Joseph-de-la-Rive."
+          "description": "Un circuit plat et accessible d'environ 23 km autour de l'<a href=\"/ile-aux-coudres-charlevoix\">Isle-aux-Coudres</a>. Idéal pour les familles et les cyclistes débutants. Traversier gratuit depuis Saint-Joseph-de-la-Rive."
         },
         {
           "icon": "🏔️",
           "title": "Vélo de montagne au Massif",
-          "description": "<a href=\"le-massif-ski-charlevoix.html\">Le Massif de Charlevoix</a> offre des sentiers de vélo de montagne en été avec un dénivelé impressionnant et des vues sur le fleuve."
+          "description": "<a href=\"/le-massif-ski-charlevoix\">Le Massif de Charlevoix</a> offre des sentiers de vélo de montagne en été avec un dénivelé impressionnant et des vues sur le fleuve."
         }
       ]
     },
@@ -103,25 +103,25 @@
         {
           "icon": "🍽️",
           "title": "Route des Saveurs",
-          "description": "Combinez vélo et gastronomie sur la <a href=\"route-saveurs-charlevoix.html\">Route des Saveurs</a> — fromageries, cidreries et restaurants de produits locaux."
+          "description": "Combinez vélo et gastronomie sur la <a href=\"/route-saveurs-charlevoix\">Route des Saveurs</a> — fromageries, cidreries et restaurants de produits locaux."
         },
         {
           "icon": "🎨",
           "title": "Galeries d'art",
-          "description": "Arrêtez-vous dans les <a href=\"galeries-baie-saint-paul.html\">galeries de Baie-Saint-Paul</a> pour une pause culturelle."
+          "description": "Arrêtez-vous dans les <a href=\"/galeries-baie-saint-paul\">galeries de Baie-Saint-Paul</a> pour une pause culturelle."
         },
         {
           "icon": "🏖️",
           "title": "Plage de Saint-Irénée",
-          "description": "Rafraîchissez-vous à la <a href=\"plage-saint-irenee-charlevoix.html\">plage de Saint-Irénée</a>, l'une des plus belles du fleuve."
+          "description": "Rafraîchissez-vous à la <a href=\"/plage-saint-irenee-charlevoix\">plage de Saint-Irénée</a>, l'une des plus belles du fleuve."
         },
         {
           "icon": "🚂",
           "title": "Train de Charlevoix",
-          "description": "Possibilité de revenir en <a href=\"train-charlevoix.html\">train</a> avec votre vélo après un parcours aller."
+          "description": "Possibilité de revenir en <a href=\"/train-charlevoix\">train</a> avec votre vélo après un parcours aller."
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-activites-charlevoix.html\">← Top 10 activités</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-activites-charlevoix\">← Top 10 activités</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

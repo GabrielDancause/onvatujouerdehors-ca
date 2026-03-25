@@ -1,7 +1,7 @@
 {
   "slug": "famille-migneron-charlevoix",
   "title": "Famille Migneron de Charlevoix — Baie-Saint-Paul, Québec",
-  "description": "Famille Migneron de Charlevoix à Baie-Saint-Paul. Fromages affinés, vins biologiques nordiques et eaux-de-vie distillées à partir du lactosérum et des marcs de vignes.",
+  "description": "Famille Migneron de Charlevoix à Baie-Saint-Paul. Fromages affinés, vins biologiques nordiques et eaux-de-vie distillées à partir du lactosérum et des marcs...",
   "ogTitle": "Famille Migneron de Charlevoix",
   "ogDescription": "Fromages, vins bio nordiques et eaux-de-vie. Terroir charlevoisien unique.",
   "heroGradient": "linear-gradient(135deg, #4a1a3a 0%, #2D5016 100%)",
@@ -83,10 +83,10 @@
         },
         {
           "title": "🔗 Voir aussi",
-          "content": "<a href=\"laiterie-charlevoix.html\">Laiterie Charlevoix</a><br><a href=\"ferme-eboulmontaise-charlevoix.html\">Ferme Éboulmontaise</a>"
+          "content": "<a href=\"/laiterie-charlevoix\">Laiterie Charlevoix</a><br><a href=\"/ferme-eboulmontaise-charlevoix\">Ferme Éboulmontaise</a>"
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-fermes-charlevoix.html\">← Top 10 fermes</a> · <a href=\"top-10-auberges-charlevoix-fr.html\">Top 10 auberges</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-fermes-charlevoix\">← Top 10 fermes</a> · <a href=\"/top-10-auberges-charlevoix-fr\">Top 10 auberges</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

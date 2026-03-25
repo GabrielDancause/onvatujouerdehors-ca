@@ -47,8 +47,8 @@
     {
       "title": "Le marché",
       "paragraphs": [
-        "Le Marché public de Baie-Saint-Paul est un rendez-vous incontournable pour les amateurs de produits locaux et de terroir. Situé au cœur de <a href=\"baie-saint-paul-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">Baie-Saint-Paul</a>, capitale artistique de Charlevoix, ce marché saisonnier rassemble les producteurs et artisans de la région.",
-        "Le marché s'inscrit dans la riche tradition agrotouristique de Charlevoix, première région au Québec à avoir créé un circuit de la <a href=\"route-saveurs-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">Route des Saveurs</a>. C'est l'endroit idéal pour goûter aux produits <a href=\"charlevoix-pure-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">Charlevoix Pure</a> et rencontrer ceux qui les fabriquent."
+        "Le Marché public de Baie-Saint-Paul est un rendez-vous incontournable pour les amateurs de produits locaux et de terroir. Situé au cœur de <a href=\"/baie-saint-paul-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">Baie-Saint-Paul</a>, capitale artistique de Charlevoix, ce marché saisonnier rassemble les producteurs et artisans de la région.",
+        "Le marché s'inscrit dans la riche tradition agrotouristique de Charlevoix, première région au Québec à avoir créé un circuit de la <a href=\"/route-saveurs-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">Route des Saveurs</a>. C'est l'endroit idéal pour goûter aux produits <a href=\"/charlevoix-pure-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">Charlevoix Pure</a> et rencontrer ceux qui les fabriquent."
       ]
     },
     {
@@ -62,7 +62,7 @@
         {
           "icon": "🧀",
           "title": "Fromages & produits laitiers",
-          "description": "Les fromages de Charlevoix, reconnus à travers le Québec. <a href=\"laiterie-charlevoix.html\">Laiterie Charlevoix</a>, <a href=\"fromagerie-maurice-dufour-charlevoix.html\">Maurice Dufour</a> et autres artisans."
+          "description": "Les fromages de Charlevoix, reconnus à travers le Québec. <a href=\"/laiterie-charlevoix\">Laiterie Charlevoix</a>, <a href=\"/fromagerie-maurice-dufour-charlevoix\">Maurice Dufour</a> et autres artisans."
         },
         {
           "icon": "🥖",
@@ -72,12 +72,12 @@
         {
           "icon": "🥩",
           "title": "Viandes & charcuteries",
-          "description": "Agneau, veau de Charlevoix, canard et charcuteries des fermes locales comme la <a href=\"ferme-eboulmontaise-charlevoix.html\">Ferme Éboulmontaise</a>."
+          "description": "Agneau, veau de Charlevoix, canard et charcuteries des fermes locales comme la <a href=\"/ferme-eboulmontaise-charlevoix\">Ferme Éboulmontaise</a>."
         },
         {
           "icon": "🍎",
           "title": "Cidres & alcools",
-          "description": "Cidres artisanaux, mistelles et produits de la <a href=\"cidrerie-pedneault-charlevoix.html\">Cidrerie Pedneault</a> et des <a href=\"microbrasseries-charlevoix.html\">microbrasseries</a> locales."
+          "description": "Cidres artisanaux, mistelles et produits de la <a href=\"/cidrerie-pedneault-charlevoix\">Cidrerie Pedneault</a> et des <a href=\"/microbrasseries-charlevoix\">microbrasseries</a> locales."
         },
         {
           "icon": "🍯",
@@ -90,7 +90,7 @@
       "title": "L'expérience",
       "paragraphs": [
         "Plus qu'un simple marché, c'est une expérience immersive dans le terroir charlevoisien. Les producteurs sont sur place pour discuter de leurs méthodes, offrir des dégustations et partager leur passion. L'ambiance est conviviale, familiale et typiquement québécoise.",
-        "Le marché est aussi un excellent point de départ pour explorer la <a href=\"route-saveurs-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">Route des Saveurs</a> et planifier des visites chez les producteurs qui vous auront fait découvrir leurs produits."
+        "Le marché est aussi un excellent point de départ pour explorer la <a href=\"/route-saveurs-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">Route des Saveurs</a> et planifier des visites chez les producteurs qui vous auront fait découvrir leurs produits."
       ]
     },
     {
@@ -106,7 +106,7 @@
         },
         {
           "title": "🔗 À voir aussi",
-          "content": "<a href=\"route-saveurs-charlevoix.html\">Route des Saveurs</a><br><a href=\"top-10-fermes-charlevoix.html\">Top 10 fermes</a><br><a href=\"charlevoix-pure-charlevoix.html\">Charlevoix Pure</a>"
+          "content": "<a href=\"/route-saveurs-charlevoix\">Route des Saveurs</a><br><a href=\"/top-10-fermes-charlevoix\">Top 10 fermes</a><br><a href=\"/charlevoix-pure-charlevoix\">Charlevoix Pure</a>"
         },
         {
           "title": "💡 Conseil",
@@ -115,5 +115,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"baie-saint-paul-charlevoix.html\">← Baie-Saint-Paul</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/baie-saint-paul-charlevoix\">← Baie-Saint-Paul</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

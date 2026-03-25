@@ -1,7 +1,7 @@
 {
   "slug": "parc-hautes-gorges-charlevoix",
-  "title": "Parc national des Hautes-Gorges-de-la-Rivière-Malbaie — Charlevoix, Québec",
-  "description": "Le Parc national des Hautes-Gorges-de-la-Rivière-Malbaie à Charlevoix. Vallées spectaculaires, croisières, randonnée, L'Acropole des Draveurs et paysages parmi les plus impressionnants de l'est du Canada.",
+  "title": "Parc national des Hautes-Gorges-de-la-Rivière-Malbaie — Charlevoix,...",
+  "description": "Le Parc national des Hautes-Gorges-de-la-Rivière-Malbaie à Charlevoix. Vallées spectaculaires, croisières, randonnée, L'Acropole des Draveurs et paysages par...",
   "ogTitle": "Parc national des Hautes-Gorges — Charlevoix",
   "ogDescription": "Vallées spectaculaires, L'Acropole des Draveurs et croisières. Sépaq.",
   "heroGradient": "linear-gradient(135deg, #2D5016 0%, #1a3a1a 100%)",
@@ -108,5 +108,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"auberge-de-nos-aieux-charlevoix.html\">← Auberge de nos Aïeux</a> · <a href=\"top-10-auberges-charlevoix-fr.html\">Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/auberge-de-nos-aieux-charlevoix\">← Auberge de nos Aïeux</a> · <a href=\"/top-10-auberges-charlevoix-fr\">Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

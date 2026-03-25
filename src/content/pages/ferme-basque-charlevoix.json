@@ -1,7 +1,7 @@
 {
   "slug": "ferme-basque-charlevoix",
   "title": "Ferme Basque de Charlevoix — Saint-Urbain, Charlevoix, Québec",
-  "description": "Ferme Basque de Charlevoix à Saint-Urbain. Élevage de canards, production artisanale de foie gras, confits, terrines et rillettes dans les montagnes de Charlevoix.",
+  "description": "Ferme Basque de Charlevoix à Saint-Urbain. Élevage de canards, production artisanale de foie gras, confits, terrines et rillettes dans les montagnes de Charl...",
   "ogTitle": "Ferme Basque de Charlevoix — Saint-Urbain",
   "ogDescription": "Canard, foie gras artisanal et confits dans les montagnes de Charlevoix.",
   "heroGradient": "linear-gradient(135deg, #6b3a1a 0%, #2D5016 100%)",
@@ -88,10 +88,10 @@
         },
         {
           "title": "🔗 Voir aussi",
-          "content": "<a href=\"ferme-eboulmontaise-charlevoix.html\">Ferme Éboulmontaise</a><br><a href=\"viandes-bio-charlevoix.html\">Viandes Bio</a>"
+          "content": "<a href=\"/ferme-eboulmontaise-charlevoix\">Ferme Éboulmontaise</a><br><a href=\"/viandes-bio-charlevoix\">Viandes Bio</a>"
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-fermes-charlevoix.html\">← Top 10 fermes</a> · <a href=\"top-10-auberges-charlevoix-fr.html\">Top 10 auberges</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-fermes-charlevoix\">← Top 10 fermes</a> · <a href=\"/top-10-auberges-charlevoix-fr\">Top 10 auberges</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

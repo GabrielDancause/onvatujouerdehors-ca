@@ -1,7 +1,7 @@
 {
   "slug": "fete-fromages-charlevoix",
   "title": "Fête des fromages de Charlevoix — Événement gourmand, Québec",
-  "description": "La Fête des fromages de Charlevoix célèbre le savoir-faire fromager de la région. Dégustations, rencontres avec les artisans et découverte des fromages charlevoisiens.",
+  "description": "La Fête des fromages de Charlevoix célèbre le savoir-faire fromager de la région. Dégustations, rencontres avec les artisans et découverte des fromages charl...",
   "ogTitle": "Fête des fromages de Charlevoix",
   "ogDescription": "Célébration du patrimoine fromager de Charlevoix. Dégustations, artisans et terroir.",
   "heroGradient": "linear-gradient(135deg, #c9a227 0%, #2D5016 100%)",
@@ -43,7 +43,7 @@
       "title": "L'événement",
       "paragraphs": [
         "Charlevoix est l'une des grandes capitales fromagères du Québec. La Fête des fromages de Charlevoix met en valeur ce patrimoine exceptionnel en rassemblant les fromageries et producteurs laitiers de la région autour d'un événement festif et gourmand.",
-        "La région abrite des fromageries de renommée nationale, dont la <a href=\"laiterie-charlevoix.html\" style=\"color:#2D5016;font-weight:600;\">Laiterie Charlevoix</a> (fondée en 1948) et la <a href=\"fromagerie-maurice-dufour-charlevoix.html\" style=\"color:#2D5016;font-weight:600;\">Fromagerie Maurice Dufour</a>, créatrice du célèbre Migneron de Charlevoix et du Secret de Maurice. C'est cette tradition qui donne son âme à l'événement."
+        "La région abrite des fromageries de renommée nationale, dont la <a href=\"/laiterie-charlevoix\" style=\"color:#2D5016;font-weight:600;\">Laiterie Charlevoix</a> (fondée en 1948) et la <a href=\"/fromagerie-maurice-dufour-charlevoix\" style=\"color:#2D5016;font-weight:600;\">Fromagerie Maurice Dufour</a>, créatrice du célèbre Migneron de Charlevoix et du Secret de Maurice. C'est cette tradition qui donne son âme à l'événement."
       ]
     },
     {
@@ -62,7 +62,7 @@
         {
           "icon": "🍷",
           "title": "Accords et terroir",
-          "description": "Découvrez les accords fromages et produits locaux : cidres des <a href=\"cidrerie-pedneault-charlevoix.html\">Vergers Pedneault</a>, bières de la <a href=\"microbrasseries-charlevoix.html\">MicroBrasserie Charlevoix</a>."
+          "description": "Découvrez les accords fromages et produits locaux : cidres des <a href=\"/cidrerie-pedneault-charlevoix\">Vergers Pedneault</a>, bières de la <a href=\"/microbrasseries-charlevoix\">MicroBrasserie Charlevoix</a>."
         },
         {
           "icon": "🎪",
@@ -112,14 +112,14 @@
         },
         {
           "title": "🧀 À voir aussi",
-          "content": "<a href=\"foire-terroirs-charlevoix.html\">Foire des Terroirs</a> — événement annuel sur les terrains de la Laiterie Charlevoix en août."
+          "content": "<a href=\"/foire-terroirs-charlevoix\">Foire des Terroirs</a> — événement annuel sur les terrains de la Laiterie Charlevoix en août."
         },
         {
           "title": "🗺️ En profiter",
-          "content": "Combinez avec la <a href=\"route-saveurs-charlevoix.html\">Route des Saveurs</a> pour un circuit agrotouristique complet."
+          "content": "Combinez avec la <a href=\"/route-saveurs-charlevoix\">Route des Saveurs</a> pour un circuit agrotouristique complet."
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">← Charlevoix</a> · <a href=\"top-10-fermes-charlevoix.html\">Top 10 fermes</a> · <a href=\"route-saveurs-charlevoix.html\">Route des Saveurs</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">← Charlevoix</a> · <a href=\"/top-10-fermes-charlevoix\">Top 10 fermes</a> · <a href=\"/route-saveurs-charlevoix\">Route des Saveurs</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

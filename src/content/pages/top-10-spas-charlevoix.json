@@ -1,7 +1,7 @@
 {
   "slug": "top-10-spas-charlevoix",
   "title": "Top 5 — Spas et détente de Charlevoix, Québec",
-  "description": "Top 5 des meilleurs spas et expériences de détente dans Charlevoix. Spa Nordique Le Germain, Spa du Fairmont, massothérapie et bien-être entre montagnes et fleuve.",
+  "description": "Top 5 des meilleurs spas et expériences de détente dans Charlevoix. Spa Nordique Le Germain, Spa du Fairmont, massothérapie et bien-être entre montagnes et f...",
   "ogTitle": "Top 5 — Spas et détente de Charlevoix",
   "ogDescription": "Les meilleurs spas et expériences bien-être de Charlevoix au Québec.",
   "heroGradient": "linear-gradient(135deg, #5c3a6b 0%, #2D5016 100%)",
@@ -61,7 +61,7 @@
       "emoji": "🏨",
       "title": "Spas d'auberges de Charlevoix",
       "location": "📍 Plusieurs emplacements",
-      "description": "Plusieurs auberges et hôtels de Charlevoix offrent des services de spa et de massothérapie à leurs clients. Des soins de détente sont souvent disponibles à l'<a href=\"auberge-grande-maison-charlevoix.html\" style=\"color:#2D5016;font-weight:600;\">Auberge La Grande Maison</a>, à l'<a href=\"auberge-des-peupliers-charlevoix.html\" style=\"color:#2D5016;font-weight:600;\">Auberge des Peupliers</a> et dans d'autres établissements de la région.",
+      "description": "Plusieurs auberges et hôtels de Charlevoix offrent des services de spa et de massothérapie à leurs clients. Des soins de détente sont souvent disponibles à l'<a href=\"/auberge-grande-maison-charlevoix\" style=\"color:#2D5016;font-weight:600;\">Auberge La Grande Maison</a>, à l'<a href=\"auberge-peupliers-charlevoix\" style=\"color:#2D5016;font-weight:600;\">Auberge des Peupliers</a> et dans d'autres établissements de la région.",
       "tags": [
         "Massothérapie",
         "En auberge",
@@ -74,7 +74,7 @@
       "emoji": "🌊",
       "title": "Détente en nature",
       "location": "📍 Partout dans Charlevoix",
-      "description": "Charlevoix, c'est aussi le bien-être au naturel. Les plages du fleuve (dont la <a href=\"plage-saint-irenee-charlevoix.html\" style=\"color:#2D5016;font-weight:600;\">plage de Saint-Irénée</a>), les sentiers de <a href=\"randonnee-charlevoix.html\" style=\"color:#2D5016;font-weight:600;\">randonnée</a> en forêt et les panoramas de la <a href=\"route-fleuve-charlevoix.html\" style=\"color:#2D5016;font-weight:600;\">Route du Fleuve</a> offrent une détente profonde — le meilleur spa est parfois la nature elle-même.",
+      "description": "Charlevoix, c'est aussi le bien-être au naturel. Les plages du fleuve (dont la <a href=\"/plage-saint-irenee-charlevoix\" style=\"color:#2D5016;font-weight:600;\">plage de Saint-Irénée</a>), les sentiers de <a href=\"/randonnee-charlevoix\" style=\"color:#2D5016;font-weight:600;\">randonnée</a> en forêt et les panoramas de la <a href=\"/route-fleuve-charlevoix\" style=\"color:#2D5016;font-weight:600;\">Route du Fleuve</a> offrent une détente profonde — le meilleur spa est parfois la nature elle-même.",
       "tags": [
         "Plages",
         "Randonnée",
@@ -101,5 +101,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"top-10-activites-charlevoix.html\">Top 10 activités</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/top-10-activites-charlevoix\">Top 10 activités</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

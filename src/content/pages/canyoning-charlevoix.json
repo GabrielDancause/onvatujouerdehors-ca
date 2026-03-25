@@ -1,6 +1,6 @@
 {
   "slug": "canyoning-charlevoix",
-  "title": "Canyoning et descente de rivière dans Charlevoix — Guide aventure | onvatujouerdehors.ca",
+  "title": "Canyoning et descente de rivière dans Charlevoix — Guide aventure",
   "description": "Canyoning et descente de rivière dans Charlevoix : explorez les gorges, cascades et rivières de la région en rafting, kayak de rivière ou canyoning.",
   "ogTitle": "Canyoning et descente de rivière dans Charlevoix",
   "ogDescription": "Gorges, cascades et rivières — l'aventure aquatique dans les montagnes de Charlevoix.",
@@ -43,8 +43,8 @@
     {
       "title": "L'aventure aquatique de Charlevoix",
       "paragraphs": [
-        "Les montagnes de <a href=\"charlevoix.html\">Charlevoix</a> sont sculptées par d'innombrables rivières qui dévalent vers le fleuve Saint-Laurent, créant des gorges profondes, des cascades et des rapides. C'est un terrain idéal pour le canyoning et les descentes de rivière.",
-        "La <strong>Rivière du Gouffre</strong>, qui traverse <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a>, est la rivière emblématique de la région pour les descentes. La <strong>Rivière Malbaie</strong>, qui serpente dans les <a href=\"parc-hautes-gorges-charlevoix.html\">Hautes-Gorges</a>, offre des paysages parmi les plus spectaculaires de l'Est du Canada."
+        "Les montagnes de <a href=\"/charlevoix\">Charlevoix</a> sont sculptées par d'innombrables rivières qui dévalent vers le fleuve Saint-Laurent, créant des gorges profondes, des cascades et des rapides. C'est un terrain idéal pour le canyoning et les descentes de rivière.",
+        "La <strong>Rivière du Gouffre</strong>, qui traverse <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a>, est la rivière emblématique de la région pour les descentes. La <strong>Rivière Malbaie</strong>, qui serpente dans les <a href=\"/parc-hautes-gorges-charlevoix\">Hautes-Gorges</a>, offre des paysages parmi les plus spectaculaires de l'Est du Canada."
       ]
     },
     {
@@ -75,8 +75,8 @@
     {
       "title": "La Rivière du Gouffre",
       "paragraphs": [
-        "La Rivière du Gouffre est le cours d'eau principal pour les descentes de rivière dans Charlevoix. Elle prend sa source dans les montagnes et se jette dans le fleuve Saint-Laurent à <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a>.",
-        "<a href=\"katabatik-kayak-charlevoix.html\">Katabatik</a>, une entreprise d'aventure bien établie à Baie-Saint-Paul, offre des descentes guidées de la Rivière du Gouffre de mai à septembre. Les excursions sont adaptées selon le niveau des participants et les conditions de la rivière."
+        "La Rivière du Gouffre est le cours d'eau principal pour les descentes de rivière dans Charlevoix. Elle prend sa source dans les montagnes et se jette dans le fleuve Saint-Laurent à <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a>.",
+        "<a href=\"/katabatik-kayak-charlevoix\">Katabatik</a>, une entreprise d'aventure bien établie à Baie-Saint-Paul, offre des descentes guidées de la Rivière du Gouffre de mai à septembre. Les excursions sont adaptées selon le niveau des participants et les conditions de la rivière."
       ]
     },
     {
@@ -110,22 +110,22 @@
         {
           "icon": "🛶",
           "title": "Kayak de mer",
-          "description": "Après la rivière, découvrez le fleuve en <a href=\"kayak-charlevoix.html\">kayak de mer</a>. Deux expériences aquatiques complètement différentes."
+          "description": "Après la rivière, découvrez le fleuve en <a href=\"/kayak-charlevoix\">kayak de mer</a>. Deux expériences aquatiques complètement différentes."
         },
         {
           "icon": "🥾",
           "title": "Randonnée aux Hautes-Gorges",
-          "description": "L'Acropole-des-Draveurs au <a href=\"parc-hautes-gorges-charlevoix.html\">parc des Hautes-Gorges</a> offre une vue plongeante sur la rivière Malbaie — un complément parfait."
+          "description": "L'Acropole-des-Draveurs au <a href=\"/parc-hautes-gorges-charlevoix\">parc des Hautes-Gorges</a> offre une vue plongeante sur la rivière Malbaie — un complément parfait."
         },
         {
           "icon": "🧗",
           "title": "Escalade",
-          "description": "Combinez eau et roche avec une journée d'<a href=\"escalade-charlevoix.html\">escalade</a> dans les parois des gorges charlevoisiennnes."
+          "description": "Combinez eau et roche avec une journée d'<a href=\"/escalade-charlevoix\">escalade</a> dans les parois des gorges charlevoisiennnes."
         },
         {
           "icon": "🍺",
           "title": "Microbrasseries",
-          "description": "Après l'effort, récompense! Les <a href=\"microbrasseries-charlevoix.html\">microbrasseries</a> de la région vous attendent."
+          "description": "Après l'effort, récompense! Les <a href=\"/microbrasseries-charlevoix\">microbrasseries</a> de la région vous attendent."
         }
       ]
     },
@@ -138,11 +138,11 @@
         },
         {
           "title": "📍 Où",
-          "content": "Rivière du Gouffre (<a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a>)<br>Rivière Malbaie (Hautes-Gorges)"
+          "content": "Rivière du Gouffre (<a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a>)<br>Rivière Malbaie (Hautes-Gorges)"
         },
         {
           "title": "🏢 Opérateurs",
-          "content": "<a href=\"katabatik-kayak-charlevoix.html\">Katabatik</a> — <a href=\"https://katabatik.ca\" target=\"_blank\" rel=\"noopener\">katabatik.ca</a>"
+          "content": "<a href=\"/katabatik-kayak-charlevoix\">Katabatik</a> — <a href=\"https://katabatik.ca\" target=\"_blank\" rel=\"noopener\">katabatik.ca</a>"
         },
         {
           "title": "💰 Prix",
@@ -151,5 +151,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"aventure-plein-air-charlevoix.html\">← Aventure plein air</a> · <a href=\"charlevoix-ete.html\">Charlevoix en été</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/aventure-plein-air-charlevoix\">← Aventure plein air</a> · <a href=\"/charlevoix-ete\">Charlevoix en été</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

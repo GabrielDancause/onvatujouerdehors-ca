@@ -1,7 +1,7 @@
 {
   "slug": "sentier-des-caps-charlevoix",
   "title": "Sentier des Caps de Charlevoix — Randonnée longue distance | Québec",
-  "description": "Le Sentier des Caps de Charlevoix : 70 km de sentiers entre Cap Tourmente et Petite-Rivière-Saint-François. Randonnée, raquette, ski de fond, refuges et camping.",
+  "description": "Le Sentier des Caps de Charlevoix : 70 km de sentiers entre Cap Tourmente et Petite-Rivière-Saint-François.",
   "ogTitle": "Sentier des Caps de Charlevoix — Randonnée longue distance",
   "ogDescription": "70 km de sentiers entre fleuve et montagnes. Randonnée pédestre, raquette, ski de fond, refuges rustiques et panoramas spectaculaires.",
   "heroGradient": "linear-gradient(135deg, #3a6b4a 0%, #2D5016 100%)",
@@ -48,7 +48,7 @@
       "title": "Le sentier",
       "paragraphs": [
         "Le Sentier des Caps de Charlevoix est un réseau de randonnée qui chevauche les territoires de la Côte-de-Beaupré et de Charlevoix. Il offre des vues uniques sur le fleuve Saint-Laurent, de l'archipel de Montmagny jusqu'à l'Isle-aux-Coudres, tout en donnant accès à des écosystèmes forestiers exceptionnels, incluant des forêts anciennes ayant près de 400 ans.",
-        "Le sentier principal longe sur la majorité de ses 51 km les caps qui bordent la rive nord du fleuve Saint-Laurent, entre le Cap Tourmente et <a href=\"petite-riviere-saint-francois-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">Petite-Rivière-Saint-François</a>. Accessible pour une randonnée d'une journée ou de plusieurs jours, le réseau comprend près de 70 km de sentiers pédestres (ou de raquette), 35 km de pistes de ski de fond, 9 refuges rustiques, 31 plateformes de camping et une vingtaine de belvédères."
+        "Le sentier principal longe sur la majorité de ses 51 km les caps qui bordent la rive nord du fleuve Saint-Laurent, entre le Cap Tourmente et <a href=\"/petite-riviere-saint-francois-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">Petite-Rivière-Saint-François</a>. Accessible pour une randonnée d'une journée ou de plusieurs jours, le réseau comprend près de 70 km de sentiers pédestres (ou de raquette), 35 km de pistes de ski de fond, 9 refuges rustiques, 31 plateformes de camping et une vingtaine de belvédères."
       ]
     },
     {
@@ -128,5 +128,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"randonnee-charlevoix.html\">← Randonnée</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/randonnee-charlevoix\">← Randonnée</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

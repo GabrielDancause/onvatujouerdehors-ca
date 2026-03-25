@@ -1,6 +1,6 @@
 {
   "slug": "road-trip-charlevoix",
-  "title": "Road trip dans Charlevoix — Itinéraire 3-5 jours | onvatujouerdehors.ca",
+  "title": "Road trip dans Charlevoix — Itinéraire 3-5 jours",
   "description": "Itinéraire road trip de 3 à 5 jours dans Charlevoix : de Québec à Baie-Sainte-Catherine, Route du Fleuve, villages, parcs nationaux et terroir.",
   "ogTitle": "Road trip dans Charlevoix — Itinéraire 3-5 jours",
   "ogDescription": "De Québec à Baie-Sainte-Catherine : Route du Fleuve, villages, parcs et terroir en 3 à 5 jours.",
@@ -60,9 +60,9 @@
           "distance": "🚗 ~95 km · 1h30",
           "paragraphs": [
             "<span class=\"distance\">🚗 ~95 km · 1h30</span>",
-            "Quittez Québec par la route 138 en passant par la Côte-de-Beaupré. Arrêtez-vous au belvédère du Massif à <a href=\"petite-riviere-saint-francois-charlevoix.html\">Petite-Rivière-Saint-François</a> pour votre premier aperçu époustouflant du fleuve.",
-            "Installez-vous à <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a>. Explorez les galeries d'art de la rue Saint-Jean-Baptiste, visitez le <a href=\"musee-art-contemporain-charlevoix.html\">Musée d'art contemporain</a>. Souper au <a href=\"mouton-noir-charlevoix.html\">Mouton Noir</a> ou aux <a href=\"les-labours-charlevoix.html\">Labours</a>.",
-            "<strong>Nuit :</strong> <a href=\"hotel-germain-charlevoix.html\">Hôtel Germain</a>, <a href=\"auberge-la-muse-charlevoix.html\">Auberge La Muse</a> ou <a href=\"chalets-charlevoix.html\">chalet</a>"
+            "Quittez Québec par la route 138 en passant par la Côte-de-Beaupré. Arrêtez-vous au belvédère du Massif à <a href=\"/petite-riviere-saint-francois-charlevoix\">Petite-Rivière-Saint-François</a> pour votre premier aperçu époustouflant du fleuve.",
+            "Installez-vous à <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a>. Explorez les galeries d'art de la rue Saint-Jean-Baptiste, visitez le <a href=\"/musee-art-contemporain-charlevoix\">Musée d'art contemporain</a>. Souper au <a href=\"/mouton-noir-charlevoix\">Mouton Noir</a> ou aux <a href=\"/les-labours-charlevoix\">Labours</a>.",
+            "<strong>Nuit :</strong> <a href=\"/hotel-germain-charlevoix\">Hôtel Germain</a>, <a href=\"/auberge-la-muse-charlevoix\">Auberge La Muse</a> ou <a href=\"/chalets-charlevoix\">chalet</a>"
           ]
         },
         {
@@ -71,10 +71,10 @@
           "distance": "🚗 ~40 km · détours inclus",
           "paragraphs": [
             "<span class=\"distance\">🚗 ~40 km · détours inclus</span>",
-            "Le matin, arrêtez-vous à la <a href=\"laiterie-charlevoix.html\">Laiterie Charlevoix</a> pour des fromages et au <a href=\"marche-public-bsp-charlevoix.html\">Marché public</a> pour un lunch local.",
-            "Empruntez la <a href=\"route-fleuve-charlevoix.html\">Route du Fleuve (362)</a> vers <a href=\"les-eboulements-charlevoix.html\">Les Éboulements</a>. Descendez à Saint-Joseph-de-la-Rive pour la <a href=\"papeterie-saint-gilles-charlevoix.html\">Papeterie Saint-Gilles</a> et le traversier vers l'<a href=\"ile-aux-coudres-charlevoix.html\">Île-aux-Coudres</a> (si vous avez le temps, l'île mérite une demi-journée).",
-            "Fin d'après-midi sur la plage de <a href=\"saint-irenee-charlevoix.html\">Saint-Irénée</a> pour un coucher de soleil sur le fleuve.",
-            "<strong>Nuit :</strong> <a href=\"auberge-de-nos-aieux-charlevoix.html\">Auberge de nos Aïeux</a> ou <a href=\"auberge-des-peupliers-charlevoix.html\">Auberge des Peupliers</a>"
+            "Le matin, arrêtez-vous à la <a href=\"/laiterie-charlevoix\">Laiterie Charlevoix</a> pour des fromages et au <a href=\"/marche-public-bsp-charlevoix\">Marché public</a> pour un lunch local.",
+            "Empruntez la <a href=\"/route-fleuve-charlevoix\">Route du Fleuve (362)</a> vers <a href=\"/les-eboulements-charlevoix\">Les Éboulements</a>. Descendez à Saint-Joseph-de-la-Rive pour la <a href=\"/papeterie-saint-gilles-charlevoix\">Papeterie Saint-Gilles</a> et le traversier vers l'<a href=\"/ile-aux-coudres-charlevoix\">Île-aux-Coudres</a> (si vous avez le temps, l'île mérite une demi-journée).",
+            "Fin d'après-midi sur la plage de <a href=\"/saint-irenee-charlevoix\">Saint-Irénée</a> pour un coucher de soleil sur le fleuve.",
+            "<strong>Nuit :</strong> <a href=\"/auberge-de-nos-aieux-charlevoix\">Auberge de nos Aïeux</a> ou <a href=\"auberge-peupliers-charlevoix\">Auberge des Peupliers</a>"
           ]
         },
         {
@@ -83,9 +83,9 @@
           "distance": "🚗 ~30 km + excursion parc",
           "paragraphs": [
             "<span class=\"distance\">🚗 ~30 km + excursion parc</span>",
-            "Journée à <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a>. Le matin, excursion au <a href=\"parc-hautes-gorges-charlevoix.html\">Parc national des Hautes-Gorges-de-la-Rivière-Malbaie</a> — l'Acropole des Draveurs est l'une des plus belles randonnées au Québec (intense, ~5-6h).",
-            "L'après-midi, détente au <a href=\"spa-fairmont-charlevoix.html\">Spa du Fairmont</a>. En soirée, tentez votre chance au <a href=\"casino-charlevoix.html\">Casino de Charlevoix</a> et soupez au Fairmont.",
-            "<strong>Nuit :</strong> <a href=\"fairmont-manoir-richelieu.html\">Fairmont Le Manoir Richelieu</a> ou <a href=\"auberge-3-canards-charlevoix.html\">Auberge des 3 Canards</a>"
+            "Journée à <a href=\"/la-malbaie-charlevoix\">La Malbaie</a>. Le matin, excursion au <a href=\"/parc-hautes-gorges-charlevoix\">Parc national des Hautes-Gorges-de-la-Rivière-Malbaie</a> — l'Acropole des Draveurs est l'une des plus belles randonnées au Québec (intense, ~5-6h).",
+            "L'après-midi, détente au <a href=\"/spa-fairmont-charlevoix\">Spa du Fairmont</a>. En soirée, tentez votre chance au <a href=\"/casino-charlevoix\">Casino de Charlevoix</a> et soupez au Fairmont.",
+            "<strong>Nuit :</strong> <a href=\"/fairmont-manoir-richelieu\">Fairmont Le Manoir Richelieu</a> ou <a href=\"/auberge-3-canards-charlevoix\">Auberge des 3 Canards</a>"
           ]
         },
         {
@@ -94,8 +94,8 @@
           "distance": "🚗 ~50 km depuis La Malbaie",
           "paragraphs": [
             "<span class=\"distance\">🚗 ~50 km depuis La Malbaie</span>",
-            "Direction <a href=\"saint-urbain-charlevoix.html\">Saint-Urbain</a> et le <a href=\"parc-grands-jardins-charlevoix.html\">Parc national des Grands-Jardins</a>. Randonnée dans la taïga boréale, paysages de toundra alpine et possibilité d'observer des caribous.",
-            "En route, arrêtez-vous chez des producteurs de la <a href=\"route-saveurs-charlevoix.html\">Route des Saveurs</a> pour ramener des souvenirs gourmands.",
+            "Direction <a href=\"/saint-urbain-charlevoix\">Saint-Urbain</a> et le <a href=\"/parc-grands-jardins-charlevoix\">Parc national des Grands-Jardins</a>. Randonnée dans la taïga boréale, paysages de toundra alpine et possibilité d'observer des caribous.",
+            "En route, arrêtez-vous chez des producteurs de la <a href=\"/route-saveurs-charlevoix\">Route des Saveurs</a> pour ramener des souvenirs gourmands.",
             "<strong>Nuit :</strong> Retour à Baie-Saint-Paul ou camping dans le parc"
           ]
         },
@@ -105,7 +105,7 @@
           "distance": "🚗 ~70 km depuis La Malbaie",
           "paragraphs": [
             "<span class=\"distance\">🚗 ~70 km depuis La Malbaie</span>",
-            "Poussez jusqu'à Baie-Sainte-Catherine pour une excursion d'<a href=\"observation-baleines-charlevoix.html\">observation des baleines</a>. De mi-mai à octobre, bélugas, rorquals et parfois baleines bleues fréquentent l'embouchure du Saguenay.",
+            "Poussez jusqu'à Baie-Sainte-Catherine pour une excursion d'<a href=\"/observation-baleines-charlevoix\">observation des baleines</a>. De mi-mai à octobre, bélugas, rorquals et parfois baleines bleues fréquentent l'embouchure du Saguenay.",
             "Retour vers Québec par la 138 — ou traversez en ferry vers Rivière-du-Loup pour continuer le road trip au Bas-Saint-Laurent!"
           ]
         }
@@ -117,22 +117,22 @@
         {
           "icon": "🧀",
           "title": "Laiterie Charlevoix",
-          "description": "Le Migneron, les cheddars vieillis. Incontournable à BSP. <a href=\"laiterie-charlevoix.html\">En savoir plus →</a>"
+          "description": "Le Migneron, les cheddars vieillis. Incontournable à BSP. <a href=\"/laiterie-charlevoix\">En savoir plus →</a>"
         },
         {
           "icon": "🍎",
           "title": "Cidrerie Pedneault",
-          "description": "Cidres et mistelles à l'Île-aux-Coudres. Verger centenaire. <a href=\"cidrerie-pedneault-charlevoix.html\">En savoir plus →</a>"
+          "description": "Cidres et mistelles à l'Île-aux-Coudres. Verger centenaire. <a href=\"/cidrerie-pedneault-charlevoix\">En savoir plus →</a>"
         },
         {
           "icon": "🍺",
           "title": "Microbrasseries",
-          "description": "Charlevoix et ses microbrasseries locales — le conducteur désigné appréciera les root beers artisanales. <a href=\"microbrasseries-charlevoix.html\">En savoir plus →</a>"
+          "description": "Charlevoix et ses microbrasseries locales — le conducteur désigné appréciera les root beers artisanales. <a href=\"/microbrasseries-charlevoix\">En savoir plus →</a>"
         },
         {
           "icon": "🥩",
           "title": "Ferme Éboulmontaise",
-          "description": "Viandes et charcuteries d'exception aux Éboulements. <a href=\"ferme-eboulmontaise-charlevoix.html\">En savoir plus →</a>"
+          "description": "Viandes et charcuteries d'exception aux Éboulements. <a href=\"/ferme-eboulmontaise-charlevoix\">En savoir plus →</a>"
         }
       ]
     },
@@ -145,7 +145,7 @@
         },
         {
           "title": "🛣️ Routes",
-          "content": "La 138 est rapide mais la <a href=\"route-fleuve-charlevoix.html\">Route 362</a> est infiniment plus belle. Prenez la 362 dans au moins une direction."
+          "content": "La 138 est rapide mais la <a href=\"/route-fleuve-charlevoix\">Route 362</a> est infiniment plus belle. Prenez la 362 dans au moins une direction."
         },
         {
           "title": "📅 Meilleure période",
@@ -158,5 +158,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">← Charlevoix</a> · <a href=\"carte-charlevoix.html\">Carte Charlevoix</a> · <a href=\"comment-se-rendre-charlevoix.html\">S'y rendre</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">← Charlevoix</a> · <a href=\"/carte-charlevoix\">Carte Charlevoix</a> · <a href=\"/comment-se-rendre-charlevoix\">S'y rendre</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

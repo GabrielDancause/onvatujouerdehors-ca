@@ -44,7 +44,7 @@
       "title": "Le marché",
       "paragraphs": [
         "Le marché public de La Malbaie est un rendez-vous gourmand incontournable de l'été charlevoisien. Chaque semaine en saison estivale, les producteurs et artisans de la région s'y retrouvent pour offrir le meilleur du terroir de Charlevoix : fromages fins, légumes frais, viandes biologiques, pains artisanaux, confitures et bien plus.",
-        "C'est l'occasion parfaite de rencontrer les agriculteurs et producteurs qui font la réputation gastronomique de Charlevoix — une région reconnue comme l'un des plus beaux garde-manger du Québec. Le marché complète l'offre du <a href=\"marche-public-bsp-charlevoix.html\">marché public de Baie-Saint-Paul</a> et s'inscrit dans la tradition de la <a href=\"route-saveurs-charlevoix.html\">Route des Saveurs de Charlevoix</a>."
+        "C'est l'occasion parfaite de rencontrer les agriculteurs et producteurs qui font la réputation gastronomique de Charlevoix — une région reconnue comme l'un des plus beaux garde-manger du Québec. Le marché complète l'offre du <a href=\"/marche-public-bsp-charlevoix\">marché public de Baie-Saint-Paul</a> et s'inscrit dans la tradition de la <a href=\"/route-saveurs-charlevoix\">Route des Saveurs de Charlevoix</a>."
       ]
     },
     {
@@ -63,7 +63,7 @@
         {
           "icon": "🥩",
           "title": "Viandes et charcuteries",
-          "description": "Agneau de Charlevoix, viandes biologiques, charcuteries artisanales et produits de la <a href=\"ferme-basque-charlevoix.html\">Ferme Basque</a> et d'autres éleveurs locaux."
+          "description": "Agneau de Charlevoix, viandes biologiques, charcuteries artisanales et produits de la <a href=\"/ferme-basque-charlevoix\">Ferme Basque</a> et d'autres éleveurs locaux."
         },
         {
           "icon": "🍯",
@@ -89,7 +89,7 @@
         },
         {
           "title": "🍽️ Route des Saveurs",
-          "content": "<a href=\"route-saveurs-charlevoix.html\">Route des Saveurs</a><br>Combinez le marché avec des visites de fermes et fromageries sur le circuit"
+          "content": "<a href=\"/route-saveurs-charlevoix\">Route des Saveurs</a><br>Combinez le marché avec des visites de fermes et fromageries sur le circuit"
         }
       ]
     },
@@ -144,5 +144,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"la-malbaie-charlevoix.html\">← La Malbaie</a> · <a href=\"route-saveurs-charlevoix.html\">Route des Saveurs</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/la-malbaie-charlevoix\">← La Malbaie</a> · <a href=\"/route-saveurs-charlevoix\">Route des Saveurs</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

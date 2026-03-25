@@ -130,7 +130,7 @@
       "emoji": "🚲",
       "title": "Tour de l'Île-aux-Coudres à vélo",
       "location": "📍 Île-aux-Coudres",
-      "description": "<a href=\"ile-aux-coudres-charlevoix.html\" class=\"entry-link\">Une boucle de 23 km autour de l'île, accessible en traversier gratuit depuis Saint-Joseph-de-la-Rive. Paysages bucoliques, moulins patrimoniaux, </a><a href=\"cidrerie-pedneault-charlevoix.html\" style=\"color:#2D5016;font-weight:600;\">Cidrerie Pedneault</a> et plages. L'excursion parfaite d'une journée.",
+      "description": "<a href=\"/ile-aux-coudres-charlevoix\" class=\"entry-link\">Une boucle de 23 km autour de l'île, accessible en traversier gratuit depuis Saint-Joseph-de-la-Rive. Paysages bucoliques, moulins patrimoniaux, </a><a href=\"/cidrerie-pedneault-charlevoix\" style=\"color:#2D5016;font-weight:600;\">Cidrerie Pedneault</a> et plages. L'excursion parfaite d'une journée.",
       "tags": [
         "Vélo",
         "23 km",
@@ -144,7 +144,7 @@
       "emoji": "🎵",
       "title": "Domaine Forget — Festival international",
       "location": "📍 Saint-Irénée",
-      "description": "<a href=\"domaine-forget-charlevoix.html\" class=\"entry-link\">Académie de musique et de danse de renommée internationale, perchée sur une falaise à </a><a href=\"saint-irenee-charlevoix.html\" style=\"color:#2D5016;font-weight:600;\">Saint-Irénée</a>. Concerts classiques, jazz et musique du monde en plein air avec le fleuve en toile de fond. Été principalement.",
+      "description": "<a href=\"/domaine-forget-charlevoix\" class=\"entry-link\">Académie de musique et de danse de renommée internationale, perchée sur une falaise à </a><a href=\"/saint-irenee-charlevoix\" style=\"color:#2D5016;font-weight:600;\">Saint-Irénée</a>. Concerts classiques, jazz et musique du monde en plein air avec le fleuve en toile de fond. Été principalement.",
       "tags": [
         "Musique",
         "Concerts",
@@ -175,5 +175,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-restaurants-charlevoix.html\">Top 10 restaurants</a> · <a href=\"top-10-fermes-charlevoix.html\">Top 10 fermes</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-restaurants-charlevoix\">Top 10 restaurants</a> · <a href=\"/top-10-fermes-charlevoix\">Top 10 fermes</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

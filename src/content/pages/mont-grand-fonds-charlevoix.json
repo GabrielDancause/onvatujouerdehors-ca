@@ -1,7 +1,7 @@
 {
   "slug": "mont-grand-fonds-charlevoix",
   "title": "Mont Grand-Fonds — Ski alpin à La Malbaie, Charlevoix, Québec",
-  "description": "Mont Grand-Fonds : station de ski familiale à La Malbaie dans Charlevoix. 20 pistes, 335 m de dénivelé, 140 km de ski de fond. Neige abondante et tarifs abordables.",
+  "description": "Mont Grand-Fonds : station de ski familiale à La Malbaie dans Charlevoix. 20 pistes, 335 m de dénivelé, 140 km de ski de fond.",
   "ogTitle": "Mont Grand-Fonds — Ski alpin à La Malbaie",
   "ogDescription": "Station de ski familiale dans Charlevoix. 20 pistes, 335 m de dénivelé, 140 km de ski de fond. Tarifs abordables.",
   "heroGradient": "linear-gradient(135deg, #1e3a5f 0%, #2D5016 100%)",
@@ -47,8 +47,8 @@
     {
       "title": "La station",
       "paragraphs": [
-        "Le Mont Grand-Fonds est la station de ski familiale de <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a>, nichée au cœur de Charlevoix. Avec ses 335 mètres de dénivelé et ses 20 pistes de tous niveaux, c'est l'option ski abordable et authentique de la région — loin des foules, avec un enneigement naturel remarquable grâce au microclimat charlevoisien.",
-        "Moins connue que <a href=\"le-massif-ski-charlevoix.html\">Le Massif de Charlevoix</a>, la station a un charme bien à elle : des tarifs familiaux, un après-ski chaleureux au Pub le Sommet, et un réseau de ski de fond parmi les plus étendus au Québec. C'est l'endroit préféré des locaux et des familles qui cherchent une expérience de ski décontractée."
+        "Le Mont Grand-Fonds est la station de ski familiale de <a href=\"/la-malbaie-charlevoix\">La Malbaie</a>, nichée au cœur de Charlevoix. Avec ses 335 mètres de dénivelé et ses 20 pistes de tous niveaux, c'est l'option ski abordable et authentique de la région — loin des foules, avec un enneigement naturel remarquable grâce au microclimat charlevoisien.",
+        "Moins connue que <a href=\"/le-massif-ski-charlevoix\">Le Massif de Charlevoix</a>, la station a un charme bien à elle : des tarifs familiaux, un après-ski chaleureux au Pub le Sommet, et un réseau de ski de fond parmi les plus étendus au Québec. C'est l'endroit préféré des locaux et des familles qui cherchent une expérience de ski décontractée."
       ]
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "Hébergement",
       "paragraphs": [
-        "Mont Grand-Fonds offre de l'hébergement ski-in/ski-out directement sur la montagne — parfait pour maximiser le temps sur les pistes. Les options d'hébergement à <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a> sont également nombreuses, du <a href=\"fairmont-manoir-richelieu.html\">Fairmont Le Manoir Richelieu</a> aux auberges et chalets locaux."
+        "Mont Grand-Fonds offre de l'hébergement ski-in/ski-out directement sur la montagne — parfait pour maximiser le temps sur les pistes. Les options d'hébergement à <a href=\"/la-malbaie-charlevoix\">La Malbaie</a> sont également nombreuses, du <a href=\"/fairmont-manoir-richelieu\">Fairmont Le Manoir Richelieu</a> aux auberges et chalets locaux."
       ]
     },
     {
@@ -129,5 +129,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"la-malbaie-charlevoix.html\">← La Malbaie</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/la-malbaie-charlevoix\">← La Malbaie</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

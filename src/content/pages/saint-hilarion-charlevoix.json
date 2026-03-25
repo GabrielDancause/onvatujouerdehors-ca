@@ -1,7 +1,7 @@
 {
   "slug": "saint-hilarion-charlevoix",
   "title": "Saint-Hilarion — Village de Charlevoix, Québec",
-  "description": "Saint-Hilarion, village agricole perché à 400 mètres d'altitude dans l'arrière-pays de Charlevoix. Montagnes, fermes, cratère météoritique et paysages ruraux authentiques.",
+  "description": "Saint-Hilarion, village agricole perché à 400 mètres d'altitude dans l'arrière-pays de Charlevoix. Montagnes, fermes, cratère météoritique et paysages ruraux...",
   "ogTitle": "Saint-Hilarion — Charlevoix, Québec",
   "ogDescription": "Village agricole à 400 m d'altitude au cœur du cratère de Charlevoix. Montagnes, fermes et authenticité.",
   "heroGradient": "linear-gradient(135deg, #5a4a2e 0%, #3a5a2e 50%, #2D5016 100%)",
@@ -186,7 +186,7 @@
       "infoCards": [
         {
           "title": "📍 Emplacement",
-          "content": "MRC Charlevoix, Capitale-Nationale<br>~10 km au nord des <a href=\"les-eboulements-charlevoix.html\">Éboulements</a><br>Entre <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a> et <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a>"
+          "content": "MRC Charlevoix, Capitale-Nationale<br>~10 km au nord des <a href=\"/les-eboulements-charlevoix\">Éboulements</a><br>Entre <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a> et <a href=\"/la-malbaie-charlevoix\">La Malbaie</a>"
         },
         {
           "title": "🏛️ Maire",
@@ -217,5 +217,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

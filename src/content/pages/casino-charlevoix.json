@@ -47,7 +47,7 @@
     {
       "title": "Le casino",
       "paragraphs": [
-        "Le Casino de Charlevoix est l'un des quatre casinos de Loto-Québec, et certainement le plus pittoresque. Aménagé dans l'ancien théâtre d'été du Manoir Richelieu à Pointe-au-Pic (<a href=\"la-malbaie-charlevoix.html\">La Malbaie</a>), il trône sur la falaise avec une vue panoramique sur le fleuve Saint-Laurent.",
+        "Le Casino de Charlevoix est l'un des quatre casinos de Loto-Québec, et certainement le plus pittoresque. Aménagé dans l'ancien théâtre d'été du Manoir Richelieu à Pointe-au-Pic (<a href=\"/la-malbaie-charlevoix\">La Malbaie</a>), il trône sur la falaise avec une vue panoramique sur le fleuve Saint-Laurent.",
         "Le Casino de Charlevoix détient un titre unique : il fut le premier casino au Canada à être jumelé à un établissement hôtelier, le Fairmont Le Manoir Richelieu. L'ensemble forme un complexe de villégiature qui attire plus d'un million de visiteurs par année."
       ]
     },
@@ -118,7 +118,7 @@
         },
         {
           "title": "💡 Bon à savoir",
-          "content": "18 ans et plus · Tenue soignée · Le <a href=\"train-charlevoix.html\">Train de Charlevoix</a> s'arrête tout près"
+          "content": "18 ans et plus · Tenue soignée · Le <a href=\"/train-charlevoix\">Train de Charlevoix</a> s'arrête tout près"
         }
       ]
     },
@@ -138,5 +138,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-activites-charlevoix.html\">← Top 10 activités</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-activites-charlevoix\">← Top 10 activités</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "motoneige-charlevoix",
-  "title": "Motoneige à Charlevoix — Sentiers et circuits dans les montagnes, Québec",
-  "description": "Guide motoneige dans Charlevoix : sentiers balisés à travers les montagnes et le fleuve, clubs locaux, location et conseils pratiques pour explorer la région en motoneige.",
+  "title": "Motoneige à Charlevoix — Sentiers et circuits",
+  "description": "Guide motoneige dans Charlevoix : sentiers balisés à travers les montagnes et le fleuve, clubs locaux, location et conseils pratiques pour explorer la région...",
   "ogTitle": "Motoneige à Charlevoix — Québec",
   "ogDescription": "Explorez Charlevoix en motoneige : sentiers entre montagnes et fleuve, clubs, location et circuits.",
   "heroGradient": "linear-gradient(135deg, #1a3a5c 0%, #2a4a3a 50%, #2D5016 100%)",
@@ -44,13 +44,13 @@
       "title": "La motoneige dans Charlevoix",
       "paragraphs": [
         "Charlevoix est une destination de choix pour la motoneige au Québec. Avec ses montagnes escarpées, ses vallées enneigées et ses vues spectaculaires sur le fleuve Saint-Laurent, la région offre des conditions exceptionnelles pour les motoneigistes de tous les niveaux.",
-        "Le réseau de sentiers de Charlevoix fait partie du vaste réseau Trans-Québec, qui totalise plus de 30 000 km de sentiers balisés et entretenus à travers la province. Les sentiers de la région traversent des paysages variés — forêts boréales, plateaux montagneux, vallées agricoles et panoramas sur le fleuve — offrant une expérience unique en <a href=\"charlevoix-hiver.html\">hiver dans Charlevoix</a>."
+        "Le réseau de sentiers de Charlevoix fait partie du vaste réseau Trans-Québec, qui totalise plus de 30 000 km de sentiers balisés et entretenus à travers la province. Les sentiers de la région traversent des paysages variés — forêts boréales, plateaux montagneux, vallées agricoles et panoramas sur le fleuve — offrant une expérience unique en <a href=\"/charlevoix-hiver\">hiver dans Charlevoix</a>."
       ]
     },
     {
       "title": "Les sentiers",
       "paragraphs": [
-        "Les sentiers de motoneige de Charlevoix relient les principales municipalités de la région : <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a>, <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a>, Saint-Urbain et les secteurs montagneux de l'arrière-pays. Les sentiers sont entretenus par les clubs de motoneige locaux affiliés à la Fédération des clubs de motoneigistes du Québec (FCMQ)."
+        "Les sentiers de motoneige de Charlevoix relient les principales municipalités de la région : <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a>, <a href=\"/la-malbaie-charlevoix\">La Malbaie</a>, Saint-Urbain et les secteurs montagneux de l'arrière-pays. Les sentiers sont entretenus par les clubs de motoneige locaux affiliés à la Fédération des clubs de motoneigistes du Québec (FCMQ)."
       ],
       "highlightCards": [
         {
@@ -106,7 +106,7 @@
     {
       "title": "Combiner avec d'autres activités",
       "paragraphs": [
-        "La motoneige se combine parfaitement avec d'autres <a href=\"aventure-plein-air-charlevoix.html\">activités de plein air</a> dans Charlevoix. Après une journée sur les sentiers, profitez d'un moment de détente dans l'un des <a href=\"top-10-spas-charlevoix.html\">spas de la région</a>, ou réchauffez-vous dans un des <a href=\"top-10-restaurants-charlevoix.html\">restaurants de Charlevoix</a> pour goûter aux saveurs locales."
+        "La motoneige se combine parfaitement avec d'autres <a href=\"/aventure-plein-air-charlevoix\">activités de plein air</a> dans Charlevoix. Après une journée sur les sentiers, profitez d'un moment de détente dans l'un des <a href=\"/top-10-spas-charlevoix\">spas de la région</a>, ou réchauffez-vous dans un des <a href=\"/top-10-restaurants-charlevoix\">restaurants de Charlevoix</a> pour goûter aux saveurs locales."
       ],
       "cardGrid": [
         {
@@ -150,5 +150,5 @@
       }
     ]
   },
-  "footer": "<a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"top-10-activites-charlevoix.html\">Top 10 activités</a> · <a href=\"charlevoix-hiver.html\">Charlevoix en hiver</a> · <a href=\"https://onvatujouerdehors.ca\">onvatujouerdehors.ca</a>"
+  "footer": "<a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/top-10-activites-charlevoix\">Top 10 activités</a> · <a href=\"/charlevoix-hiver\">Charlevoix en hiver</a> · <a href=\"https://onvatujouerdehors.ca\">onvatujouerdehors.ca</a>"
 }

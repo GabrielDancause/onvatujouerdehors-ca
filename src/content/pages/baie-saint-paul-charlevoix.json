@@ -1,7 +1,7 @@
 {
   "slug": "baie-saint-paul-charlevoix",
   "title": "Baie-Saint-Paul — Capitale artistique de Charlevoix, Québec",
-  "description": "Baie-Saint-Paul, chef-lieu de Charlevoix et capitale artistique du Québec. Galeries d'art, Musée d'art contemporain, Hôtel Germain, restaurants, Le Festif! et panoramas sur le fleuve Saint-Laurent.",
+  "description": "Baie-Saint-Paul, chef-lieu de Charlevoix et capitale artistique du Québec. Galeries d'art, Musée d'art contemporain, Hôtel Germain, restaurants, Le Festif! e...",
   "ogTitle": "Baie-Saint-Paul — Charlevoix, Québec",
   "ogDescription": "Capitale artistique de Charlevoix. Galeries, gastronomie, montagnes et fleuve au cœur d'une vallée spectaculaire.",
   "heroGradient": "linear-gradient(135deg, #1a3a5c 0%, #2a4a3a 50%, #2D5016 100%)",
@@ -203,5 +203,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

@@ -1,6 +1,6 @@
 {
   "slug": "gourmand-charlevoix",
-  "title": "Charlevoix gourmand — Circuit gastronomique et terroir | onvatujouerdehors.ca",
+  "title": "Charlevoix gourmand — Circuit gastronomique et terroir",
   "description": "Circuit gastronomique de Charlevoix : Route des Saveurs, fromageries, restaurants du terroir, microbrasseries et producteurs locaux. Le guide gourmand.",
   "ogTitle": "Charlevoix gourmand — Circuit gastronomique",
   "ogDescription": "Route des Saveurs, fromageries, restaurants et producteurs locaux. Le paradis des foodies au Québec.",
@@ -47,8 +47,8 @@
     {
       "title": "Le terroir de Charlevoix",
       "paragraphs": [
-        "Charlevoix est un berceau de la gastronomie québécoise. C'est ici qu'est née la première route agrotouristique du Québec — la <a href=\"route-saveurs-charlevoix.html\">Route des Saveurs</a> — et c'est ici que des générations de producteurs ont développé des produits d'exception : fromages fins, charcuteries, cidres de pomme, bières artisanales et plus encore.",
-        "La certification <a href=\"charlevoix-pure-charlevoix.html\">Charlevoix Pure</a> garantit l'origine et la qualité des produits de la région. Quand vous voyez ce logo, vous savez que c'est authentique."
+        "Charlevoix est un berceau de la gastronomie québécoise. C'est ici qu'est née la première route agrotouristique du Québec — la <a href=\"/route-saveurs-charlevoix\">Route des Saveurs</a> — et c'est ici que des générations de producteurs ont développé des produits d'exception : fromages fins, charcuteries, cidres de pomme, bières artisanales et plus encore.",
+        "La certification <a href=\"/charlevoix-pure-charlevoix\">Charlevoix Pure</a> garantit l'origine et la qualité des produits de la région. Quand vous voyez ce logo, vous savez que c'est authentique."
       ]
     },
     {
@@ -60,22 +60,22 @@
         {
           "icon": "🧀",
           "title": "Laiterie Charlevoix",
-          "description": "Depuis 1948, famille Labbé. Le Migneron de Charlevoix est un classique québécois. Cheddars vieillis et boutique à BSP. <a href=\"laiterie-charlevoix.html\">En savoir plus →</a>"
+          "description": "Depuis 1948, famille Labbé. Le Migneron de Charlevoix est un classique québécois. Cheddars vieillis et boutique à BSP. <a href=\"/laiterie-charlevoix\">En savoir plus →</a>"
         },
         {
           "icon": "🏅",
           "title": "Fromagerie Maurice Dufour",
-          "description": "Le Migneron original, le Ciel de Charlevoix et d'autres fromages primés. Maître affineur. <a href=\"fromagerie-maurice-dufour-charlevoix.html\">En savoir plus →</a>"
+          "description": "Le Migneron original, le Ciel de Charlevoix et d'autres fromages primés. Maître affineur. <a href=\"/fromagerie-maurice-dufour-charlevoix\">En savoir plus →</a>"
         },
         {
           "icon": "🍷",
           "title": "Famille Migneron",
-          "description": "Vignoble et fromagerie. Une expérience unique alliant vin et fromage charlevoisien. <a href=\"famille-migneron-charlevoix.html\">En savoir plus →</a>"
+          "description": "Vignoble et fromagerie. Une expérience unique alliant vin et fromage charlevoisien. <a href=\"/famille-migneron-charlevoix\">En savoir plus →</a>"
         },
         {
           "icon": "🥩",
           "title": "Ferme Éboulmontaise",
-          "description": "Viandes et charcuteries de qualité aux Éboulements. Le restaurant <a href=\"restaurant-epicentre-charlevoix.html\">L'Épicentre</a> sert leurs produits sur place."
+          "description": "Viandes et charcuteries de qualité aux Éboulements. Le restaurant <a href=\"/restaurant-epicentre-charlevoix\">L'Épicentre</a> sert leurs produits sur place."
         }
       ]
     },
@@ -88,22 +88,22 @@
         {
           "icon": "🌾",
           "title": "Les Labours",
-          "description": "Restaurant de l'Hôtel Germain à BSP. Cuisine raffinée du terroir, menu saisonnier, produits locaux. <a href=\"les-labours-charlevoix.html\">En savoir plus →</a>"
+          "description": "Restaurant de l'Hôtel Germain à BSP. Cuisine raffinée du terroir, menu saisonnier, produits locaux. <a href=\"/les-labours-charlevoix\">En savoir plus →</a>"
         },
         {
           "icon": "🐑",
           "title": "Le Mouton Noir",
-          "description": "Bistro incontournable de Baie-Saint-Paul. Ambiance conviviale, cuisine créative, terrasse animée. <a href=\"mouton-noir-charlevoix.html\">En savoir plus →</a>"
+          "description": "Bistro incontournable de Baie-Saint-Paul. Ambiance conviviale, cuisine créative, terrasse animée. <a href=\"/mouton-noir-charlevoix\">En savoir plus →</a>"
         },
         {
           "icon": "🥩",
           "title": "L'Épicentre",
-          "description": "Aux Éboulements, le restaurant de la Ferme Éboulmontaise. Du champ à l'assiette, littéralement. <a href=\"restaurant-epicentre-charlevoix.html\">En savoir plus →</a>"
+          "description": "Aux Éboulements, le restaurant de la Ferme Éboulmontaise. Du champ à l'assiette, littéralement. <a href=\"/restaurant-epicentre-charlevoix\">En savoir plus →</a>"
         },
         {
           "icon": "🍽️",
           "title": "Top 10 restaurants",
-          "description": "Consultez notre classement complet des meilleures tables de la région. <a href=\"top-10-restaurants-charlevoix.html\">Voir le Top 10 →</a>"
+          "description": "Consultez notre classement complet des meilleures tables de la région. <a href=\"/top-10-restaurants-charlevoix\">Voir le Top 10 →</a>"
         }
       ]
     },
@@ -113,12 +113,12 @@
         {
           "icon": "🍺",
           "title": "Microbrasseries",
-          "description": "Plusieurs microbrasseries proposent des bières artisanales brassées avec des ingrédients locaux. <a href=\"microbrasseries-charlevoix.html\">Guide des microbrasseries →</a>"
+          "description": "Plusieurs microbrasseries proposent des bières artisanales brassées avec des ingrédients locaux. <a href=\"/microbrasseries-charlevoix\">Guide des microbrasseries →</a>"
         },
         {
           "icon": "🍎",
           "title": "Cidrerie Pedneault",
-          "description": "Cidres, mistelles et vinaigres de pomme sur l'Île-aux-Coudres. Verger patrimonial de la famille Pedneault. <a href=\"cidrerie-pedneault-charlevoix.html\">En savoir plus →</a>"
+          "description": "Cidres, mistelles et vinaigres de pomme sur l'Île-aux-Coudres. Verger patrimonial de la famille Pedneault. <a href=\"/cidrerie-pedneault-charlevoix\">En savoir plus →</a>"
         }
       ]
     },
@@ -127,11 +127,11 @@
       "infoCards": [
         {
           "title": "Jour 1 — Baie-Saint-Paul",
-          "content": "Matin : <a href=\"laiterie-charlevoix.html\">Laiterie Charlevoix</a> (dégustation). Midi : <a href=\"marche-public-bsp-charlevoix.html\">Marché public</a>. Après-midi : <a href=\"route-saveurs-charlevoix.html\">Route des Saveurs</a> (2-3 arrêts producteurs). Souper : <a href=\"les-labours-charlevoix.html\">Les Labours</a>."
+          "content": "Matin : <a href=\"/laiterie-charlevoix\">Laiterie Charlevoix</a> (dégustation). Midi : <a href=\"/marche-public-bsp-charlevoix\">Marché public</a>. Après-midi : <a href=\"/route-saveurs-charlevoix\">Route des Saveurs</a> (2-3 arrêts producteurs). Souper : <a href=\"/les-labours-charlevoix\">Les Labours</a>."
         },
         {
           "title": "Jour 2 — Les Éboulements → La Malbaie",
-          "content": "Matin : <a href=\"ferme-eboulmontaise-charlevoix.html\">Ferme Éboulmontaise</a>. Midi : <a href=\"restaurant-epicentre-charlevoix.html\">L'Épicentre</a>. Détour <a href=\"ile-aux-coudres-charlevoix.html\">Île-aux-Coudres</a> pour <a href=\"cidrerie-pedneault-charlevoix.html\">Pedneault</a>. Souper à <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a>."
+          "content": "Matin : <a href=\"/ferme-eboulmontaise-charlevoix\">Ferme Éboulmontaise</a>. Midi : <a href=\"/restaurant-epicentre-charlevoix\">L'Épicentre</a>. Détour <a href=\"/ile-aux-coudres-charlevoix\">Île-aux-Coudres</a> pour <a href=\"/cidrerie-pedneault-charlevoix\">Pedneault</a>. Souper à <a href=\"/la-malbaie-charlevoix\">La Malbaie</a>."
         }
       ]
     },
@@ -141,12 +141,12 @@
         {
           "icon": "🧀",
           "title": "Fête des fromages",
-          "description": "Célébration annuelle des fromages de la région. Dégustations, rencontres avec les fromagers. <a href=\"fete-fromages-charlevoix.html\">En savoir plus →</a>"
+          "description": "Célébration annuelle des fromages de la région. Dégustations, rencontres avec les fromagers. <a href=\"/fete-fromages-charlevoix\">En savoir plus →</a>"
         },
         {
           "icon": "🎪",
           "title": "Foire des Terroirs",
-          "description": "En août, sur le site de la Laiterie Charlevoix. Producteurs d'ici et d'ailleurs. <a href=\"foire-terroirs-charlevoix.html\">En savoir plus →</a>"
+          "description": "En août, sur le site de la Laiterie Charlevoix. Producteurs d'ici et d'ailleurs. <a href=\"/foire-terroirs-charlevoix\">En savoir plus →</a>"
         }
       ]
     },
@@ -163,14 +163,14 @@
         },
         {
           "title": "🗺️ Planification",
-          "content": "Regroupez vos visites par secteur. La <a href=\"carte-charlevoix.html\">carte de Charlevoix</a> vous aidera à optimiser votre parcours."
+          "content": "Regroupez vos visites par secteur. La <a href=\"/carte-charlevoix\">carte de Charlevoix</a> vous aidera à optimiser votre parcours."
         },
         {
           "title": "🛍️ Achats",
-          "content": "Plusieurs produits sont aussi disponibles au <a href=\"marche-public-bsp-charlevoix.html\">Marché public de BSP</a> si vous manquez de temps pour visiter chaque ferme."
+          "content": "Plusieurs produits sont aussi disponibles au <a href=\"/marche-public-bsp-charlevoix\">Marché public de BSP</a> si vous manquez de temps pour visiter chaque ferme."
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">← Charlevoix</a> · <a href=\"route-saveurs-charlevoix.html\">Route des Saveurs</a> · <a href=\"top-10-restaurants-charlevoix.html\">Top 10 restaurants</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">← Charlevoix</a> · <a href=\"/route-saveurs-charlevoix\">Route des Saveurs</a> · <a href=\"/top-10-restaurants-charlevoix\">Top 10 restaurants</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

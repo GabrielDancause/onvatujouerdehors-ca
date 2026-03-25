@@ -1,7 +1,7 @@
 {
   "slug": "fromagerie-maurice-dufour-charlevoix",
   "title": "Maison d'affinage Maurice Dufour — Baie-Saint-Paul, Charlevoix, Québec",
-  "description": "Maison d'affinage Maurice Dufour à Baie-Saint-Paul. Fromagerie artisanale reconnue pour Le Ciel de Charlevoix et Le Migneron. Maîtres affineurs depuis les années 1990.",
+  "description": "Maison d'affinage Maurice Dufour à Baie-Saint-Paul. Fromagerie artisanale reconnue pour Le Ciel de Charlevoix et Le Migneron.",
   "ogTitle": "Maison d'affinage Maurice Dufour — Charlevoix",
   "ogDescription": "Fromages affinés d'exception. Le Ciel de Charlevoix et Le Migneron.",
   "heroGradient": "linear-gradient(135deg, #b8860b 0%, #2D5016 100%)",
@@ -84,7 +84,7 @@
         },
         {
           "title": "🔗 Voir aussi",
-          "content": "<a href=\"laiterie-charlevoix.html\">Laiterie Charlevoix</a><br><a href=\"famille-migneron-charlevoix.html\">Famille Migneron</a>"
+          "content": "<a href=\"/laiterie-charlevoix\">Laiterie Charlevoix</a><br><a href=\"/famille-migneron-charlevoix\">Famille Migneron</a>"
         },
         {
           "title": "🛒 Où trouver",
@@ -93,5 +93,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-fermes-charlevoix.html\">← Top 10 fermes</a> · <a href=\"top-10-auberges-charlevoix-fr.html\">Top 10 auberges</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-fermes-charlevoix\">← Top 10 fermes</a> · <a href=\"/top-10-auberges-charlevoix-fr\">Top 10 auberges</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

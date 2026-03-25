@@ -1,7 +1,7 @@
 {
   "slug": "reserve-biosphere-charlevoix",
   "title": "Réserve mondiale de la biosphère de Charlevoix — UNESCO | Québec",
-  "description": "La Réserve de la biosphère de Charlevoix, reconnue par l'UNESCO depuis 1988. 560 000 hectares couvrant l'astroblème de Charlevoix, parcs nationaux et territoire unique.",
+  "description": "La Réserve de la biosphère de Charlevoix, reconnue par l'UNESCO depuis 1988. 560 000 hectares couvrant l'astroblème de Charlevoix, parcs nationaux et territo...",
   "ogTitle": "Réserve de la biosphère de Charlevoix — UNESCO",
   "ogDescription": "Depuis 1988, l'UNESCO reconnaît Charlevoix comme réserve de la biosphère. Parcs nationaux, astroblème et biodiversité exceptionnelle.",
   "heroGradient": "linear-gradient(135deg, #1a5c3a 0%, #2D5016 100%)",
@@ -52,17 +52,17 @@
         {
           "icon": "🏔️",
           "title": "Parc des Hautes-Gorges",
-          "description": "Les parois vertigineuses de la vallée de la rivière Malbaie, parmi les plus hautes parois rocheuses à l'est des Rocheuses. <a href=\"parc-hautes-gorges-charlevoix.html\">Voir le parc →</a>"
+          "description": "Les parois vertigineuses de la vallée de la rivière Malbaie, parmi les plus hautes parois rocheuses à l'est des Rocheuses. <a href=\"/parc-hautes-gorges-charlevoix\">Voir le parc →</a>"
         },
         {
           "icon": "🌲",
           "title": "Parc des Grands-Jardins",
-          "description": "Un îlot de taïga au cœur de Charlevoix. Habitat du caribou de Charlevoix et paysages de toundra alpine. <a href=\"parc-grands-jardins-charlevoix.html\">Voir le parc →</a>"
+          "description": "Un îlot de taïga au cœur de Charlevoix. Habitat du caribou de Charlevoix et paysages de toundra alpine. <a href=\"/parc-grands-jardins-charlevoix\">Voir le parc →</a>"
         },
         {
           "icon": "🐋",
           "title": "Parc marin du Saguenay",
-          "description": "Aire marine protégée à l'embouchure du fjord du Saguenay. Habitat du béluga et de nombreuses espèces marines. <a href=\"parc-marin-saguenay-charlevoix.html\">Voir le parc →</a>"
+          "description": "Aire marine protégée à l'embouchure du fjord du Saguenay. Habitat du béluga et de nombreuses espèces marines. <a href=\"/parc-marin-saguenay-charlevoix\">Voir le parc →</a>"
         },
         {
           "icon": "🌿",
@@ -97,12 +97,12 @@
         {
           "icon": "🎨",
           "title": "MRC de Charlevoix",
-          "description": "<a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a>, <a href=\"petite-riviere-saint-francois-charlevoix.html\">Petite-Rivière-Saint-François</a>, <a href=\"les-eboulements-charlevoix.html\">Les Éboulements</a>, <a href=\"saint-urbain-charlevoix.html\">Saint-Urbain</a>, <a href=\"saint-hilarion-charlevoix.html\">Saint-Hilarion</a>, L'Isle-aux-Coudres, Notre-Dame-des-Monts"
+          "description": "<a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a>, <a href=\"/petite-riviere-saint-francois-charlevoix\">Petite-Rivière-Saint-François</a>, <a href=\"/les-eboulements-charlevoix\">Les Éboulements</a>, <a href=\"/saint-urbain-charlevoix\">Saint-Urbain</a>, <a href=\"/saint-hilarion-charlevoix\">Saint-Hilarion</a>, L'Isle-aux-Coudres, Notre-Dame-des-Monts"
         },
         {
           "icon": "🏰",
           "title": "MRC de Charlevoix-Est",
-          "description": "<a href=\"la-malbaie-charlevoix.html\">La Malbaie</a>, <a href=\"clermont-charlevoix.html\">Clermont</a>, <a href=\"saint-irenee-charlevoix.html\">Saint-Irénée</a>, Saint-Aimé-des-Lacs, Saint-Siméon, Baie-Sainte-Catherine"
+          "description": "<a href=\"/la-malbaie-charlevoix\">La Malbaie</a>, <a href=\"/clermont-charlevoix\">Clermont</a>, <a href=\"/saint-irenee-charlevoix\">Saint-Irénée</a>, Saint-Aimé-des-Lacs, Saint-Siméon, Baie-Sainte-Catherine"
         }
       ]
     },
@@ -119,7 +119,7 @@
         },
         {
           "title": "🥾 À découvrir",
-          "content": "<a href=\"randonnee-charlevoix.html\">Randonnée</a> dans les parcs nationaux, <a href=\"observation-baleines-charlevoix.html\">observation des baleines</a>, <a href=\"route-fleuve-charlevoix.html\">Route du Fleuve</a>"
+          "content": "<a href=\"/randonnee-charlevoix\">Randonnée</a> dans les parcs nationaux, <a href=\"/observation-baleines-charlevoix\">observation des baleines</a>, <a href=\"/route-fleuve-charlevoix\">Route du Fleuve</a>"
         },
         {
           "title": "📐 Superficie",
@@ -128,5 +128,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">← Charlevoix</a> · <a href=\"randonnee-charlevoix.html\">Randonnée</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">← Charlevoix</a> · <a href=\"/randonnee-charlevoix\">Randonnée</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

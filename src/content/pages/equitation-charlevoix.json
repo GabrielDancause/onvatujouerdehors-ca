@@ -47,7 +47,7 @@
     {
       "title": "L'équitation dans Charlevoix",
       "paragraphs": [
-        "Les paysages vallonnés de <a href=\"charlevoix.html\">Charlevoix</a>, entre montagnes et fleuve, offrent un cadre exceptionnel pour la randonnée à cheval. Plusieurs centres équestres de la région proposent des balades guidées à travers forêts, prairies et sentiers de montagne avec des vues panoramiques sur le Saint-Laurent.",
+        "Les paysages vallonnés de <a href=\"/charlevoix\">Charlevoix</a>, entre montagnes et fleuve, offrent un cadre exceptionnel pour la randonnée à cheval. Plusieurs centres équestres de la région proposent des balades guidées à travers forêts, prairies et sentiers de montagne avec des vues panoramiques sur le Saint-Laurent.",
         "Que vous soyez cavalier débutant ou expérimenté, les randonnées équestres de Charlevoix s'adaptent à tous les niveaux. Les sorties varient d'une heure à une journée complète, avec certaines excursions incluant un repas en plein air."
       ]
     },
@@ -62,12 +62,12 @@
         {
           "icon": "🌾",
           "title": "Balades champêtres",
-          "description": "Des balades plus courtes à travers les campagnes de <a href=\"saint-urbain-charlevoix.html\">Saint-Urbain</a> et <a href=\"saint-hilarion-charlevoix.html\">Saint-Hilarion</a>, idéales pour les familles et les débutants."
+          "description": "Des balades plus courtes à travers les campagnes de <a href=\"/saint-urbain-charlevoix\">Saint-Urbain</a> et <a href=\"/saint-hilarion-charlevoix\">Saint-Hilarion</a>, idéales pour les familles et les débutants."
         },
         {
           "icon": "🍂",
           "title": "Couleurs d'automne",
-          "description": "L'<a href=\"charlevoix-automne.html\">automne dans Charlevoix</a> est spectaculaire à cheval — les couleurs des forêts sont d'autant plus belles vues depuis les sentiers en hauteur."
+          "description": "L'<a href=\"/charlevoix-automne\">automne dans Charlevoix</a> est spectaculaire à cheval — les couleurs des forêts sont d'autant plus belles vues depuis les sentiers en hauteur."
         },
         {
           "icon": "❄️",
@@ -103,25 +103,25 @@
         {
           "icon": "🥾",
           "title": "Randonnée pédestre",
-          "description": "<a href=\"randonnee-charlevoix.html\">La randonnée dans Charlevoix</a> — des sentiers pour tous les niveaux dans les parcs nationaux."
+          "description": "<a href=\"/randonnee-charlevoix\">La randonnée dans Charlevoix</a> — des sentiers pour tous les niveaux dans les parcs nationaux."
         },
         {
           "icon": "🐕",
           "title": "Traineau à chiens",
-          "description": "<a href=\"traineau-chiens-charlevoix.html\">Le traineau à chiens</a> — une autre aventure animale dans les paysages enneigés de Charlevoix."
+          "description": "<a href=\"/traineau-chiens-charlevoix\">Le traineau à chiens</a> — une autre aventure animale dans les paysages enneigés de Charlevoix."
         },
         {
           "icon": "🏔️",
           "title": "Aventure plein air",
-          "description": "<a href=\"aventure-plein-air-charlevoix.html\">Toutes les activités de plein air</a> dans Charlevoix."
+          "description": "<a href=\"/aventure-plein-air-charlevoix\">Toutes les activités de plein air</a> dans Charlevoix."
         },
         {
           "icon": "🍂",
           "title": "Charlevoix en automne",
-          "description": "<a href=\"charlevoix-automne.html\">L'automne dans Charlevoix</a> — la plus belle saison pour une randonnée à cheval."
+          "description": "<a href=\"/charlevoix-automne\">L'automne dans Charlevoix</a> — la plus belle saison pour une randonnée à cheval."
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-activites-charlevoix.html\">← Top 10 activités</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-activites-charlevoix\">← Top 10 activités</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

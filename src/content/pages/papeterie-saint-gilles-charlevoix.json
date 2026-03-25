@@ -1,7 +1,7 @@
 {
   "slug": "papeterie-saint-gilles-charlevoix",
   "title": "Papeterie Saint-Gilles — Saint-Joseph-de-la-Rive, Charlevoix, Québec",
-  "description": "Papeterie Saint-Gilles à Saint-Joseph-de-la-Rive. Économusée du papier artisanal fondé en 1965 par Félix-Antoine Savard. Visites, ateliers et boutique de papier fait main.",
+  "description": "Papeterie Saint-Gilles à Saint-Joseph-de-la-Rive. Économusée du papier artisanal fondé en 1965 par Félix-Antoine Savard.",
   "ogTitle": "Papeterie Saint-Gilles — Saint-Joseph-de-la-Rive, Charlevoix",
   "ogDescription": "Premier économusée du Québec. Papier artisanal de coton depuis 1965.",
   "heroGradient": "linear-gradient(135deg, #7a6a4a 0%, #2D5016 100%)",
@@ -47,7 +47,7 @@
     {
       "title": "La papeterie",
       "paragraphs": [
-        "La Papeterie Saint-Gilles est un économusée situé dans le village de <a href=\"les-eboulements-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">Saint-Joseph-de-la-Rive</a>, au cœur de Charlevoix. Depuis près de 60 ans, on y fabrique du papier artisanal de coton de façon entièrement traditionnelle.",
+        "La Papeterie Saint-Gilles est un économusée situé dans le village de <a href=\"/les-eboulements-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">Saint-Joseph-de-la-Rive</a>, au cœur de Charlevoix. Depuis près de 60 ans, on y fabrique du papier artisanal de coton de façon entièrement traditionnelle.",
         "Fondée en 1965 par l'écrivain et prêtre <strong>Félix-Antoine Savard</strong> — auteur du roman classique <em>Menaud, maître-draveur</em> — avec l'aide de Mark Donohue, la papeterie est devenue le tout premier économusée du Québec en 1988, un concept créé par l'architecte et ethnologue Cyril Simard."
       ]
     },
@@ -114,10 +114,10 @@
         },
         {
           "title": "📌 À proximité",
-          "content": "<a href=\"les-eboulements-charlevoix.html\">Les Éboulements</a><br><a href=\"musee-maritime-charlevoix.html\">Musée maritime</a><br><a href=\"ile-aux-coudres-charlevoix.html\">Île-aux-Coudres</a>"
+          "content": "<a href=\"/les-eboulements-charlevoix\">Les Éboulements</a><br><a href=\"/musee-maritime-charlevoix\">Musée maritime</a><br><a href=\"/ile-aux-coudres-charlevoix\">Île-aux-Coudres</a>"
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-culture-charlevoix.html\">← Top 8 culture</a> · <a href=\"les-eboulements-charlevoix.html\">Les Éboulements</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-culture-charlevoix\">← Top 8 culture</a> · <a href=\"/les-eboulements-charlevoix\">Les Éboulements</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "observation-oiseaux-charlevoix",
   "title": "Observation des oiseaux dans Charlevoix — Ornithologie, Québec",
-  "description": "Guide de l'observation des oiseaux dans Charlevoix. Sites d'observation, espèces à découvrir, parcs nationaux et conseils pour ornithologues débutants et expérimentés.",
+  "description": "Guide de l'observation des oiseaux dans Charlevoix. Sites d'observation, espèces à découvrir, parcs nationaux et conseils pour ornithologues débutants et exp...",
   "ogTitle": "Observation des oiseaux dans Charlevoix",
   "ogDescription": "Sites d'observation, espèces vedettes et conseils pour les ornithologues dans la région de Charlevoix, Québec.",
   "heroGradient": "linear-gradient(135deg, #4a6741 0%, #2D5016 100%)",
@@ -42,7 +42,7 @@
     {
       "title": "Un paradis pour les ornithologues",
       "paragraphs": [
-        "Charlevoix offre une diversité d'habitats remarquable pour l'observation des oiseaux. La région se situe à la rencontre de la forêt boréale et de la forêt mixte, créant une mosaïque unique qui attire une grande variété d'espèces. Désignée <a href=\"reserve-biosphere-charlevoix.html\">réserve mondiale de la biosphère par l'UNESCO</a> depuis 1988, la région abrite des écosystèmes préservés qui en font un territoire de choix pour les ornithologues.",
+        "Charlevoix offre une diversité d'habitats remarquable pour l'observation des oiseaux. La région se situe à la rencontre de la forêt boréale et de la forêt mixte, créant une mosaïque unique qui attire une grande variété d'espèces. Désignée <a href=\"/reserve-biosphere-charlevoix\">réserve mondiale de la biosphère par l'UNESCO</a> depuis 1988, la région abrite des écosystèmes préservés qui en font un territoire de choix pour les ornithologues.",
         "Du fleuve Saint-Laurent aux sommets des montagnes charlevoisienne, les habitats varient considérablement sur de courtes distances. Battures, marais, forêt boréale, toundra alpine — chaque milieu accueille ses espèces spécialisées."
       ]
     },
@@ -52,12 +52,12 @@
         {
           "icon": "🏔️",
           "title": "Parc des Grands-Jardins",
-          "description": "Taïga et toundra à moins de 100 km du fleuve. Habitat du caribou forestier et d'espèces boréales comme le mésangeai du Canada, la grive de Bicknell et le tétras du Canada. <a href=\"parc-grands-jardins-charlevoix.html\">Voir la page →</a>"
+          "description": "Taïga et toundra à moins de 100 km du fleuve. Habitat du caribou forestier et d'espèces boréales comme le mésangeai du Canada, la grive de Bicknell et le tétras du Canada. <a href=\"/parc-grands-jardins-charlevoix\">Voir la page →</a>"
         },
         {
           "icon": "🏞️",
           "title": "Parc des Hautes-Gorges",
-          "description": "Vallées encaissées et forêts anciennes. Parulines, pics, rapaces. La rivière Malbaie attire des espèces riveraines intéressantes en saison. <a href=\"parc-hautes-gorges-charlevoix.html\">Voir la page →</a>"
+          "description": "Vallées encaissées et forêts anciennes. Parulines, pics, rapaces. La rivière Malbaie attire des espèces riveraines intéressantes en saison. <a href=\"/parc-hautes-gorges-charlevoix\">Voir la page →</a>"
         },
         {
           "icon": "🌊",
@@ -67,17 +67,17 @@
         {
           "icon": "🐋",
           "title": "Parc marin du Saguenay",
-          "description": "Le secteur de Baie-Sainte-Catherine offre des observations combinées : oiseaux marins (guillemots, petits pingouins, eiders) et baleines. <a href=\"parc-marin-saguenay-charlevoix.html\">Voir la page →</a>"
+          "description": "Le secteur de Baie-Sainte-Catherine offre des observations combinées : oiseaux marins (guillemots, petits pingouins, eiders) et baleines. <a href=\"/parc-marin-saguenay-charlevoix\">Voir la page →</a>"
         },
         {
           "icon": "⛵",
           "title": "Île-aux-Coudres",
-          "description": "L'île est un site prisé pour les oiseaux de rivage et les rapaces en migration. Le tour de l'île à vélo permet de repérer plusieurs espèces. <a href=\"ile-aux-coudres-charlevoix.html\">Voir la page →</a>"
+          "description": "L'île est un site prisé pour les oiseaux de rivage et les rapaces en migration. Le tour de l'île à vélo permet de repérer plusieurs espèces. <a href=\"/ile-aux-coudres-charlevoix\">Voir la page →</a>"
         },
         {
           "icon": "🥾",
           "title": "Sentier des Caps",
-          "description": "Observation en altitude avec vue sur le fleuve. Rapaces migrateurs, bruants et passereaux de la forêt mixte tout au long du sentier. <a href=\"sentier-des-caps-charlevoix.html\">Voir la page →</a>"
+          "description": "Observation en altitude avec vue sur le fleuve. Rapaces migrateurs, bruants et passereaux de la forêt mixte tout au long du sentier. <a href=\"/sentier-des-caps-charlevoix\">Voir la page →</a>"
         }
       ]
     },
@@ -128,5 +128,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">← Charlevoix</a> · <a href=\"randonnee-charlevoix.html\">Randonnée</a> · <a href=\"reserve-biosphere-charlevoix.html\">Biosphère UNESCO</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">← Charlevoix</a> · <a href=\"/randonnee-charlevoix\">Randonnée</a> · <a href=\"/reserve-biosphere-charlevoix\">Biosphère UNESCO</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

@@ -5,7 +5,7 @@ const isListing = page.listingFormat;
 ---
 <html lang="fr">
 <head>
-    <BaseHead title={page.title} description={page.description} ogTitle={page.ogTitle} ogDescription={page.ogDescription} />
+    <BaseHead title={page.title} description={page.description} ogTitle={page.ogTitle} ogDescription={page.ogDescription} slug={page.slug} />
     {isListing ? (
         <style>
             * { margin: 0; padding: 0; box-sizing: border-box; }

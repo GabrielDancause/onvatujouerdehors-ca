@@ -1,6 +1,6 @@
 {
   "slug": "parapente-charlevoix",
-  "title": "Parapente et vol libre dans Charlevoix — Guide complet | onvatujouerdehors.ca",
+  "title": "Parapente et vol libre dans Charlevoix — Guide complet",
   "description": "Découvrez le parapente et le vol libre dans Charlevoix : sites de décollage, conditions de vol, panoramas sur le fleuve Saint-Laurent et les montagnes.",
   "ogTitle": "Parapente et vol libre dans Charlevoix",
   "ogDescription": "Survolez les montagnes et le fleuve — le parapente dans Charlevoix offre des panoramas incomparables.",
@@ -44,7 +44,7 @@
       "title": "Le parapente dans Charlevoix",
       "paragraphs": [
         "Charlevoix est un terrain de jeu exceptionnel pour le vol libre. La géographie unique de la région — un ancien cratère météoritique de 56 km de diamètre, des montagnes qui plongent directement vers le fleuve Saint-Laurent, des dénivelés parmi les plus importants de l'Est du Canada — crée des conditions favorables au parapente.",
-        "Les pilotes profitent des thermiques générés par les falaises côtières et les vallées encaissées. La vue en vol est spectaculaire : le fleuve Saint-Laurent, les îles, les villages accrochés aux montagnes, et l'immensité de la <a href=\"reserve-biosphere-charlevoix.html\">Réserve mondiale de la biosphère de Charlevoix</a>."
+        "Les pilotes profitent des thermiques générés par les falaises côtières et les vallées encaissées. La vue en vol est spectaculaire : le fleuve Saint-Laurent, les îles, les villages accrochés aux montagnes, et l'immensité de la <a href=\"/reserve-biosphere-charlevoix\">Réserve mondiale de la biosphère de Charlevoix</a>."
       ]
     },
     {
@@ -119,5 +119,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-activites-charlevoix.html\">← Top 10 activités</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-activites-charlevoix\">← Top 10 activités</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

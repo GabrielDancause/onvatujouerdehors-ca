@@ -1,7 +1,7 @@
 {
   "slug": "observation-baleines-charlevoix",
-  "title": "Observation des baleines — Baie-Sainte-Catherine & Tadoussac, Charlevoix, Québec",
-  "description": "Observation des baleines à Baie-Sainte-Catherine et Tadoussac, porte de sortie de Charlevoix. Bélugas, rorquals, baleines bleues dans le parc marin du Saguenay–Saint-Laurent.",
+  "title": "Observation des baleines — Baie-Sainte-Catherin",
+  "description": "Observation des baleines à Baie-Sainte-Catherine et Tadoussac, porte de sortie de Charlevoix. Bélugas, rorquals, baleines bleues dans le parc marin du Saguen...",
   "ogTitle": "Observation des baleines — Charlevoix / Tadoussac",
   "ogDescription": "Bélugas, rorquals et baleines bleues au confluent du Saguenay et du Saint-Laurent.",
   "heroGradient": "linear-gradient(135deg, #1a5276 0%, #2D5016 100%)",
@@ -126,7 +126,7 @@
     {
       "title": "En route depuis Charlevoix",
       "paragraphs": [
-        "Baie-Sainte-Catherine se trouve à l'extrémité nord-est de Charlevoix, à environ 45 minutes de <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a> par la route 138. C'est la dernière municipalité avant le traversier vers Tadoussac et la Côte-Nord. La route pour s'y rendre longe le fleuve et offre des paysages magnifiques."
+        "Baie-Sainte-Catherine se trouve à l'extrémité nord-est de Charlevoix, à environ 45 minutes de <a href=\"/la-malbaie-charlevoix\">La Malbaie</a> par la route 138. C'est la dernière municipalité avant le traversier vers Tadoussac et la Côte-Nord. La route pour s'y rendre longe le fleuve et offre des paysages magnifiques."
       ],
       "highlightCards": [
         {
@@ -142,5 +142,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-activites-charlevoix.html\">← Top 10 activités</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-activites-charlevoix\">← Top 10 activités</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "auberge-peupliers-charlevoix",
   "title": "Auberge des Peupliers (Auberge des Nuages) — Cap-à-l'Aigle, Charlevoix",
-  "description": "Auberge des Nuages (anciennement Auberge des Peupliers) à Cap-à-l'Aigle, La Malbaie. Hébergement de charme, cuisine régionale et vue sur le fleuve Saint-Laurent dans Charlevoix.",
+  "description": "Auberge des Nuages (anciennement Auberge des Peupliers) à Cap-à-l'Aigle, La Malbaie. Hébergement de charme, cuisine régionale et vue sur le fleuve Saint-Laur...",
   "ogTitle": "",
   "ogDescription": "",
   "heroGradient": "linear-gradient(135deg, #2D5016 0%, #4a6340 100%)",
@@ -90,5 +90,5 @@
       }
     ]
   },
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-auberges-charlevoix-fr.html\">← Retour au Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-auberges-charlevoix-fr\">← Retour au Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

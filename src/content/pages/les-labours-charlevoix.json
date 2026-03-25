@@ -1,7 +1,7 @@
 {
   "slug": "les-labours-charlevoix",
   "title": "Les Labours — Restaurant du Germain, Baie-Saint-Paul, Charlevoix",
-  "description": "Les Labours, restaurant gastronomique du Germain Hôtel & Spa Charlevoix à Baie-Saint-Paul. Chef Patrick Dubé, cuisine ouverte, terroir charlevoisien et carte des vins primée Wine Spectator.",
+  "description": "Les Labours, restaurant gastronomique du Germain Hôtel & Spa Charlevoix à Baie-Saint-Paul. Chef Patrick Dubé, cuisine ouverte, terroir charlevoisien et carte...",
   "ogTitle": "Les Labours — Baie-Saint-Paul, Charlevoix",
   "ogDescription": "Restaurant gastronomique du Germain Charlevoix. Cuisine ouverte, potager maison et carte des vins primée.",
   "heroGradient": "linear-gradient(135deg, #8b2e2e 0%, #2D5016 100%)",
@@ -47,7 +47,7 @@
     {
       "title": "Le restaurant",
       "paragraphs": [
-        "Les Labours est le restaurant signature du <a href=\"hotel-germain-charlevoix.html\">Germain Hôtel &amp; Spa Charlevoix</a> à Baie-Saint-Paul. Dans un décor chaleureux inspiré par la nature de la région, la cuisine ouverte sur quatre côtés place les convives au cœur de l'action.",
+        "Les Labours est le restaurant signature du <a href=\"/hotel-germain-charlevoix\">Germain Hôtel &amp; Spa Charlevoix</a> à Baie-Saint-Paul. Dans un décor chaleureux inspiré par la nature de la région, la cuisine ouverte sur quatre côtés place les convives au cœur de l'action.",
         "Le chef Patrick Dubé et son équipe célèbrent les saveurs charlevoisien­nes avec des plats qui racontent l'histoire des producteurs locaux, des récoltes du potager maison et du rythme des saisons. Grillades au charbon, gibier, légumes cultivés sur place — chaque assiette est un hommage au terroir."
       ]
     },
@@ -96,7 +96,7 @@
         },
         {
           "title": "🏨 Hôtel",
-          "content": "<a href=\"hotel-germain-charlevoix.html\">Le Germain Hôtel &amp; Spa Charlevoix</a><br>Ouvert aux non-résidents"
+          "content": "<a href=\"/hotel-germain-charlevoix\">Le Germain Hôtel &amp; Spa Charlevoix</a><br>Ouvert aux non-résidents"
         },
         {
           "title": "🌐 En ligne",
@@ -105,5 +105,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-restaurants-charlevoix.html\">← Top 10 restaurants</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-restaurants-charlevoix\">← Top 10 restaurants</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

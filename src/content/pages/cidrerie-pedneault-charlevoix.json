@@ -1,7 +1,7 @@
 {
   "slug": "cidrerie-pedneault-charlevoix",
   "title": "Cidrerie & Vergers Pedneault — Île-aux-Coudres, Charlevoix, Québec",
-  "description": "Cidrerie et Vergers Pedneault sur l'Île-aux-Coudres, Charlevoix. Vergers patrimoniaux, cidres artisanaux, mistelles, vinaigres de fruits et produits du terroir insulaire.",
+  "description": "Cidrerie et Vergers Pedneault sur l'Île-aux-Coudres, Charlevoix. Vergers patrimoniaux, cidres artisanaux, mistelles, vinaigres de fruits et produits du terro...",
   "ogTitle": "Cidrerie & Vergers Pedneault — Île-aux-Coudres",
   "ogDescription": "Vergers patrimoniaux et cidres artisanaux sur l'Île-aux-Coudres.",
   "heroGradient": "linear-gradient(135deg, #8b1a1a 0%, #2D5016 100%)",
@@ -93,10 +93,10 @@
         },
         {
           "title": "🔗 Voir aussi",
-          "content": "<a href=\"ile-aux-coudres-charlevoix.html\">L'Île-aux-Coudres</a><br><a href=\"laiterie-charlevoix.html\">Laiterie Charlevoix</a>"
+          "content": "<a href=\"/ile-aux-coudres-charlevoix\">L'Île-aux-Coudres</a><br><a href=\"/laiterie-charlevoix\">Laiterie Charlevoix</a>"
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-fermes-charlevoix.html\">← Top 10 fermes</a> · <a href=\"ile-aux-coudres-charlevoix.html\">Île-aux-Coudres</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-fermes-charlevoix\">← Top 10 fermes</a> · <a href=\"/ile-aux-coudres-charlevoix\">Île-aux-Coudres</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

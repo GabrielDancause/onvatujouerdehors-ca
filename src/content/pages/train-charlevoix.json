@@ -47,7 +47,7 @@
     {
       "title": "L'expérience",
       "paragraphs": [
-        "Le Train de Charlevoix, c'est s'offrir une fenêtre incomparable sur la beauté de la région. Le train touristique longe le fleuve Saint-Laurent sur 125 km, de la Chute-Montmorency près de Québec jusqu'à <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a>, en passant par <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a> et les villages côtiers de Charlevoix.",
+        "Le Train de Charlevoix, c'est s'offrir une fenêtre incomparable sur la beauté de la région. Le train touristique longe le fleuve Saint-Laurent sur 125 km, de la Chute-Montmorency près de Québec jusqu'à <a href=\"/la-malbaie-charlevoix\">La Malbaie</a>, en passant par <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a> et les villages côtiers de Charlevoix.",
         "Les paysages sont spectaculaires : le fleuve à perte de vue, les montagnes des Laurentides, les villages perchés sur les caps. C'est l'une des plus belles lignes ferroviaires au Canada et une façon unique de découvrir Charlevoix sans voiture."
       ]
     },
@@ -67,7 +67,7 @@
         {
           "icon": "⛷️",
           "title": "Petite-Rivière-Saint-François",
-          "description": "Accès au <a href=\"le-massif-ski-charlevoix.html\">Massif de Charlevoix</a>. Pas de billetterie."
+          "description": "Accès au <a href=\"/le-massif-ski-charlevoix\">Massif de Charlevoix</a>. Pas de billetterie."
         },
         {
           "icon": "🎨",
@@ -87,7 +87,7 @@
         {
           "icon": "🏰",
           "title": "La Malbaie",
-          "description": "Terminus. Secteur Pointe-au-Pic, près du Manoir Richelieu et du <a href=\"casino-charlevoix.html\">Casino</a>. Billetterie."
+          "description": "Terminus. Secteur Pointe-au-Pic, près du Manoir Richelieu et du <a href=\"/casino-charlevoix\">Casino</a>. Billetterie."
         }
       ]
     },
@@ -149,5 +149,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-activites-charlevoix.html\">← Top 10 activités</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-activites-charlevoix\">← Top 10 activités</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

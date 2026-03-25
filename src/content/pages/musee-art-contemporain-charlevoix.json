@@ -1,7 +1,7 @@
 {
   "slug": "musee-art-contemporain-charlevoix",
   "title": "Musée d'art contemporain de Baie-Saint-Paul — Charlevoix, Québec",
-  "description": "Musée d'art contemporain de Baie-Saint-Paul (MACBSP). Inauguré en 1992, dessiné par Pierre Thibault. Seul musée d'art contemporain dans l'est du Québec. Expositions, Symposium international, collection permanente.",
+  "description": "Musée d'art contemporain de Baie-Saint-Paul (MACBSP). Inauguré en 1992, dessiné par Pierre Thibault. Seul musée d'art contemporain dans l'est du Québec.",
   "ogTitle": "Musée d'art contemporain — Baie-Saint-Paul, Charlevoix",
   "ogDescription": "Seul musée d'art contemporain dans l'est du Québec. Depuis 1992.",
   "heroGradient": "linear-gradient(135deg, #3a2a5c 0%, #2D5016 100%)",
@@ -47,7 +47,7 @@
     {
       "title": "Le musée",
       "paragraphs": [
-        "Le Musée d'art contemporain de Baie-Saint-Paul (MACBSP) est la seule institution muséale dans l'est du Québec entièrement consacrée à l'art contemporain. Situé au cœur du quartier culturel de <a href=\"baie-saint-paul-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">Baie-Saint-Paul</a>, il occupe un bâtiment primé dessiné par l'architecte Pierre Thibault.",
+        "Le Musée d'art contemporain de Baie-Saint-Paul (MACBSP) est la seule institution muséale dans l'est du Québec entièrement consacrée à l'art contemporain. Situé au cœur du quartier culturel de <a href=\"/baie-saint-paul-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">Baie-Saint-Paul</a>, il occupe un bâtiment primé dessiné par l'architecte Pierre Thibault.",
         "Sa mission : faire connaître, promouvoir et conserver l'art contemporain québécois, tout en rapprochant le public des pratiques artistiques actuelles. Il présente autant des expositions d'artistes reconnus que de jeunes créateurs prometteurs."
       ]
     },
@@ -62,7 +62,7 @@
         {
           "icon": "🏛️",
           "title": "Collection permanente",
-          "description": "Une collection exceptionnelle héritée du <a href=\"symposium-peinture-charlevoix.html\" style=\"color: #2D5016; font-weight: 600;\">Symposium international</a>, témoignant du passage de plus de 400 artistes du monde entier."
+          "description": "Une collection exceptionnelle héritée du <a href=\"/symposium-peinture-charlevoix\" style=\"color: #2D5016; font-weight: 600;\">Symposium international</a>, témoignant du passage de plus de 400 artistes du monde entier."
         },
         {
           "icon": "👨‍👩‍👧‍👦",
@@ -131,5 +131,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-culture-charlevoix.html\">← Top 8 culture</a> · <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-culture-charlevoix\">← Top 8 culture</a> · <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

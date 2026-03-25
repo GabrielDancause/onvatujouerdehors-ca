@@ -1,7 +1,7 @@
 {
   "slug": "galeries-baie-saint-paul",
   "title": "Galeries d'art de Baie-Saint-Paul — Charlevoix, Québec",
-  "description": "Les galeries d'art de Baie-Saint-Paul, Charlevoix. Capitale artistique du Québec avec ses nombreuses galeries, ateliers d'artistes et le Musée d'art contemporain.",
+  "description": "Les galeries d'art de Baie-Saint-Paul, Charlevoix. Capitale artistique du Québec avec ses nombreuses galeries, ateliers d'artistes et le Musée d'art contempo...",
   "ogTitle": "Galeries d'art de Baie-Saint-Paul — Charlevoix",
   "ogDescription": "Capitale artistique du Québec. Galeries, ateliers et Musée d'art contemporain.",
   "heroGradient": "linear-gradient(135deg, #8b3a3a 0%, #2D5016 100%)",
@@ -93,5 +93,5 @@
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"auberge-de-nos-aieux-charlevoix.html\">← Auberge de nos Aïeux</a> · <a href=\"top-10-auberges-charlevoix-fr.html\">Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/auberge-de-nos-aieux-charlevoix\">← Auberge de nos Aïeux</a> · <a href=\"/top-10-auberges-charlevoix-fr\">Top 10</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

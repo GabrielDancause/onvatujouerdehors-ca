@@ -1,7 +1,7 @@
 {
   "slug": "camping-charlevoix",
   "title": "Camping dans Charlevoix — Parcs, terrains et prêt-à-camper | Québec",
-  "description": "Guide du camping dans Charlevoix. Parcs nationaux (Grands-Jardins, Hautes-Gorges), terrains privés, prêt-à-camper et camping sauvage. Toutes les options pour camper à Charlevoix.",
+  "description": "Guide du camping dans Charlevoix. Parcs nationaux (Grands-Jardins, Hautes-Gorges), terrains privés, prêt-à-camper et camping sauvage.",
   "ogTitle": "Camping dans Charlevoix — Guide complet",
   "ogDescription": "Camping dans Charlevoix : parcs nationaux, terrains privés, prêt-à-camper et plus.",
   "heroGradient": "linear-gradient(135deg, #3a6b4a 0%, #2D5016 100%)",
@@ -60,12 +60,12 @@
         {
           "icon": "🏔️",
           "title": "Parc des Hautes-Gorges",
-          "description": "Camping au cœur des gorges spectaculaires de la rivière Malbaie. Sites de tente, prêt-à-camper et camping rustique. Base idéale pour l'<a href=\"randonnee-charlevoix.html\">Acropole des Draveurs</a>."
+          "description": "Camping au cœur des gorges spectaculaires de la rivière Malbaie. Sites de tente, prêt-à-camper et camping rustique. Base idéale pour l'<a href=\"/randonnee-charlevoix\">Acropole des Draveurs</a>."
         },
         {
           "icon": "🦌",
           "title": "Parc des Grands-Jardins",
-          "description": "Camping en altitude dans la taïga boréale. Sites aménagés, chalets et refuges. Accessible depuis <a href=\"saint-urbain-charlevoix.html\">Saint-Urbain</a> via la route 381."
+          "description": "Camping en altitude dans la taïga boréale. Sites aménagés, chalets et refuges. Accessible depuis <a href=\"/saint-urbain-charlevoix\">Saint-Urbain</a> via la route 381."
         }
       ]
     },
@@ -111,10 +111,10 @@
         },
         {
           "title": "🏨 Autres options",
-          "content": "Voir aussi : <a href=\"chalets-charlevoix.html\">Chalets à Charlevoix</a> et <a href=\"top-10-auberges-charlevoix-fr.html\">Top 10 auberges</a> pour d'autres types d'hébergement."
+          "content": "Voir aussi : <a href=\"/chalets-charlevoix\">Chalets à Charlevoix</a> et <a href=\"/top-10-auberges-charlevoix-fr\">Top 10 auberges</a> pour d'autres types d'hébergement."
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">← Charlevoix</a> · <a href=\"randonnee-charlevoix.html\">Randonnée</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">← Charlevoix</a> · <a href=\"/randonnee-charlevoix\">Randonnée</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

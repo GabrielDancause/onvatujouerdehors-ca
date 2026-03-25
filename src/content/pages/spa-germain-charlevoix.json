@@ -1,7 +1,7 @@
 {
   "slug": "spa-germain-charlevoix",
   "title": "Spa Nordique Le Germain — Baie-Saint-Paul, Charlevoix, Québec",
-  "description": "Spa Nordique Le Germain à Baie-Saint-Paul. Bains chauds et froids, sauna finlandais, bain vapeur eucalyptus, fontaine de neige. Sur le site de l'Hôtel & Spa Le Germain Charlevoix.",
+  "description": "Spa Nordique Le Germain à Baie-Saint-Paul. Bains chauds et froids, sauna finlandais, bain vapeur eucalyptus, fontaine de neige.",
   "ogTitle": "Spa Nordique Le Germain — Baie-Saint-Paul, Charlevoix",
   "ogDescription": "Thermothérapie nordique, sauna finlandais et bains extérieurs à Baie-Saint-Paul.",
   "heroGradient": "linear-gradient(135deg, #3a6b8c 0%, #2D5016 100%)",
@@ -47,7 +47,7 @@
     {
       "title": "L'expérience",
       "paragraphs": [
-        "Situé sur le magnifique site de l'<a href=\"hotel-germain-charlevoix.html\" style=\"color:#2D5016;font-weight:600;\">Hôtel &amp; Spa Le Germain Charlevoix</a>, le Spa Nordique Le Germain offre un lieu de détente unique en pleine nature charlevoisienne. Le circuit de thermothérapie alterne bains chauds et froids en plein air, dans un cadre pastoral où paissent les vaches Highland de l'hôtel.",
+        "Situé sur le magnifique site de l'<a href=\"/hotel-germain-charlevoix\" style=\"color:#2D5016;font-weight:600;\">Hôtel &amp; Spa Le Germain Charlevoix</a>, le Spa Nordique Le Germain offre un lieu de détente unique en pleine nature charlevoisienne. Le circuit de thermothérapie alterne bains chauds et froids en plein air, dans un cadre pastoral où paissent les vaches Highland de l'hôtel.",
         "Le spa propose également des massages et des soins corporels en complément du circuit thermique. L'ensemble est conçu pour offrir une déconnexion totale, entre montagnes et fleuve."
       ]
     },
@@ -118,10 +118,10 @@
         },
         {
           "title": "🏨 Hôtel",
-          "content": "<a href=\"hotel-germain-charlevoix.html\">Hôtel &amp; Spa Le Germain</a><br>Clé MICHELIN 2025"
+          "content": "<a href=\"/hotel-germain-charlevoix\">Hôtel &amp; Spa Le Germain</a><br>Clé MICHELIN 2025"
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"top-10-spas-charlevoix.html\">← Top 5 spas</a> · <a href=\"charlevoix.html\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/top-10-spas-charlevoix\">← Top 5 spas</a> · <a href=\"/charlevoix\">Charlevoix</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

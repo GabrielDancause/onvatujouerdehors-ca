@@ -1,7 +1,7 @@
 {
   "slug": "le-festif-charlevoix",
   "title": "Le Festif! de Baie-Saint-Paul — Festival de musique, Charlevoix",
-  "description": "Le Festif! de Baie-Saint-Paul : festival de musique incontournable au Québec. Programmation éclectique, ambiance unique, arts du cirque et créativité dans les rues de Charlevoix.",
+  "description": "Le Festif! de Baie-Saint-Paul : festival de musique incontournable au Québec. Programmation éclectique, ambiance unique, arts du cirque et créativité dans le...",
   "ogTitle": "Le Festif! de Baie-Saint-Paul — Festival de musique",
   "ogDescription": "Festival de musique incontournable à Baie-Saint-Paul, Charlevoix. Depuis 2010, l'un des événements les plus rassembleurs du Québec.",
   "heroGradient": "linear-gradient(135deg, #8b2e6b 0%, #2D5016 100%)",
@@ -47,7 +47,7 @@
     {
       "title": "Le festival",
       "paragraphs": [
-        "Le Festif! de <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a> est un rassemblement incontournable de la scène musicale québécoise et internationale. Fondé en 2010 avec 2 000 spectateurs au Parc du Gouffre, le festival a connu une croissance fulgurante pour atteindre environ 52 000 participants en 2024.",
+        "Le Festif! de <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a> est un rassemblement incontournable de la scène musicale québécoise et internationale. Fondé en 2010 avec 2 000 spectateurs au Parc du Gouffre, le festival a connu une croissance fulgurante pour atteindre environ 52 000 participants en 2024.",
         "L'engagement local, l'éco-responsabilité, l'audace et la créativité — flirtant parfois avec la magie — sont devenus les marques de commerce du Festif!. L'événement se distingue par son intégration dans le centre-ville de Baie-Saint-Paul, ses spectacles surprises dans des lieux inusités, et un mélange de musique populaire et d'arts du cirque."
       ]
     },
@@ -118,7 +118,7 @@
         },
         {
           "title": "📍 Lieu",
-          "content": "Centre-ville de <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a>. Scènes multiples réparties dans la ville."
+          "content": "Centre-ville de <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a>. Scènes multiples réparties dans la ville."
         },
         {
           "title": "🌐 Site web",
@@ -126,10 +126,10 @@
         },
         {
           "title": "🏨 Hébergement",
-          "content": "Réservez tôt! Les hébergements se remplissent vite. <a href=\"chalets-charlevoix.html\">Chalets</a>, <a href=\"camping-charlevoix.html\">camping</a> et auberges dans la région."
+          "content": "Réservez tôt! Les hébergements se remplissent vite. <a href=\"/chalets-charlevoix\">Chalets</a>, <a href=\"/camping-charlevoix\">camping</a> et auberges dans la région."
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">← Charlevoix</a> · <a href=\"baie-saint-paul-charlevoix.html\">Baie-Saint-Paul</a> · <a href=\"top-10-activites-charlevoix.html\">Top 10 activités</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">← Charlevoix</a> · <a href=\"/baie-saint-paul-charlevoix\">Baie-Saint-Paul</a> · <a href=\"/top-10-activites-charlevoix\">Top 10 activités</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }

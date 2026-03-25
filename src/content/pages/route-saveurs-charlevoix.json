@@ -1,7 +1,7 @@
 {
   "slug": "route-saveurs-charlevoix",
   "title": "Route des Saveurs de Charlevoix — Circuit agrotouristique, Québec",
-  "description": "La Route des Saveurs de Charlevoix : premier circuit agrotouristique au Québec. Fromageries, fermes, cidreries et producteurs artisanaux entre fleuve et montagnes.",
+  "description": "La Route des Saveurs de Charlevoix : premier circuit agrotouristique au Québec. Fromageries, fermes, cidreries et producteurs artisanaux entre fleuve et mont...",
   "ogTitle": "Route des Saveurs de Charlevoix — Circuit agrotouristique",
   "ogDescription": "Premier circuit agrotouristique au Québec. Producteurs, artisans et terroir de Charlevoix.",
   "heroGradient": "linear-gradient(135deg, #6b8e23 0%, #2D5016 100%)",
@@ -57,39 +57,39 @@
         {
           "icon": "🧀",
           "title": "Fromageries",
-          "description": "<a href=\"laiterie-charlevoix.html\">Laiterie Charlevoix</a>, <a href=\"fromagerie-maurice-dufour-charlevoix.html\">Maurice Dufour</a> et <a href=\"famille-migneron-charlevoix.html\">Famille Migneron</a>. Les fromages fins qui ont fait la réputation de la région."
+          "description": "<a href=\"/laiterie-charlevoix\">Laiterie Charlevoix</a>, <a href=\"/fromagerie-maurice-dufour-charlevoix\">Maurice Dufour</a> et <a href=\"/famille-migneron-charlevoix\">Famille Migneron</a>. Les fromages fins qui ont fait la réputation de la région."
         },
         {
           "icon": "🍎",
           "title": "Cidreries et vignobles",
-          "description": "<a href=\"cidrerie-pedneault-charlevoix.html\">Vergers Pedneault</a> et les producteurs d'alcools artisanaux. Cidres de glace, mistelles et vins de table."
+          "description": "<a href=\"/cidrerie-pedneault-charlevoix\">Vergers Pedneault</a> et les producteurs d'alcools artisanaux. Cidres de glace, mistelles et vins de table."
         },
         {
           "icon": "🥩",
           "title": "Fermes et élevages",
-          "description": "<a href=\"ferme-eboulmontaise-charlevoix.html\">Ferme Éboulmontaise</a>, <a href=\"ferme-basque-charlevoix.html\">Ferme Basque</a>, <a href=\"viandes-bio-charlevoix.html\">Viandes Bio</a>. Élevage responsable et produits de qualité."
+          "description": "<a href=\"/ferme-eboulmontaise-charlevoix\">Ferme Éboulmontaise</a>, <a href=\"/ferme-basque-charlevoix\">Ferme Basque</a>, <a href=\"/viandes-bio-charlevoix\">Viandes Bio</a>. Élevage responsable et produits de qualité."
         },
         {
           "icon": "💜",
           "title": "Producteurs artisanaux",
-          "description": "<a href=\"lavande-azulee-charlevoix.html\">Lavande Azulée</a>, <a href=\"jardins-du-centre-charlevoix.html\">Jardins du Centre</a>, chocolateries et boulangeries. Des trésors cachés partout dans la région."
+          "description": "<a href=\"/lavande-azulee-charlevoix\">Lavande Azulée</a>, <a href=\"/jardins-du-centre-charlevoix\">Jardins du Centre</a>, chocolateries et boulangeries. Des trésors cachés partout dans la région."
         },
         {
           "icon": "🍺",
           "title": "Microbrasseries",
-          "description": "La <a href=\"microbrasseries-charlevoix.html\">MicroBrasserie Charlevoix</a> et Menaud Distillerie et Brasserie. Bières artisanales et spiritueux locaux."
+          "description": "La <a href=\"/microbrasseries-charlevoix\">MicroBrasserie Charlevoix</a> et Menaud Distillerie et Brasserie. Bières artisanales et spiritueux locaux."
         },
         {
           "icon": "🍽️",
           "title": "Restaurants du terroir",
-          "description": "<a href=\"les-labours-charlevoix.html\">Les Labours</a>, <a href=\"mouton-noir-charlevoix.html\">Le Mouton Noir</a>, <a href=\"restaurant-epicentre-charlevoix.html\">L'Épicentre</a>. La cuisine charlevoisienne du champ à l'assiette."
+          "description": "<a href=\"/les-labours-charlevoix\">Les Labours</a>, <a href=\"/mouton-noir-charlevoix\">Le Mouton Noir</a>, <a href=\"/restaurant-epicentre-charlevoix\">L'Épicentre</a>. La cuisine charlevoisienne du champ à l'assiette."
         }
       ]
     },
     {
       "title": "Pourquoi la Route des Saveurs est unique",
       "paragraphs": [
-        "Charlevoix a été désignée <a href=\"reserve-biosphere-charlevoix.html\" style=\"color:#2D5016;font-weight:600;\">Réserve mondiale de la biosphère par l'UNESCO</a>, et ce territoire exceptionnel se reflète directement dans ses produits. Le microclimat de la vallée du Gouffre, les sols riches et la proximité du fleuve Saint-Laurent créent des conditions uniques pour l'agriculture et l'élevage.",
+        "Charlevoix a été désignée <a href=\"/reserve-biosphere-charlevoix\" style=\"color:#2D5016;font-weight:600;\">Réserve mondiale de la biosphère par l'UNESCO</a>, et ce territoire exceptionnel se reflète directement dans ses produits. Le microclimat de la vallée du Gouffre, les sols riches et la proximité du fleuve Saint-Laurent créent des conditions uniques pour l'agriculture et l'élevage.",
         "La Route des Saveurs n'est pas un itinéraire figé — c'est une invitation à explorer la région à votre rythme. Certains membres ouvrent leurs portes à l'année, d'autres sont saisonniers. La beauté du circuit, c'est qu'il change avec les saisons : cabane à sucre au printemps, marchés en été, récoltes d'automne, plaisirs d'hiver."
       ]
     },
@@ -106,14 +106,14 @@
         },
         {
           "title": "🚗 Comment s'y rendre",
-          "content": "Les arrêts sont répartis sur tout le territoire de Charlevoix, de <a href=\"petite-riviere-saint-francois-charlevoix.html\">Petite-Rivière</a> à <a href=\"la-malbaie-charlevoix.html\">La Malbaie</a>."
+          "content": "Les arrêts sont répartis sur tout le territoire de Charlevoix, de <a href=\"/petite-riviere-saint-francois-charlevoix\">Petite-Rivière</a> à <a href=\"/la-malbaie-charlevoix\">La Malbaie</a>."
         },
         {
           "title": "🗺️ À combiner avec",
-          "content": "<a href=\"route-fleuve-charlevoix.html\">Route du Fleuve (362)</a> · <a href=\"route-arts-charlevoix.html\">Route des Arts</a> · <a href=\"foire-terroirs-charlevoix.html\">Foire des Terroirs</a>"
+          "content": "<a href=\"/route-fleuve-charlevoix\">Route du Fleuve (362)</a> · <a href=\"/route-arts-charlevoix\">Route des Arts</a> · <a href=\"/foire-terroirs-charlevoix\">Foire des Terroirs</a>"
         }
       ]
     }
   ],
-  "footer": "Dernière mise à jour : mars 2026 · <a href=\"charlevoix.html\">← Charlevoix</a> · <a href=\"top-10-fermes-charlevoix.html\">Top 10 fermes</a> · <a href=\"top-10-restaurants-charlevoix.html\">Top 10 restaurants</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
+  "footer": "Dernière mise à jour : mars 2026 · <a href=\"/charlevoix\">← Charlevoix</a> · <a href=\"/top-10-fermes-charlevoix\">Top 10 fermes</a> · <a href=\"/top-10-restaurants-charlevoix\">Top 10 restaurants</a> · <a href=\"/\">onvatujouerdehors.ca</a>"
 }
